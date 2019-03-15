@@ -19,8 +19,7 @@
  
  지도교수님 : 이재구 교수님
  - 박지훈(팀장)
- <img src="/image/Jihoon.jpg" width="200px" height="auto">
- 
+ ![team](./img/Jihoon.jpg)
  ```
  * 학번: 20133226
  * 역할: 웹 개발 및 네트워크 통신 구축
