@@ -22,7 +22,8 @@
   - 이재구 교수님
  
 #### 팀원
- - 박지훈(팀장)
+ 
+- 박지훈(팀장)
  ![team](./image/Jihoon.jpg)
  
  ```
@@ -31,7 +32,7 @@
  * E-mail: hoonzinope@kookmin.ac.kr
  ```
  
- - 고준규
+- 고준규
  
  ![team](./image/Joonkyu.jpg)
  
@@ -41,7 +42,7 @@
  * E-mail: rhwnsrb94@gmail.com
  ```
  
- - 공병민
+- 공병민
  
  ![team](./image/Byungmin.jpg)
  
@@ -51,7 +52,7 @@
  * E-mail: gongbyeongmin@gmail.com
  ```
  
- - 최창규
+- 최창규
  
  ![team](./image/Changgyu.jpg)
  ```
@@ -60,7 +61,7 @@
  * E-mail: uppletaste@gmail.com
  ```
  
- - 박귀환
+- 박귀환
  
  ![team](./image/Gwihwan.jpg)
 
@@ -70,7 +71,7 @@
  * E-mail: pgh224@naver.com
  ```
  
- - 오석현
+- 오석현
  
  ![team](./image/Seokhyun.jpg)
  ```
