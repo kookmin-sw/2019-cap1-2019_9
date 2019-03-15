@@ -72,7 +72,7 @@
 
 ### 3. 소개 영상
 
-- 수행계획 영상 -
+- 수행계획 영상
  
 [![image](./image/first.jpg)](https://youtu.be/bW6hij2PoGA)
  
