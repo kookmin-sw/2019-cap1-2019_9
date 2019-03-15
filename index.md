@@ -72,9 +72,9 @@
 
 ### 3. 소개 영상
 
- <!-- - 수행계획 영상 -->
+- 수행계획 영상 -
  
- <!-- [![image](image/수행계획Thumbnail.jpg)](https://youtu.be/QvpxCjbw0fk) -->
+[![image](image/first.jpg)](https://youtu.be/bW6hij2PoGA)
  
  <!-- - 중간결과 시연영상
  
