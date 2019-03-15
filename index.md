@@ -27,7 +27,7 @@
  ```
  
  - 고준규
- <img src="/image/Joonkyu.jpg" width="200px" height="auto">
+ ![team](./image/Joonkyu.jpg)
  
   ```
  * 학번: 20133191
@@ -36,7 +36,7 @@
  ```
  
  - 공병민
- <img src="/image/Byungmin.jpg" width="200px" height="auto">
+ ![team](./image/Byungmin.jpg)
  
  ```
  * 학번: 20143029
@@ -45,8 +45,7 @@
  ```
  
  - 최창규
- <img src="/image/Changgyu.jpg" width="200px" height="auto">
-
+ ![team](./image/Changgyu.jpg)
  ```
  * 학번: 20143110
  * 역할: 화상통화 백엔드 서버 개발
@@ -54,7 +53,7 @@
  ```
  
  - 박귀환
- <img src="/image/Gwihwan.jpg" width="200px" height="auto">
+ ![team](./image/Gwihwan.jpg)
 
  ```
  * 학번: 20132872
@@ -63,7 +62,7 @@
  ```
  
  - 오석현
- <img src="/image/Seokhyun.jpg" width="200px" height="auto">
+ ![team](./image/Seokhyun.jpg)
 
  ```
  * 학번: 20130671
