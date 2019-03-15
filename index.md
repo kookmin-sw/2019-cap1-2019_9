@@ -27,6 +27,7 @@
  ```
  
  - 고준규
+ 
  ![team](./image/Joonkyu.jpg)
  
   ```
@@ -36,6 +37,7 @@
  ```
  
  - 공병민
+ 
  ![team](./image/Byungmin.jpg)
  
  ```
@@ -45,6 +47,7 @@
  ```
  
  - 최창규
+ 
  ![team](./image/Changgyu.jpg)
  ```
  * 학번: 20143110
@@ -53,6 +56,7 @@
  ```
  
  - 박귀환
+ 
  ![team](./image/Gwihwan.jpg)
 
  ```
@@ -62,6 +66,7 @@
  ```
  
  - 오석현
+ 
  ![team](./image/Seokhyun.jpg)
  ```
  * 학번: 20130671
