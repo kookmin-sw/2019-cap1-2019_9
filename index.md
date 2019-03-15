@@ -19,7 +19,7 @@
  
  지도교수님 : 이재구 교수님
  - 박지훈(팀장)
- ![team](./image/Jihoon.jpg){: width="200" height="200"}
+ ![team](./image/Jihoon.jpg)
  ```
  * 학번: 20133226
  * 역할: 웹 개발 및 네트워크 통신 구축
@@ -27,7 +27,7 @@
  ```
  
  - 고준규
- ![team](./image/Joonkyu.jpg){: width="200" height="200"}
+ ![team](./image/Joonkyu.jpg)
  
   ```
  * 학번: 20133191
@@ -36,7 +36,7 @@
  ```
  
  - 공병민
- ![team](./image/Byungmin.jpg){: width="200" height="200"}
+ ![team](./image/Byungmin.jpg)
  
  ```
  * 학번: 20143029
@@ -45,7 +45,7 @@
  ```
  
  - 최창규
- ![team](./image/Changgyu.jpg){: width="200" height="200"}
+ ![team](./image/Changgyu.jpg)
  ```
  * 학번: 20143110
  * 역할: 화상통화 백엔드 서버 개발
@@ -53,7 +53,7 @@
  ```
  
  - 박귀환
- ![team](./image/Gwihwan.jpg){: width="200" height="200"}
+ ![team](./image/Gwihwan.jpg)
 
  ```
  * 학번: 20132872
@@ -62,8 +62,7 @@
  ```
  
  - 오석현
- ![team](./image/Seokhyun.jpg){: width="200" height="200"}
-
+ ![team](./image/Seokhyun.jpg)
  ```
  * 학번: 20130671
  * 역할: 웹 개발 & 유저 인터페이스 구현
