@@ -32,6 +32,7 @@
  * E-mail: hoonzinope@kookmin.ac.kr
  ```
  
+ 
 - 고준규
  
  ![team](./image/Joonkyu.jpg)
@@ -41,6 +42,7 @@
  * 역할: 번역 서버 개발(Translate 환경)
  * E-mail: rhwnsrb94@gmail.com
  ```
+ 
  
 - 공병민
  
@@ -52,6 +54,7 @@
  * E-mail: gongbyeongmin@gmail.com
  ```
  
+ 
 - 최창규
  
  ![team](./image/Changgyu.jpg)
@@ -60,6 +63,7 @@
  * 역할: 화상통화 백엔드 서버 개발
  * E-mail: uppletaste@gmail.com
  ```
+ 
  
 - 박귀환
  
@@ -70,6 +74,7 @@
  * 역할: 번역서버 개발 & 최적화
  * E-mail: pgh224@naver.com
  ```
+ 
  
 - 오석현
  
