@@ -32,9 +32,9 @@
  <!-- <img src="/image/moonsang.jpg" width="200px" height="auto"> -->
  
  ```
- * 학번: 20123075
+ * 학번: 20143029
  * 역할: 번역서버 개발(Speech To Text 환경)
- * E-mail: anstkd07@gmail.com
+ * E-mail: gongbyeongmin@gmail.com
  ```
  
  - 최창규
