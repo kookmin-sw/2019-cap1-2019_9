@@ -74,7 +74,7 @@
 
 - 수행계획 영상 -
  
-[![image](image/first.jpg)](https://youtu.be/bW6hij2PoGA)
+[![image](./image/first.jpg)](https://youtu.be/bW6hij2PoGA)
  
  <!-- - 중간결과 시연영상
  
