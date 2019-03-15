@@ -76,7 +76,7 @@
  
 [![image](./image/first.jpg)](https://youtu.be/bW6hij2PoGA)
  
- <!-- - 중간결과 시연영상
+ <!-- - 중간결과 시연영상 -->
  
  <!-- [![image](image/중간시연영상Thumbnail.png)](https://youtu.be/150V6K1kyL8) -->
 
