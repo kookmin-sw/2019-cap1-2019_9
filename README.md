@@ -11,16 +11,16 @@
  
  지도교수님 : 이재구 교수님
  - 박지훈(팀장)
- <!-- <img src="/image/hohyun.jpg" width="200px" height="auto"> -->
+ <img src="/image/Jihoon.jpg" width="200px" height="auto">
  
  ```
- * 학번: 20132872
+ * 학번: 20133226
  * 역할: 웹 개발 및 네트워크 통신 구축
  * E-mail: hoonzinope@kookmin.ac.kr
  ```
  
  - 고준규
- <!-- <img src="/image/wondae.jpg" width="200px" height="auto"> -->
+ <img src="/image/Joonkyu.jpg" width="200px" height="auto">
  
   ```
  * 학번: 20133191
@@ -29,7 +29,7 @@
  ```
  
  - 공병민
- <!-- <img src="/image/moonsang.jpg" width="200px" height="auto"> -->
+ <img src="/image/Byungmin.jpg" width="200px" height="auto">
  
  ```
  * 학번: 20143029
@@ -38,7 +38,7 @@
  ```
  
  - 최창규
- <!-- <img src="/image/geunha.jpg" width="200px" height="auto"> -->
+ <img src="/image/Changgyu.jpg" width="200px" height="auto">
 
  ```
  * 학번: 20143110
@@ -47,7 +47,7 @@
  ```
  
  - 박귀환
- <!-- <img src="/image/geunha.jpg" width="200px" height="auto"> -->
+ <img src="/image/Gwihwan.jpg" width="200px" height="auto">
 
  ```
  * 학번: 20132872
@@ -56,7 +56,7 @@
  ```
  
  - 오석현
- <!-- <img src="/image/geunha.jpg" width="200px" height="auto"> -->
+ <img src="/image/Seokhyun.jpg" width="200px" height="auto">
 
  ```
  * 학번: 20130671
@@ -67,14 +67,14 @@
 
 ### 3. 소개 영상
 
- - 수행계획 영상
+ <!-- - 수행계획 영상 -->
  
  <!-- [![image](image/수행계획Thumbnail.jpg)](https://youtu.be/QvpxCjbw0fk) -->
  
  <!-- - 중간결과 시연영상
  
- [![image](image/중간시연영상Thumbnail.png)](https://youtu.be/150V6K1kyL8)
+ <!-- [![image](image/중간시연영상Thumbnail.png)](https://youtu.be/150V6K1kyL8) -->
 
-### 5. 결과 영상
+<!-- ### 5. 결과 영상 -->
 
-[![image](image/최종발표thumbnail.png)](https://youtu.be/QCD2_aA7SQw) -->
+<!-- [![image](image/최종발표thumbnail.png)](https://youtu.be/QCD2_aA7SQw) -->

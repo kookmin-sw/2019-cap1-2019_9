@@ -14,7 +14,7 @@
  <img src="/image/Jihoon.jpg" width="200px" height="auto">
  
  ```
- * 학번: 20132872
+ * 학번: 20133226
  * 역할: 웹 개발 및 네트워크 통신 구축
  * E-mail: hoonzinope@kookmin.ac.kr
  ```
@@ -56,7 +56,7 @@
  ```
  
  - 오석현
- <img src="/image/geunha.jpg" width="200px" height="auto">
+ <img src="/image/Seokhyun.jpg" width="200px" height="auto">
 
  ```
  * 학번: 20130671
