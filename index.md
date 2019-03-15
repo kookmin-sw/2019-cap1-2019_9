@@ -5,20 +5,23 @@
 
 실시간 번역 시스템의 추진 배경으로는 글로벌 시대로 나아가고 있는 요즘 국가, 언어, 인종에 상관없이 다양한 인간관계를 형성하고 다국적 기업들의 성장이 두드러지는 현대 사회에 맞춰 서로의 언어가 달라도 의사소통을 원활하게 할 필요성을 느꼈고 이로 인해 실시간 번역 시스템을 추진하게 되었습니다.
 
-### 2. 팀 소개
- 저희 팀은 이재구 교수님과 6명의 학부생으로 구성되어 있습니다.
- 
- 
- 
-
-### Abstract
+### 2. Abstract
 
  The driving force behind the real-time translation system is the need to facilitate communication even if each other's languages differ depending on the modern society, where people are forming diverse relationships regardless of country, language or race, and multinational companies are growing, and this is why we are promoting the real-time translation system.
  
+### 3. 소개 영상
+
+- 수행계획 영상
  
+[![image](./image/first.jpg)](https://youtu.be/bW6hij2PoGA)
+  
+### 4. 팀 소개
+ 저희 팀은 이재구 교수님과 6명의 학부생으로 구성되어 있습니다.
  
- 지도교수님 : 이재구 교수님
+ ## Professor
+  - 이재구 교수님
  
+ ## 팀원
  - 박지훈(팀장)
  ![team](./image/Jihoon.jpg)
  
@@ -76,12 +79,13 @@
  * E-mail: sho1007@kookmin.ac.kr
  ```
 
+### 5. 사용법
 
-### 3. 소개 영상
+- 추후 추가 예정
 
-- 수행계획 영상
- 
-[![image](./image/first.jpg)](https://youtu.be/bW6hij2PoGA)
+### 6. 기타
+
+- 추후 추가 예정
  
  <!-- - 중간결과 시연영상 -->
  
