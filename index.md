@@ -33,7 +33,7 @@
  * E-mail: hoonzinope@kookmin.ac.kr
  ```
  
- 
+<br> 
 - 고준규
  
  ![team](./image/Joonkyu.jpg)
