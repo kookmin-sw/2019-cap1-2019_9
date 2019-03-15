@@ -44,7 +44,7 @@
  * E-mail: rhwnsrb94@gmail.com
  ```
  
-   
+<br>    
 - 공병민
  
  ![team](./image/Byungmin.jpg)
@@ -65,7 +65,7 @@
  * E-mail: uppletaste@gmail.com
  ```
  
- 
+<br>  
 - 박귀환
  
  ![team](./image/Gwihwan.jpg)
@@ -76,7 +76,7 @@
  * E-mail: pgh224@naver.com
  ```
  
- 
+<br>  
 - 오석현
  
  ![team](./image/Seokhyun.jpg)
