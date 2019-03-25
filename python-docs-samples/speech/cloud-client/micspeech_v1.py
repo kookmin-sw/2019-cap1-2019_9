@@ -10,6 +10,10 @@ import pyaudio
 from six.moves import queue
 from threading import Thread
 import time
+from google.cloud import translate
+import sys
+import imp
+imp.reload(sys)
 
 
 # Audio recording parameters
@@ -89,6 +93,9 @@ class speech_v1(Thread):
 
         self._buff = queue.Queue()
 
+        self.translate_client = translate.Client()
+        self.target =  ['en', 'ja', 'es']
+
         self.client = speech.SpeechClient()
         self.config = types.RecognitionConfig(
             encoding=enums.RecognitionConfig.AudioEncoding.LINEAR16,
@@ -157,17 +164,20 @@ class speech_v1(Thread):
                 transcript = result.alternatives[0].transcript
                 overwrite_chars = ' ' * (num_chars_printed - len(transcript))
 
-                if not result.is_final:
+                # if not result.is_final:
                     
-                    # sys.stdout.write(transcript + overwrite_chars + '\r')
-                    # sys.stdout.flush()
+                #     # sys.stdout.write(transcript + overwrite_chars + '\r')
+                #     # sys.stdout.flush()
                    
-                    num_chars_printed = len(transcript)
-                else:
+                #     num_chars_printed = len(transcript)
+                if result.is_final:
                   
-                   
-                    self._buff.put(transcript+overwrite_chars)
-                    num_chars_printed = 0
+                    for i in self.target:
+                        translation = self.translate_client.translate(transcript,target_language=i)
+
+                        translated = translation['translatedText']
+                        self._buff.put(translated)
+                        # num_chars_printed = 0
 
         except:
             return
