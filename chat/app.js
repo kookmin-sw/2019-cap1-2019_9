@@ -5,16 +5,22 @@ const cookieParser = require('cookie-parser');
 const session = require('express-session');
 const flash = require('connect-flash');
 const ColorHash = require('color-hash');
+const helmet = require('helmet');
+const hpp = require('hpp');
 require('dotenv').config();
+const logger = require('./logger');
 
 const webSocket = require('./socket');
 const indexRouter = require('./routes');
 const connect = require('./schemas');
 
+
 const app = express();
 connect();
 
-const sessionMiddleware = session({
+
+
+const sessionMiddleware = {
   resave: false,
   saveUninitialized: false,
   secret: process.env.COOKIE_SECRET,
@@ -22,26 +28,31 @@ const sessionMiddleware = session({
     httpOnly: true,
     secure: false,
   },
-});
+};
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 app.set('port', process.env.PORT || 8005);
-let datastr = null;
-  const translate_file_path = "/home/koko/Desktop/python-docs-samples/speech/cloud-client/mic_test_v1.py"
-  const spawn = require("child_process").spawn;
-  const pythonProcess = spawn("python", [translate_file_path]);
-  pythonProcess.stdout.on('data', (data) => {
-    datastr = data.toString();
-  });
 
-app.use(morgan('dev'));
+if(process.env.NODE_ENV === 'production'){
+  app.use(morgan('combined'));
+  app.use(helmet());
+  app.use(hpp());
+} else{
+  app.use(morgan('dev'));
+}
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/gif', express.static(path.join(__dirname, 'uploads')));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser(process.env.COOKIE_SECRET));
-app.use(sessionMiddleware);
+if(process.env.NODE_ENV === 'production'){
+  sessionMiddleware.proxy = true;
+  sessionMiddleware.cookie.secure = true;
+}else{
+  app.use(session(sessionMiddleware));
+}
+
 app.use(flash());
 
 app.use((req, res, next) => {
@@ -67,8 +78,12 @@ app.use((err, req, res, next) => {
   res.render('error');
 });
 
+
+
+
+
 const server = app.listen(app.get('port'), () => {
   console.log(app.get('port'), '번 포트에서 대기중');
 });
 
-webSocket(server, app, sessionMiddleware);
+webSocket(server, app, session(sessionMiddleware));

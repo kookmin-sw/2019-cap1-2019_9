@@ -15,9 +15,9 @@ module.exports = (server, app, sessionMiddleware) => {
   });
 
   let datastr = null;
-  const translate_file_path = "/home/koko/Desktop/python-docs-samples/speech/cloud-client/mic_test_v1.py"
-  const spawn = require("child_process").spawn;
-  const pythonProcess = spawn("python", [translate_file_path]);
+ 
+
+  
 
   room.on('connection', (socket) => {
     console.log('room 네임스페이스에 접속');
@@ -34,19 +34,26 @@ module.exports = (server, app, sessionMiddleware) => {
       .split('/')[referer.split('/').length - 1]
       .replace(/\?.+/, '');
       socket.join(roomId);
-    
 
-
-
+      const translate_file_path = "/home/koko/Desktop/python-docs-samples/speech/cloud-client/mic_test_v1.py"
+      const spawn = require("child_process").spawn;
+      const pythonProcess = spawn("python", [translate_file_path]);
       pythonProcess.stdout.on('data', (data) => {
         datastr = data.toString();
+        socket.interval = setInterval(()=>{
         if(datastr && req.session.color){
-        socket.to(roomId).emit('chat', {
-          user: req.session.color,
-          chat: datastr,
-        });
-      }
+          socket.to(roomId).emit('chat', {
+            user: req.session.color,
+            chat: datastr,
+          });
+          datastr =null;
+        };
+        },2000);
       });
+    
+    
+
+      
 
 
     socket.on('disconnect', () => {
@@ -55,7 +62,7 @@ module.exports = (server, app, sessionMiddleware) => {
       const currentRoom = socket.adapter.rooms[roomId];
       const userCount = currentRoom ? currentRoom.length : 0;
       if (userCount === 0) {
-        axios.delete(`http://localhost:8888/room/${roomId}`)
+        axios.delete(`http://localhost:8889/room/${roomId}`)
           .then(() => {
             console.log('방 제거 성공');
           })

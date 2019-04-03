@@ -8,7 +8,7 @@ module.exports = () => {
     if (NODE_ENV !== 'production') {
       mongoose.set('debug', true);
     }
-    mongoose.connect(MONGO_URL, {
+    mongoose.connect(MONGO_URL,  {
       dbName: 'speechchat',
     }, (error) => {
       if (error) {
