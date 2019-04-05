@@ -1,55 +1,89 @@
-const app = require('express')();
-const http = require('http').createServer(app);
-const io = require('socket.io')(http);
-const utf8 = require('utf8');
+const express = require('express');
+const path = require('path');
+const morgan = require('morgan');
+const cookieParser = require('cookie-parser');
+const session = require('express-session');
+const flash = require('connect-flash');
+const ColorHash = require('color-hash');
+const helmet = require('helmet');
+const hpp = require('hpp');
+require('dotenv').config();
+const logger = require('./logger');
 
-app.set('view engine', 'ejs');
-app.set('views', './views');
+const webSocket = require('./socket');
+const indexRouter = require('./routes');
+const connect = require('./schemas');
 
-let room = ['room1', 'room2'];
-let a = 0;
-let data = '';
-const translate_file_path = "C:\\Users\\ChoiChangGyu\\Desktop\\2019-cap1-2019_9\\chat\\mic_test_v2.py"
-const spawn = require("child_process").spawn;
-const pythonProcess = spawn("python", [translate_file_path]);
 
-str = pythonProcess.stdout.on('data', (data) => {
-  data = data.toString();
-  console.log(data);
-  io.to(room[0]).emit('chat message', 1, data);
+const app = express();
+connect();
+
+
+
+const sessionMiddleware = {
+  resave: false,
+  saveUninitialized: false,
+  secret: process.env.COOKIE_SECRET,
+  cookie: {
+    httpOnly: true,
+    secure: false,
+  },
+};
+
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'pug');
+app.set('port', process.env.PORT || 8005);
+
+if(process.env.NODE_ENV === 'production'){
+  app.use(morgan('combined'));
+  app.use(helmet());
+  app.use(hpp());
+} else{
+  app.use(morgan('dev'));
+}
+app.use(express.static(path.join(__dirname, 'public')));
+app.use('/gif', express.static(path.join(__dirname, 'uploads')));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser(process.env.COOKIE_SECRET));
+if(process.env.NODE_ENV === 'production'){
+  sessionMiddleware.proxy = true;
+  sessionMiddleware.cookie.secure = true;
+}
+app.use(session(sessionMiddleware));
+
+
+app.use(flash());
+
+app.use((req, res, next) => {
+  if (!req.session.color) {
+    const colorHash = new ColorHash();
+    req.session.color = colorHash.hex(req.sessionID);
+  }
+  next();
 });
 
-app.get('/', (req, res) => {
-  res.render('chat');
+app.use('/', indexRouter);
+
+app.use((req, res, next) => {
+  const err = new Error('Not Found');
+  err.status = 404;
+  next(err);
 });
 
-io.on('connection', (socket) => {
-  socket.on('disconnect', () => {
-    console.log('user disconnected');
-  });
-
-
-  socket.on('leaveRoom', (num, name) => {
-    socket.leave(room[num], () => {
-      console.log(name + ' leave a ' + room[num]);
-      io.to(room[num]).emit('leaveRoom', num, name);
-    });
-  });
-
-
-  socket.on('joinRoom', (num, name) => {
-    socket.join(room[num], () => {
-      console.log(name + ' join a ' + room[num]);
-      io.to(room[num]).emit('joinRoom', num, name);
-    });
-  });
-
-
-  socket.on('chat message', (num, name, msg) => {
-    io.to(room[num]).emit('chat message', name, msg);
-  });
+app.use((err, req, res, next) => {
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
+  res.status(err.status || 500);
+  res.render('error');
 });
 
-http.listen(3000, () => {
-  console.log('Connected at 3000');
+
+
+
+
+const server = app.listen(app.get('port'), () => {
+  console.log(app.get('port'), '번 포트에서 대기중');
 });
+
+webSocket(server, app, session(sessionMiddleware));
