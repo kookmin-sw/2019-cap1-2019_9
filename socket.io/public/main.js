@@ -53,7 +53,9 @@ $(function() {
 
   // Sends a chat message
   const sendMessage = () => {
-    var message = $inputMessage.val();
+    var message = document.getElementById('secret').textContent;
+    
+    console.log(message);
     // Prevent markup from being injected into the message
     message = cleanInput(message);
     // if there is a non-empty message and a socket connection
@@ -197,6 +199,7 @@ $(function() {
     }
     // When the client hits ENTER on their keyboard
     if (event.which === 13) {
+      console.log(event.witch);
       if (username) {
         sendMessage();
         socket.emit('stop typing');
