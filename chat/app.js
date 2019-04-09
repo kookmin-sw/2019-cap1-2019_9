@@ -8,7 +8,10 @@ const ColorHash = require('color-hash');
 const helmet = require('helmet');
 const hpp = require('hpp');
 require('dotenv').config();
-const logger = require('./logger');
+// const logger = require('./logger');
+const fs = require('fs');
+process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
+const https = require('https');
 
 const webSocket = require('./socket');
 const indexRouter = require('./routes');
@@ -18,6 +21,10 @@ const connect = require('./schemas');
 const app = express();
 connect();
 
+const options = {  
+  key: fs.readFileSync('key.pem'),
+  cert: fs.readFileSync('cert.pem')
+};
 
 
 const sessionMiddleware = {
@@ -32,12 +39,12 @@ const sessionMiddleware = {
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
-app.set('port', process.env.PORT || 8005);
+app.set('port', process.env.PORT2 || 8005);
 
 if(process.env.NODE_ENV === 'production'){
   app.use(morgan('combined'));
-  app.use(helmet());
-  app.use(hpp());
+  // app.use(helmet());
+  // app.use(hpp());
 } else{
   app.use(morgan('dev'));
 }
@@ -82,7 +89,7 @@ app.use((err, req, res, next) => {
 
 
 
-const server = app.listen(app.get('port'), () => {
+const server = https.createServer(options, app).listen(app.get('port'), () => {
   console.log(app.get('port'), '번 포트에서 대기중');
 });
 

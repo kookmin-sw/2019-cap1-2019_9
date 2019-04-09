@@ -44,7 +44,7 @@ module.exports = (server, app, sessionMiddleware) => {
       const currentRoom = socket.adapter.rooms[roomId];
       const userCount = currentRoom ? currentRoom.length : 0;
       if (userCount === 0) {
-        axios.delete(`http://localhost:8887/room/${roomId}`)
+        axios.delete(`https://localhost:443/room/${roomId}`)
           .then(() => {
             console.log('방 제거 성공');
           })

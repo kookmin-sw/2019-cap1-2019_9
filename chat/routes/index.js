@@ -5,6 +5,17 @@ const fs = require('fs');
 
 const Room = require('../schemas/room');
 const Chat = require('../schemas/chat');
+const projectId = 'propane-will-234405';
+const keyFilename = '/home/koko/Downloads/speechkey.json';
+
+const {Translate} = require('@google-cloud/translate');
+// Creates a client
+const translate = new Translate({
+  projectId,
+  keyFilename, 
+});
+
+
 
 const router = express.Router();
 
@@ -85,11 +96,23 @@ router.delete('/room/:id', async (req, res, next) => {
 });
 
 router.post('/room/:id/chat', async (req, res, next) => {
-  try {
-    const chat = new Chat({
+
+  const target ='en';
+  let text =req.body.chat;
+  let chats = req.body.chat;
+  
+    chats+='                  '+target + ':  ';
+    let [translations] = await translate.translate(text, target);
+    translations = Array.isArray(translations) ? translations : [translations];
+    translations.forEach((translation, index) => {
+    chats+=translation;
+    });
+
+   try {
+    const chat = await new Chat({
       room: req.params.id,
       user: req.session.color,
-      chat: req.body.chat,
+      chat: chats,
     });
     await chat.save();
     req.app.get('io').of('/chat').to(req.params.id).emit('chat', chat);
