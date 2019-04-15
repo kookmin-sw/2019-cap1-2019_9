@@ -2,7 +2,7 @@ extends layout
 
 block content
   h1= title
-  a#exit-btn(href='/main') 방 나가기
+  a#exit-btn(href='/') 방 나가기
   fieldset
     legend 채팅 내용
     #chat-list
@@ -32,7 +32,7 @@ block content
   script(src='/socket.io/socket.io.js')
   script(src='/annyang.js')
   script.
-    var socket = io.connect('https://localhost:443/chat', {
+    var socket = io.connect('http://localhost:3000/chat', {
       path: '/socket.io'
     });
       annyang.start({ autoRestart: false, continuous: true })
@@ -89,9 +89,8 @@ block content
       } else {
         div.classList.add('other');
       }
-      console.log(data);
       var name = document.createElement('div');
-      name.textContent = data.id;
+      name.textContent = data.user;
       div.appendChild(name);
       if (data.chat) {
         var chat = document.createElement('div');

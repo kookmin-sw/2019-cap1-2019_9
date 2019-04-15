@@ -5,44 +5,21 @@ const fs = require('fs');
 
 const Room = require('../schemas/room');
 const Chat = require('../schemas/chat');
-const User = require('../schemas/user');
+const projectId = 'propane-will-234405';
+const keyFilename = '/home/koko/Downloads/speechkey.json';
+
 const {Translate} = require('@google-cloud/translate');
 // Creates a client
-
+const translate = new Translate({
+  projectId,
+  keyFilename, 
+});
 
 
 
 const router = express.Router();
 
 router.get('/', async (req, res, next) => {
-  try {
-    res.render('login', {title: '로그인', error: req.flash('loginError')});
-  } catch (error) {
-    console.error(error);
-    next(error);
-  }
-})
-
-router.post('/main', async (req, res, next) => {
-  try {
-    if(req.body.userid=='') {
-      req.flash('loginError', '아이디를 입력해주세요.');
-      return res.redirect('/');
-    }
-      // io.of('/room').emit('newRoom', newRoom);
-      const user = new User({
-        user: req.session.color,
-        id: req.body.userid,
-        lang: req.body.lang,
-      });
-      user.save();
-      res.redirect(`/main`);
-  } catch (error) {
-    console.error(error);
-    next(error);
-  }
-});
-router.get('/main', async (req, res, next) => {
   try {
     const rooms = await Room.find({});
     res.render('main', { rooms, title: 'GIF 채팅방', error: req.flash('roomError') });
@@ -118,53 +95,33 @@ router.delete('/room/:id', async (req, res, next) => {
   }
 });
 
-
-
-let translations = async function processtrans(array, text) {
-
-  // Creates a client
-  const translate = new Translate();
-
-  let str = '';
-  for (const target of array) {
-    str += '('+target+')'+'        ';
-    let [translations] = await translate.translate(text, target);
-    translations = Array.isArray(translations) ? translations : [translations];
-    str += translations + '        ';
-  }
-  return str;
-}
-
-
 router.post('/room/:id/chat', async (req, res, next) => {
 
-  user = await User.findOne({user: req.session.color});
-  console.log(user.id);
-  const targets = ['ko', 'ja', 'en'];
-  let chats = req.body.chat +'     ';
-  translations(targets, req.body.chat).then(function (result) {
-    try {
-      chats+=result;
-      const chat = new Chat({
-        room: req.params.id,
-        user: req.session.color,
-        id: user.id,
-        lang: user.lang,
-        chat: chats,
-      });
-      chat.save();
-      req.app.get('io').of('/chat').to(req.params.id).emit('chat', chat);
-      res.send('ok');
-    } catch (error) {
-      console.error(error);
-      next(error);
-    }
+  const target ='en';
+  let text =req.body.chat;
+  let chats = req.body.chat;
+  
+    chats+='                  '+target + ':  ';
+    let [translations] = await translate.translate(text, target);
+    translations = Array.isArray(translations) ? translations : [translations];
+    translations.forEach((translation, index) => {
+    chats+=translation;
+    });
 
-  });
-
-
+   try {
+    const chat = await new Chat({
+      room: req.params.id,
+      user: req.session.color,
+      chat: chats,
+    });
+    await chat.save();
+    req.app.get('io').of('/chat').to(req.params.id).emit('chat', chat);
+    res.send('ok');
+  } catch (error) {
+    console.error(error);
+    next(error);
+  }
 });
-
 
 fs.readdir('uploads', (error) => {
   if (error) {

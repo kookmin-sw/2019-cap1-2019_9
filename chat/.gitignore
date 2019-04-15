@@ -2,5 +2,3 @@ node_modules
 uploads
 *.log
 .env
-package-lock.json
-package.json

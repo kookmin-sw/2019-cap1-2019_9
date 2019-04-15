@@ -9,15 +9,10 @@ const chatSchema = new Schema({
     ref: 'Room',
   },
   user: {
-    type: String,
+    type: ObjectId,
     required: true,
     ref: 'User',
   },
-  id: {
-    type: String,
-    required: true,
-  },
-  lang: String,
   chat: String,
   gif: String,
   createdAt: {

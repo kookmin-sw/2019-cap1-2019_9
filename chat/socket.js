@@ -41,10 +41,11 @@ module.exports = (server, app, sessionMiddleware) => {
     socket.on('disconnect', () => {
       console.log('접속 해제');
       socket.leave(roomId);
+      
       const currentRoom = socket.adapter.rooms[roomId];
       const userCount = currentRoom ? currentRoom.length : 0;
       if (userCount === 0) {
-        axios.delete(`https://localhost:443/room/${roomId}`)
+        axios.delete(`http://localhost:3000/room/${roomId}`)
           .then(() => {
             console.log('방 제거 성공');
           })
