@@ -2,7 +2,7 @@ extends layout
 
 block content
   h1= title
-  a#exit-btn(href='/') 방 나가기
+  a#exit-btn(href='/main') 방 나가기
   fieldset
     legend 채팅 내용
     #chat-list
@@ -89,8 +89,9 @@ block content
       } else {
         div.classList.add('other');
       }
+      console.log(data);
       var name = document.createElement('div');
-      name.textContent = data.user;
+      name.textContent = data.id;
       div.appendChild(name);
       if (data.chat) {
         var chat = document.createElement('div');
