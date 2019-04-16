@@ -10,10 +10,11 @@ const {Translate} = require('@google-cloud/translate');
 // Creates a client
 
 
-
+var mylang='';
 
 const router = express.Router();
 
+// 초기 로그인 화면
 router.get('/', async (req, res, next) => {
   try {
     res.render('login', {title: '로그인', error: req.flash('loginError')});
@@ -23,6 +24,7 @@ router.get('/', async (req, res, next) => {
   }
 })
 
+// 로그인 페이지에서 작성한 로그인 정보 전송
 router.post('/main', async (req, res, next) => {
   try {
     if(req.body.userid=='') {
@@ -30,18 +32,26 @@ router.post('/main', async (req, res, next) => {
       return res.redirect('/');
     }
       // io.of('/room').emit('newRoom', newRoom);
+      // 기존에 같은 피씨로 등록된 id 전부 삭제
+      await User.deleteMany({user: req.session.color});
+      
       const user = new User({
         user: req.session.color,
         id: req.body.userid,
         lang: req.body.lang,
       });
+      // 아이디 등록
       user.save();
+      // 사용자 언어 설정
+      mylang = req.body.lang;
       res.redirect(`/main`);
   } catch (error) {
     console.error(error);
     next(error);
   }
 });
+
+// 메인 페이지 접속
 router.get('/main', async (req, res, next) => {
   try {
     const rooms = await Room.find({});
@@ -52,10 +62,12 @@ router.get('/main', async (req, res, next) => {
   }
 });
 
+// 방 생성 페이지 접속
 router.get('/room', (req, res) => {
   res.render('room', { title: 'GIF 채팅방 생성' });
 });
 
+// 방 생성 시
 router.post('/room', async (req, res, next) => {
   try {
     const room = new Room({
@@ -74,6 +86,7 @@ router.post('/room', async (req, res, next) => {
   }
 });
 
+// 방 입장 시
 router.get('/room/:id', async (req, res, next) => {
   try {
     const room = await Room.findOne({ _id: req.params.id });
@@ -92,12 +105,15 @@ router.get('/room/:id', async (req, res, next) => {
       return res.redirect('/');
     }
     const chats = await Chat.find({ room: room._id }).sort('createdAt');
+
     return res.render('chat', {
+      lang: mylang,
       room,
       title: room.title,
       chats,
       user: req.session.color,
     });
+    
   } catch (error) {
     console.error(error);
     return next(error);
