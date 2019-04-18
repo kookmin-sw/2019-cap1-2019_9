@@ -11,7 +11,13 @@ const chatSchema = new Schema({
   user: {
     type: String,
     required: true,
+    ref: 'User',
   },
+  id: {
+    type: String,
+    required: true,
+  },
+  lang: String,
   chat: String,
   gif: String,
   createdAt: {
