@@ -38,7 +38,7 @@ block content
     var user_lang = #{ findlang };
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
       annyang.setLanguage(user_lang.lang);
-      annyang.start({ autoRestart: false, continuous: true });
+      annyang.start({ autoRestart: true, continuous: true });
       var recognition = annyang.getSpeechRecognizer();
       var final_transcript = '';
       recognition.interimResults = true;
