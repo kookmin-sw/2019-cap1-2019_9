@@ -27,7 +27,7 @@ const options = {
 };
 
 
-const sessionMiddleware = {
+const sessionMiddleware = session({ 
   resave: false,
   saveUninitialized: false,
   secret: process.env.COOKIE_SECRET,
@@ -35,7 +35,8 @@ const sessionMiddleware = {
     httpOnly: true,
     secure: false,
   },
-};
+});
+
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
@@ -57,7 +58,7 @@ if(process.env.NODE_ENV === 'production'){
   sessionMiddleware.proxy = true;
   sessionMiddleware.cookie.secure = true;
 }
-app.use(session(sessionMiddleware));
+app.use(sessionMiddleware);
 
 
 app.use(flash());
@@ -93,4 +94,4 @@ const server = https.createServer(options, app).listen(app.get('port'), () => {
   console.log(app.get('port'), '번 포트에서 대기중');
 });
 
-webSocket(server, app, session(sessionMiddleware));
+webSocket(server, app, sessionMiddleware);

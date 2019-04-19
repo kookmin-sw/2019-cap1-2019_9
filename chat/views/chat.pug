@@ -2,7 +2,6 @@ extends layout
 
 block content
   h1= title
-  h6#mylang(style='display : None')=lang
   a#exit-btn(href='/main') 방 나가기
   fieldset
     legend 채팅 내용
@@ -10,7 +9,7 @@ block content
       for chat in chats
         if chat.user === user
           .mine(style='color:' + chat.user)
-            div= chat.user
+            div= chat.id
             if chat.gif
               img(src='/gif/' + chat.gif)
             else
@@ -20,7 +19,7 @@ block content
             div= chat.chat
         else
           .other(style='color:' + chat.user)
-            div= chat.user
+            div= chat.id
             if chat.gif
               img(src='/gif/' + chat.gif)
             else
@@ -36,10 +35,10 @@ block content
     var socket = io.connect('https://localhost:443/chat', {
       path: '/socket.io'
     });
+    var user_lang = #{ findlang };
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
-      annyang.setLanguage(document.querySelector('#mylang').textContent);
-      annyang.start({ autoRestart: false, continuous: true });
-      console.log(document.querySelector('#mylang').textContent);
+      annyang.setLanguage(user_lang.lang);
+      annyang.start({ autoRestart: true, continuous: true });
       var recognition = annyang.getSpeechRecognizer();
       var final_transcript = '';
       recognition.interimResults = true;
