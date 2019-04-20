@@ -13,17 +13,22 @@ block content
             if chat.gif
               img(src='/gif/' + chat.gif)
             else
-              div= chat.chat
+              div!=chat.chat
+
         else if chat.user === 'system'
           .system
-            div= chat.chat
+            div!=chat.chat
+
         else
           .other(style='color:' + chat.user)
             div= chat.id
             if chat.gif
               img(src='/gif/' + chat.gif)
             else
-              div= chat.chat
+              div!=chat.chat
+
+
+
   form#chat-form(action='/chat' method='post' enctype='multipart/form-data')
     label(for='gif') GIF 올리기
     input#gif(type='file' name='gif' accept='image/gif')
@@ -32,13 +37,13 @@ block content
   script(src='/socket.io/socket.io.js')
   script(src='/annyang.js')
   script.
-    var socket = io.connect('https://localhost:443/chat', {
+    var socket = io.connect('http://localhost:8888/chat', {
       path: '/socket.io'
     });
     var user_lang = #{ findlang };
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
       annyang.setLanguage(user_lang.lang);
-      annyang.start({ autoRestart: true, continuous: true });
+      annyang.start({ autoRestart: false, continuous: true });
       var recognition = annyang.getSpeechRecognizer();
       var final_transcript = '';
       recognition.interimResults = true;
@@ -70,7 +75,7 @@ block content
         xhr.send(JSON.stringify({ chat: final_transcript }));
       }
     };
-    // 다른 사용자가 채팅방에 입장 한 경우 
+    // 다른 사용자가 채팅방에 입장 한 경우
     socket.on('join', function (data) {
       var div = document.createElement('div');
       div.classList.add('system');
@@ -104,6 +109,8 @@ block content
         var chat = document.createElement('div');
         chat.textContent = data.chat;
         div.appendChild(chat);
+
+        chat.innerHTML =data.chat;
       } else {
         var gif = document.createElement('img');
         gif.src = '/gif/' + data.gif;
@@ -111,9 +118,10 @@ block content
       }
       div.style.color = data.user;
       document.querySelector('#chat-list').appendChild(div);
+      document.querySelector('#chat-list').scrollTop = document.querySelector('#chat-list').scrollHeight;
     });
 
-    
+
     document.querySelector('#chat-form').addEventListener('submit', function (e) {
       e.preventDefault();
       if (e.target.chat.value) {
