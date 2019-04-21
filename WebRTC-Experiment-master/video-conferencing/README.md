@@ -1,3 +1,7 @@
+아직 채팅 안 합쳤습니다
+실행 -> node server.js
+
+
 # WebRTC Video Conferencing / [Demo](https://www.webrtc-experiment.com/video-conferencing/)
 
 1. This [WebRTC](https://www.webrtc-experiment.com/) experiment is aimed to transmit audio/video streams in many-to-many style.
