@@ -33,7 +33,7 @@ block content
   script(src='/annyang.js')
   script.
     var socket = io.connect('http://localhost:3000/chat', {
-      path: '/socket.io'
+      path: '/socket.io', transports: [ 'websocket', 'polling' ]
     });
     var user_lang = #{ findlang };
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
