@@ -1,0 +1,373 @@
+<!--
+> Muaz Khan       - wwww.MuazKhan.com
+> MIT License     - www.WebRTC-Experiment.com/licence
+> Documentation   - github.com/muaz-khan/WebRTC-Experiment/tree/master/video-conferencing
+-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>WebRTC Video Conferencing</title>
+
+        <script>
+          //위치 정보에서 해쉬값의 #을 없앤 길이가 양수가 아니라면
+            if(!location.hash.replace('#', '').length) {
+                //url href 값을 다음과 같이 랜덤하게 설정
+                location.href = location.href.split('#')[0] + '#' + (Math.random() * 100).toString().replace('.', '');
+                //url데이터 다시 로드
+                location.reload();
+            }
+        </script>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <link rel="author" type="text/html" href="https://plus.google.com/+MuazKhan">
+        <meta name="author" content="Muaz Khan">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="title" content="Video Conferencing" />
+        <meta name="description" content="Video Conferencing using WebRTC." />
+        <meta name="keywords" content="WebRTC, Video Conferencing, Demo, Example, Experiment" />
+
+        <link rel="stylesheet" href="https://cdn.webrtc-experiment.com/style.css">
+
+        <style>
+            audio, video {
+                -moz-transition: all 1s ease;
+                -ms-transition: all 1s ease;
+
+                -o-transition: all 1s ease;
+                -webkit-transition: all 1s ease;
+                transition: all 1s ease;
+                vertical-align: top;
+            }
+
+            input {
+                border: 1px solid #d9d9d9;
+                border-radius: 1px;
+                font-size: 2em;
+                margin: .2em;
+                width: 30%;
+            }
+
+            .setup {
+                border-bottom-left-radius: 0;
+                border-top-left-radius: 0;
+                font-size: 102%;
+                height: 47px;
+                margin-left: -9px;
+                margin-top: 8px;
+                position: absolute;
+            }
+
+            p { padding: 1em; }
+
+            li {
+                border-bottom: 1px solid rgb(189, 189, 189);
+                border-left: 1px solid rgb(189, 189, 189);
+                padding: .5em;
+            }
+        </style>
+        <script>
+            document.createElement('article');
+            document.createElement('footer');
+        </script>
+
+        <!-- script used to stylize video element -->
+        <!-- 미디어 데이터 가져오는 js -->
+        <script src="https://cdn.webrtc-experiment.com/getMediaElement.min.js"> </script>
+        <!-- 소켓 -->
+        <script src="https://cdn.webrtc-experiment.com/socket.io.js"> </script>
+        <!--어댑터 -->
+        <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+        <!--아이스 서버 핸들러 -->
+        <script src="https://cdn.webrtc-experiment.com/IceServersHandler.js"></script>
+        <!-- 코덱 핸들러 -->
+        <script src="https://cdn.webrtc-experiment.com/CodecsHandler.js"></script>
+        <!-- RTC 피어 커넥션 -실질적으로 피어 연결해주는 기능 포함된 듯 -->
+        <script src="https://cdn.webrtc-experiment.com/RTCPeerConnection-v1.5.js"> </script>
+        <!-- 컨퍼런스 js - 스트림, 소켓, 유저 토큰 데이터 관리 -->
+        <script src="https://cdn.webrtc-experiment.com/video-conferencing/conference.js"> </script>
+    </head>
+
+    <body>
+        <article>
+            <header style="text-align: center;">
+                <h1>
+                    WebRTC Video Conferencing
+                </h1>
+            </header>
+
+            <!-- just copy this <section> and next script -->
+            <section class="experiment">
+                <section>
+                    <span>
+                        Private ?? <a href="/video-conferencing/" target="_blank" title="Open this link in new tab. Then your conference room will be private!"><code><strong id="unique-token">#123456789</strong></code></a>
+                    </span>
+
+                    <input type="text" id="conference-name" placeholder="Conference Name" style="width: 50%;">
+                    <button id="setup-new-room" class="setup">Setup New Conference</button>
+                </section>
+
+                <!-- list of all available conferencing rooms -->
+                <table style="width: 100%;" id="rooms-list"></table>
+
+                <!-- local/remote videos container -->
+                <div id="videos-container"></div>
+            </section>
+
+            <script>
+                // Muaz Khan     - https://github.com/muaz-khan
+                // MIT License   - https://www.webrtc-experiment.com/licence/
+                // Documentation - https://github.com/muaz-khan/WebRTC-Experiment/tree/master/video-conferencing
+
+                //네트워크 세팅
+                var config = {
+                    // via: https://github.com/muaz-khan/WebRTC-Experiment/tree/master/socketio-over-nodejs
+                    openSocket: function(config) {
+                      //시그널링 서버 값 세팅 - 자기 url로 연결해놓음
+                        var SIGNALING_SERVER = 'https://socketio-over-nodejs2.herokuapp.com:443/';
+                        //채널값 할당
+                        config.channel = config.channel || location.href.replace(/\/|:|#|%|\.|\[|\]/g, '');
+                        // 송신자 데이터 랜덤하게 할당
+                        var sender = Math.round(Math.random() * 999999999) + 999999999;
+                        //시그널링 서버에 연결 후 채널 값, 송신자 데이터 전송
+                        io.connect(SIGNALING_SERVER).emit('new-channel', {
+                            channel: config.channel,
+                            sender: sender
+                        });
+                        //소켓 값을 시그널링 서버값 + 채널값한 io 커넥션 데이터 할당
+                        var socket = io.connect(SIGNALING_SERVER + config.channel);
+                        //소켓 채널값 할당
+                        socket.channel = config.channel;
+                        // 소켓 실행
+                        socket.on('connect', function () {
+                            if (config.callback) config.callback(socket);
+                        });
+                        //소켓 데이터 함수로 전송
+                        socket.send = function (message) {
+                            socket.emit('message', {
+                                sender: sender,
+                                data: message
+                            });
+                        };
+                        //소켓 활성화
+                        socket.on('message', config.onmessage);
+                    },
+                    onRemoteStream: function(media) {
+                        var mediaElement = getMediaElement(media.video, {
+                            width: (videosContainer.clientWidth / 2) - 50,
+                            buttons: ['mute-audio', 'mute-video', 'full-screen', 'volume-slider']
+                        });
+                        mediaElement.id = media.stream.streamid;
+                        videosContainer.appendChild(mediaElement);
+                    },
+
+                    //원격 스트림 종료
+                    onRemoteStreamEnded: function(stream, video) {
+                        //비디오의 모든 상위 노드 존재시
+                        if (video.parentNode && video.parentNode.parentNode && video.parentNode.parentNode.parentNode) {
+                            //비디오의 최상위 노드의 자식을 제거
+                            video.parentNode.parentNode.parentNode.removeChild(video.parentNode.parentNode);
+                        }
+                    },
+
+                    //방 찾기
+                    onRoomFound: function(room) {
+                        //쿼리 셀럭터로 버튼 데이터에 해당 값 있는지 체크
+                        var alreadyExist = document.querySelector('button[data-broadcaster="' + room.broadcaster + '"]');
+                        //있으면 리턴
+                        if (alreadyExist) return;
+                        //룸 리스트가 undefined 면 문서의 바디값 할당
+                        if (typeof roomsList === 'undefined') roomsList = document.body;
+
+                        // 태그 tr 생성후 할당
+                        var tr = document.createElement('tr');
+                        // 엘리먼트 내부 값 다음과 같이 변경
+                        tr.innerHTML = '<td><strong>' + room.roomName + '</strong> shared a conferencing room with you!</td>' +
+                            '<td><button class="join">Join</button></td>';
+                        //룸 리스트에 해당 tr 추가
+                        roomsList.appendChild(tr);
+
+                        //tr의 클래스 join 값 찾아서 변수에 할당
+                        var joinRoomButton = tr.querySelector('.join');
+                        //버튼에 속성할당
+                        joinRoomButton.setAttribute('data-broadcaster', room.broadcaster);
+                        joinRoomButton.setAttribute('data-roomToken', room.roomToken);
+                        //클릭시 실행 함수
+                        joinRoomButton.onclick = function() {
+                            //이 버튼 비활성화
+                            this.disabled = true;
+                            //브로드캐스터, 룸토큰 변수에 값 할당
+                            var broadcaster = this.getAttribute('data-broadcaster');
+                            var roomToken = this.getAttribute('data-roomToken');
+                            // 유저 미디어 데이터 확보
+                            captureUserMedia(function() {
+                              //방에 입장
+                                conferenceUI.joinRoom({
+                                    roomToken: roomToken,
+                                    joinUser: broadcaster
+                                });
+                            }, function() {
+                                //입장 실패시 입장 버튼 비활성화
+                                joinRoomButton.disabled = false;
+                            });
+                        };
+                    },
+                    //방 닫기
+                    onRoomClosed: function(room) {
+                      //방 정보 찾아서 할당
+                        var joinButton = document.querySelector('button[data-roomToken="' + room.roomToken + '"]');
+                        //있으면 제거
+                        if (joinButton) {
+                            // joinButton.parentNode === <li>
+                            // joinButton.parentNode.parentNode === <td>
+                            // joinButton.parentNode.parentNode.parentNode === <tr>
+                            // joinButton.parentNode.parentNode.parentNode.parentNode === <table>
+                            joinButton.parentNode.parentNode.parentNode.parentNode.removeChild(joinButton.parentNode.parentNode.parentNode);
+                        }
+                    },
+                    onReady: function() {
+                        console.log('now you can open or join rooms');
+                    }
+                };
+
+
+                //방생성 버튼 클릭시 발생시킬 핸들러 line 266
+                function setupNewRoomButtonClickHandler() {
+                    //버튼 변수 비활성화 line 260
+                    btnSetupNewRoom.disabled = true;
+
+                    //방 이름 입력 칸 비활성화 line 99
+                    document.getElementById('conference-name').disabled = true;
+
+                    //유저 미디어 정보를 확보하는 함수 실행
+                    captureUserMedia(function() {
+                      //콜백 param 에는 룸 생성을
+                        conferenceUI.createRoom({
+                            roomName: (document.getElementById('conference-name') || { }).value || 'Anonymous'
+                        });
+                    },
+                    // 실패한 콜백에대해서는 방생성 버튼과 방이름 입력칸을 비활성화 한다.
+                    function() {
+                        btnSetupNewRoom.disabled = document.getElementById('conference-name').disabled = false;
+                    });
+                }
+                //유저 미디어 값 확보하는 함수
+                function captureUserMedia(callback, failure_callback) {
+                    //비디오 변수에 비디오 엘리먼트 생성후 할당
+                    var video = document.createElement('video');
+                    //비디오 변수 속성 세팅
+                    video.muted = true;
+                    video.volume = 0;
+
+                    try {
+                        //비디오 태그에 속성 추가
+                        video.setAttributeNode(document.createAttribute('autoplay'));
+                        video.setAttributeNode(document.createAttribute('playsinline'));
+                        video.setAttributeNode(document.createAttribute('controls'));
+                    } catch (e) {
+                        video.setAttribute('autoplay', true);
+                        video.setAttribute('playsinline', true);
+                        video.setAttribute('controls', true);
+                    }
+
+                    getUserMedia({
+                        video: video,
+                        onsuccess: function(stream) {
+                            config.attachStream = stream;
+
+                            var mediaElement = getMediaElement(video, {
+                                width: (videosContainer.clientWidth / 2) - 50,
+                                buttons: ['mute-audio', 'mute-video', 'full-screen', 'volume-slider']
+                            });
+                            mediaElement.toggle('mute-audio');
+                            videosContainer.appendChild(mediaElement);
+
+                            callback && callback();
+                        },
+                        onerror: function() {
+                            alert('unable to get access to your webcam');
+                            callback && callback();
+                        }
+                    });
+                }
+
+                //conference.js 의 변수 연결 line 81
+                var conferenceUI = conference(config);
+
+                /* UI specific */
+                //영상이 담겨있는 데이터 변수
+                var videosContainer = document.getElementById('videos-container') || document.body;
+
+                //방생성 버튼 정보 변수
+                var btnSetupNewRoom = document.getElementById('setup-new-room');
+
+                //테이블 아이디인 룸 리스트 데이터 변수
+                var roomsList = document.getElementById('rooms-list');
+
+                //방생성 버튼에 이벤트 핸들러 연결
+                if (btnSetupNewRoom) btnSetupNewRoom.onclick = setupNewRoomButtonClickHandler;
+
+                //비디오 회전 - 안 건드려도 될듯
+                function rotateVideo(video) {
+                    video.style[navigator.mozGetUserMedia ? 'transform' : '-webkit-transform'] = 'rotate(0deg)';
+                    setTimeout(function() {
+                        video.style[navigator.mozGetUserMedia ? 'transform' : '-webkit-transform'] = 'rotate(360deg)';
+                    }, 1000);
+                }
+
+                //유니크 토큰 값에 페이지에 unique-token 아아디 쓰는 태그의 값 할당
+                (function() {
+                    var uniqueToken = document.getElementById('unique-token');
+                    //값이 없으면
+                    if (uniqueToken)
+                        //URL 해쉬 길이가 2보다 크면 토큰의 최상위 노드 HTML 변경
+                        if (location.hash.length > 2) uniqueToken.parentNode.parentNode.parentNode.innerHTML = '<h2 style="text-align:center;display: block;"><a href="' + location.href + '" target="_blank">Right click to copy & share this private link</a></h2>';
+                        //아니면 토큰의 HTML 값과 토큰의 할아버지 노드의 href 값을 랜덤하게 변경
+                        else uniqueToken.innerHTML = uniqueToken.parentNode.parentNode.href = '#' + (Math.random() * new Date().getTime()).toString(36).toUpperCase().replace( /\./g , '-');
+                })();
+                //비디오 크기 조절
+                function scaleVideos() {
+                    var videos = document.querySelectorAll('video'),
+                        length = videos.length, video;
+
+                    var minus = 130;
+                    var windowHeight = 700;
+                    var windowWidth = 600;
+                    var windowAspectRatio = windowWidth / windowHeight;
+                    var videoAspectRatio = 4 / 3;
+                    var blockAspectRatio;
+                    var tempVideoWidth = 0;
+                    var maxVideoWidth = 0;
+
+                    for (var i = length; i > 0; i--) {
+                        blockAspectRatio = i * videoAspectRatio / Math.ceil(length / i);
+                        if (blockAspectRatio <= windowAspectRatio) {
+                            tempVideoWidth = videoAspectRatio * windowHeight / Math.ceil(length / i);
+                        } else {
+                            tempVideoWidth = windowWidth / i;
+                        }
+                        if (tempVideoWidth > maxVideoWidth)
+                            maxVideoWidth = tempVideoWidth;
+                    }
+                    for (var i = 0; i < length; i++) {
+                        video = videos[i];
+                        if (video)
+                            video.width = maxVideoWidth - minus;
+                    }
+                }
+
+                window.onresize = scaleVideos;
+
+            </script>
+
+
+            <section class="experiment"><small id="send-message"></small></section>
+        </article>
+
+
+        <!-- commits.js is useless for you! -->
+        <script src="https://cdn.webrtc-experiment.com/commits.js" async> </script>
+    </body>
+</html>
