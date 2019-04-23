@@ -1,0 +1,6010 @@
+00:00:01	Mentalist /'men-t3-list/ noun
+		@@/Mentalist 
+		/'men-t3-list/명사@@\
+00:00:03	 
+		 
+00:00:03	Someone who uses mental acuity,hypnosis and/or suggestion.
+		@@/정신적인 예리함, 최면
+		혹은 암시를 이용하는 사람@@\
+00:00:08	 
+		 
+00:00:09	A master manipulator of thoughts and behavior.
+		
+00:00:10	A master manipulator of thoughts and behavior.
+		@@/사고와 행동의 
+		조종에 능숙한 사람@@\
+00:00:12	 
+		 
+00:00:26	Jason Sands' Residence, San Francisco, CA
+		@@/제이슨 샌즈의 자택 
+		샌프란시스코, 캘리포니아
+00:00:28	 
+		 
+00:00:29	Mind I running it for an inspective?
+		경감님, 브리핑 좀 
+		해주시겠어요?
+00:00:31	 
+		 
+00:00:32	Not sure why you're called in.
+		CBI 까지 부를 필요가 
+		  있는 건지 모르겠군요, 
+00:00:33	 
+		 
+00:00:34	We can handle it.
+		저희만으로도 감당할 
+		  수 있는데 말이죠
+00:00:35	 
+		 
+00:00:35	Place belongs to Jason Sands.
+		집 소유자는 제이슨 샌즈로, 
+		빵빵한 정치 후원가 양반입죠
+00:00:38	 
+		집 소유자는 제이슨 샌즈로, 
+		빵빵한 정치 후원가 양반입죠
+00:00:38	The guy's a political contributor.
+		집 소유자는 제이슨 샌즈로, 
+		빵빵한 정치 후원가 양반입죠
+00:00:40	 
+		 
+00:00:40	He's been missing since last night.
+		어제밤 이후로 
+		행방불명 되었어요
+00:00:41	 
+		 
+00:00:42	That's why we're here.
+		그래서 저희가 온거랍니다
+00:00:44	 
+		 
+00:00:44	Attorney general likes to stand top this kind of things.
+		주(州) 법무장관님께서는 
+		이런 사건은 서두르시거든요
+00:00:46	 
+		 
+00:00:47	Mr. Sands' wife Jennifer
+		어제 저녁 9시경, 
+		피해자 부인이
+00:00:49	 
+		어제 저녁 9시경, 
+		피해자 부인이
+00:00:49	Arrived home last night
+		어제 저녁 9시경, 
+		피해자 부인이
+00:00:50	 
+		 
+00:00:50	With their daughter at about 9 o'clock.
+		딸을 데리고 귀가했을때 
+		남편이 실종된걸 발견했습니다
+00:00:51	 
+		딸을 데리고 귀가했을때 
+		남편이 실종된걸 발견했습니다
+00:00:51	She found her husband gone.
+		딸을 데리고 귀가했을때 
+		남편이 실종된걸 발견했습니다
+00:00:53	 
+		 
+00:00:53	And this...
+		아울러 이 광경도요
+00:00:54	 
+		 
+00:00:57	Thanks, guys.
+		수고들 했어
+00:00:58	 
+		 
+00:00:58	There has been no ransom demand yet.
+		아직까지 몸값 요구는 없었지만 
+		곧 연락이 올것으로 생각합니다
+00:01:00	 
+		아직까지 몸값 요구는 없었지만 
+		곧 연락이 올것으로 생각합니다
+00:01:00	But I expect we would get some very soon.
+		아직까지 몸값 요구는 없었지만 
+		곧 연락이 올것으로 생각합니다
+00:01:02	 
+		 
+00:01:02	If you want to take this guy's laptops,
+		원하시면 저희쪽 도청팀을 부르죠
+00:01:04	 
+		원하시면 저희쪽 도청팀을 부르죠
+00:01:04	I can let them know.
+		원하시면 저희쪽 도청팀을 부르죠
+00:01:05	 
+		 
+00:01:05	That's ok. We can handle that.
+		괜찮아요 저희가 할게요
+00:01:07	 
+		 
+00:01:07	Do you know where his family is?
+		나머지 가족들은 어디있나요?
+00:01:08	 
+		 
+00:01:09	Uh...With friends.
+		친구네 집에 있어요
+00:01:10	 
+		 
+00:01:11	Mrs. Sands thought it would be best
+		어린 딸을 거기 두는게 나을 거라는 
+		부인 생각에 저희도 동의했거든요
+00:01:13	 
+		어린 딸을 거기 두는게 나을 거라는 
+		부인 생각에 저희도 동의했거든요
+00:01:13	For the little girl and we agreed.
+		어린 딸을 거기 두는게 나을 거라는 
+		부인 생각에 저희도 동의했거든요
+00:01:15	 
+		Any sign of force entry?
+		 
+		강제 침입 흔적은 없습니까?
+00:01:16	 
+		 
+00:01:16	No, must be a front door jobs
+		네, 누군가 급한 전갈이 있다는 등의 
+		  수법으로 현관을 통해 들어왔겠죠
+00:01:18	 
+		네, 누군가 급한 전갈이 있다는 등의 
+		  수법으로 현관을 통해 들어왔겠죠
+00:01:18	Imposing his courier or whatever
+		네, 누군가 급한 전갈이 있다는 등의 
+		  수법으로 현관을 통해 들어왔겠죠
+00:01:20	 
+		 
+00:01:31	He's still here.
+		이 사람 아직 
+		집안에 있어요
+00:01:32	 
+		 
+00:01:35	Unless he's invisible. He's not, agent Jane.
+		투명인간이 된 게 아니라면
+		여기 없습니다, 제인 요원
+00:01:38	 
+		 
+00:01:38	He's not an agent.
+		저 사람 요원 아니에요 
+		자문이에요
+00:01:39	 
+		저 사람 요원 아니에요 
+		자문이에요
+00:01:39	He's a consultant.
+		저 사람 요원 아니에요 
+		자문이에요
+00:01:40	 
+		 
+00:01:40	No badge. No gun.
+		뱃지도 없고, 총도 없어요
+00:01:42	 
+		 
+00:01:43	They don't even give me dental.
+		저한테 치과보험도 
+		안들어 준다니까요
+00:01:44	 
+		 
+00:01:45	Oh, yeah.
+		아아, 사람들이 말하던 
+		  영매가 선생님이었군요
+00:01:46	 
+		아아, 사람들이 말하던 
+		  영매가 선생님이었군요
+00:01:46	You're the one they were telling me about--the psychic.
+		아아, 사람들이 말하던 
+		  영매가 선생님이었군요
+00:01:49	 
+		 
+00:01:49	Sorry, Gandalf.
+		안타깝지만 간달프 마법사님 
+		저희도 딴에는 열심히 찾았는데
+00:01:50	 
+		안타깝지만 간달프 마법사님 
+		저희도 딴에는 열심히 찾았는데
+00:01:50	In our own bumbling way, we did look around pretty good.
+		안타깝지만 간달프 마법사님 
+		저희도 딴에는 열심히 찾았는데
+00:01:53	 
+		 
+00:01:53	He's not here. He's here, and there's no such thing as psychics.
+		샌즈 씨는 여기 없습니다 
+00:01:55	He's not here. He's here, and there's no such thing as psychics.
+		여기 있어요, 그리고 
+		세상에 영매같은 건 없죠
+00:01:58	 
+		 
+00:01:59	He was tortured in this chair...
+		샌즈씨는 이 의자에서 
+		고문을 당했어요
+00:02:00	 
+		 
+00:02:03	To give them a pass code...
+		암호를 알아내기 위한 
+		  고문이었겠죠
+00:02:05	 
+		암호를 알아내기 위한 
+		  고문이었겠죠
+00:02:05	 
+		 
+00:02:07	Pass code to what?
+		무슨 암호 말이에요?
+00:02:08	 
+		 
+00:02:12	Could you humor me, inspector?
+		경감님, 잠시 
+		  제 장단에 맞춰서
+00:02:13	 
+		 
+00:02:13	Could you try and pick up that sheet of paper?
+		저 종이..좀 
+		  주워주시겠어요?
+00:02:15	 
+		 
+00:02:17	All right.
+		- 좋아요 
+		- 감사합니다
+00:02:18	 
+		- 좋아요 
+		- 감사합니다
+00:02:19	Thanks.
+		- 좋아요 
+		- 감사합니다
+00:02:20	 
+		 
+00:02:20	That's--that's it.
+		네 그거요
+00:02:21	 
+		 
+00:02:27	Well, the bookcase must have moved.
+		책..장 위치를 옮겼나보군요
+00:02:29	 
+		 
+00:02:29	After these papers were spread all over the floor?
+		여기에 종이를 다 뿌린 
+		  만든 다음에요?
+00:02:32	 
+		 
+00:02:33	It's a door. To a safe?
+		이거 문이네요 
+		금고문일까요?
+00:02:35	 
+		 
+00:02:36	Or a safe room.
+		대피실 일지도 모르지
+00:02:37	 
+		 
+00:02:37	Yes. The intruder must have been distracted by something,
+		맞아 
+00:02:38	Yes. The intruder must have been distracted by something,
+		침입자는 어쩌다 방해를 받아서
+		  샌즈를 잠시 혼자 두었을거야
+00:02:41	 
+		침입자는 어쩌다 방해를 받아서
+		  샌즈를 잠시 혼자 두었을거야
+00:02:41	Left Sands alone for a moment, Sands punches in the code,
+		침입자는 어쩌다 방해를 받아서
+		  샌즈를 잠시 혼자 두었을거야
+00:02:42	Left Sands alone for a moment, Sands punches in the code,
+		 
+00:02:42	Left Sands alone for a moment, Sands punches in the code,
+		그 틈을 타 샌즈는 
+		얼른 비밀번호를 찍고
+00:02:45	 
+		 
+00:02:45	And before they can stop him, goes into the safe room
+		놈들이 막을 새도 없이 저 방으로 
+		냉큼 들어가 문을 닫아버린 거야
+00:02:47	 
+		놈들이 막을 새도 없이 저 방으로 
+		냉큼 들어가 문을 닫아버린 거야
+00:02:47	And shuts the door behind him.
+		놈들이 막을 새도 없이 저 방으로 
+		냉큼 들어가 문을 닫아버린 거야
+00:02:49	 
+		 
+00:02:49	Which will open if you press the buttons a lot
+		그러면 이제 네가 번호를 
+		마구 눌러보면 열리겠네?
+00:02:51	 
+		 
+00:02:53	I'm entering the top ten pass code Choices.
+		사람들이 많이 쓰는 번호 
+		10위 까지 눌러보는거지
+00:02:56	 
+		 
+00:02:56	But if it is a safe room,
+		이게 대피실이면 보안업체에 연결되는 
+		  무음 비상벨이 울리지 않았을까요?
+00:02:57	 
+		이게 대피실이면 보안업체에 연결되는 
+		  무음 비상벨이 울리지 않았을까요?
+00:02:57	Wouldn't it have a silent alarm connected to a security company?
+		이게 대피실이면 보안업체에 연결되는 
+		  무음 비상벨이 울리지 않았을까요?
+00:03:00	 
+		 
+00:03:01	Not if you're the paranoid, secretive type.
+		숨기는게 많은 신경과민 
+		타입이라면 아냐
+00:03:04	 
+		 
+00:03:04	You make a safe room only you know about.
+		그런 사람은 대피실을 
+		만들어도 자기만 알고있지
+00:03:06	 
+		 
+00:03:09	I guess we need a locksmith.
+		열쇠 따는 사람을 
+		  불러야겠네요
+00:03:10	 
+		 
+00:03:12	Hang on a minute.
+		기다려 보세요
+00:03:13	 
+		 
+00:03:16	* Farewell and adieu to you, fair spanish maidens *
+		@@/ 안녕히~ 아듀 
+		아리따운 스페인 아가씨들 
+00:03:20	 
+		 
+00:03:21	* Farewell and adieu to you, ladies of spain *
+		 @@/ 안녕히~ 아듀 
+		스페인의 아가씨들 
+00:03:25	 
+		 
+00:03:25	* For we've received orders *
+		 @@/ 보스톤으로 귀환하라는
+		항해 명령을 받았으니 
+00:03:28	 
+		 @@/ 보스톤으로 귀환하라는
+		항해 명령을 받았으니 
+00:03:28	* For to sail back to boston *
+		 @@/ 보스톤으로 귀환하라는
+		항해 명령을 받았으니 
+00:03:30	 
+		 
+00:03:32	* And so never more shall we see you... *
+		 @@/ 이렇게 나는 
+		  다시는 그대를 .. 
+00:03:36	 
+		 
+00:03:38	* Again *
+		..볼 수 없으리
+00:03:40	 
+		..볼 수 없으리
+00:03:40	 
+		 
+00:03:42	 
+		디씨미드갤 
+		한글자막: 써니영
+00:03:45	 
+		 
+00:03:52	 
+		영문자막 : 루미, qqq, 그림자 
+		한글검수 : 플랙매냐  http://gall.dcinside.com/list.php?id=f_drama
+00:03:58	 
+		 
+00:04:17	I look around. I don't see anyone here
+		펜치와 시가꽁초로 사람을 고문해서
+		  죽일만한 놈은 이중에 없어뵈는데요
+00:04:18	 
+		펜치와 시가꽁초로 사람을 고문해서
+		  죽일만한 놈은 이중에 없어뵈는데요
+00:04:18	Who could torture a man to death with pliers and a
+		펜치와 시가꽁초로 사람을 고문해서
+		  죽일만한 놈은 이중에 없어뵈는데요
+00:04:20	 
+		펜치와 시가꽁초로 사람을 고문해서
+		  죽일만한 놈은 이중에 없어뵈는데요
+00:04:20	Lit cigar. Picture them naked and ravenously hungry
+		펜치와 시가꽁초로 사람을 고문해서
+		  죽일만한 놈은 이중에 없어뵈는데요
+00:04:21	Lit cigar. Picture them naked and ravenously hungry
+		 
+00:04:21	Lit cigar. Picture them naked and ravenously hungry
+		저 사람들이 알몸으로 잔뜩 
+		굶주린 모습을 상상을 해봐
+00:04:23	 
+		 
+00:04:23	Ew! You know, strictly speaking, he wasn't tortured to death.
+		아유!
+00:04:24	Ew! You know, strictly speaking, he wasn't tortured to death.
+		엄밀히 말하면, 고문 때문이 아니라 
+		자기 은신굴에서 과다출혈로 죽은거죠
+00:04:26	 
+		엄밀히 말하면, 고문 때문이 아니라 
+		자기 은신굴에서 과다출혈로 죽은거죠
+00:04:26	He bled to death on his own in his little hidey-hole there.
+		엄밀히 말하면, 고문 때문이 아니라 
+		자기 은신굴에서 과다출혈로 죽은거죠
+00:04:29	 
+		 
+00:04:29	Kind of has himself to blame then, huh?
+		- 결국 자기 무덤을 판거네 
+		- 그치
+00:04:30	 
+		- 결국 자기 무덤을 판거네 
+		- 그치
+00:04:30	Mm, kind of.
+		- 결국 자기 무덤을 판거네 
+		- 그치
+00:04:31	 
+		 
+00:04:33	How does the widow check out?
+		미망인의 알리바이는?
+00:04:35	 
+		 
+00:04:35	The night of the murder, she and her daughte
+		사건 당일에 딸과 콘서트에 
+		  갔던 게 확인되었어
+00:04:36	 
+		사건 당일에 딸과 콘서트에 
+		  갔던 게 확인되었어
+00:04:36	Were at a concert-- "peter & the wolf." she have stubs?
+		사건 당일에 딸과 콘서트에 
+		  갔던 게 확인되었어
+00:04:37	Were at a concert-- "peter & the wolf." she have stubs?
+		'피터와 늑대' 콘서트였대 
+00:04:38	Were at a concert-- "peter & the wolf." she have stubs?
+		- 입장권이 있었대? 
+		- 그럼 
+00:04:39	 
+		- 입장권이 있었대? 
+		- 그럼 
+00:04:39	Yep. Who's the suit hovering around her?
+		- 입장권이 있었대? 
+		- 그럼 
+00:04:40	Yep. Who's the suit hovering around her?
+		부인옆에 들러붙은 
+		저 양복쟁이는 누구야?
+00:04:42	 
+		 
+00:04:42	That's Michael Claymore Bennett Iii, Sands' lawyer.
+		마이클 클레이모어 베넷 3세, 
+		샌즈 가(家) 변호사죠
+00:04:44	 
+		 
+00:04:45	What about him?
+		저 사람은 왜?
+00:04:46	 
+		 
+00:04:49	The widow's scared of him or...
+		미망인이 저 사람을 두려워하거나
+00:04:50	 
+		 
+00:04:51	Or? Or, uh, he's reassuring her
+		- 아니면.. 
+		- 아니면..?
+00:04:54	Or? Or, uh, he's reassuring her
+		 
+00:04:54	Or? Or, uh, he's reassuring her
+		아니면 방금 미망인이 두려워하는 
+		뭔가를 환기시킨 것이 틀림없어
+00:04:55	 
+		아니면 방금 미망인이 두려워하는 
+		뭔가를 환기시킨 것이 틀림없어
+00:04:55	Of something else that she's scared of. Which is it?
+		아니면 방금 미망인이 두려워하는 
+		뭔가를 환기시킨 것이 틀림없어
+00:04:57	Of something else that she's scared of. Which is it?
+		 
+00:04:57	Of something else that she's scared of. Which is it?
+		- 그게 뭔데요? 
+		- 나도 모르지
+00:04:58	 
+		- 그게 뭔데요? 
+		- 나도 모르지
+00:04:58	I don't know. Could be both.
+		- 그게 뭔데요? 
+		- 나도 모르지
+00:04:59	I don't know. Could be both.
+		 
+00:04:59	I don't know. Could be both.
+		- 어쩌면 둘 다일수도 
+		- 뭐, 여기서 심문할 순 없으니
+00:05:00	 
+		- 어쩌면 둘 다일수도 
+		- 뭐, 여기서 심문할 순 없으니
+00:05:00	Well, we can't question 'em here.
+		- 어쩌면 둘 다일수도 
+		- 뭐, 여기서 심문할 순 없으니
+00:05:01	 
+		- 어쩌면 둘 다일수도 
+		- 뭐, 여기서 심문할 순 없으니
+00:05:01	Let's go get started on Sands' computer files.
+		- 어쩌면 둘 다일수도 
+		- 뭐, 여기서 심문할 순 없으니
+00:05:01	Let's go get started on Sands' computer files.
+		 
+00:05:01	Let's go get started on Sands' computer files.
+		피해자 컴퓨터를 조사하러 가자
+00:05:04	 
+		 
+00:05:04	You guys stay here till this thing's over. Yes, boss.
+		자네들은 장례식 끝날때까지 
+		여길 지키고 있어줘
+00:05:06	You guys stay here till this thing's over. Yes, boss.
+		예이, 대장님
+00:05:07	 
+		 
+00:05:07	You never know. Somebody might confess.
+		혹시 알아,누가 자백할지?
+00:05:09	 
+		 
+00:05:12	Van pelt, you're killing me.
+		반팰트, 너땜에 미치겠다
+00:05:14	 
+		 
+00:05:18	Can I ask you a personal question? Nope.
+		뭐 개인적인거 물어봐도 돼?
+00:05:20	Can I ask you a personal question? Nope.
+		아뇹
+00:05:20	 
+		 
+00:05:21	Have you told her how you feel?
+		네 감정을 고백해봤어?
+00:05:22	 
+		 
+00:05:23	She's a co-worker. It's against the rules. That's how I feel.
+		우린 직장 동료인데 고백은 옳지 
+		  못하죠, 전 그렇게 생각해요
+00:05:26	 
+		 
+00:05:26	That's not how you feel.
+		넌 그렇게 생각안해
+00:05:27	 
+		 
+00:05:29	I sent out the vibes. I got nothing back, okay?
+		몇번 신호를 보내도 반응이 없잖아요 
+		그래서 이제 내버려두기로 한거에요
+00:05:31	 
+		몇번 신호를 보내도 반응이 없잖아요 
+		그래서 이제 내버려두기로 한거에요
+00:05:31	So I'm leaving them alone. Vibes. Really? Vibes?
+		몇번 신호를 보내도 반응이 없잖아요 
+		그래서 이제 내버려두기로 한거에요
+00:05:32	So I'm leaving them alone. Vibes. Really? Vibes?
+		 
+00:05:32	So I'm leaving them alone. Vibes. Really? Vibes?
+		신호라고? 정말? 
+		신호라고?
+00:05:35	 
+		 
+00:05:35	That's where he stares at the back of her neck
+		통역하자면 몇시간 내내 밴펠트 
+		목덜미만 쳐다봤다는 거죠
+00:05:36	 
+		통역하자면 몇시간 내내 밴펠트 
+		목덜미만 쳐다봤다는 거죠
+00:05:36	For several hours. Women love that. Oh, shut up, Cho.
+		통역하자면 몇시간 내내 밴펠트 
+		목덜미만 쳐다봤다는 거죠
+00:05:37	For several hours. Women love that. Oh, shut up, Cho.
+		- 여자들 그런거 좋아하더라 
+		- 닥쳐, 조
+00:05:38	 
+		- 여자들 그런거 좋아하더라 
+		- 닥쳐, 조
+00:05:39	 
+		 
+00:05:39	 
+		가서 쟁취해야지 이 친구야 
+		유혹을 하란 말이야
+00:05:39	You gotta go get her, man. You gotta seduce her.
+		가서 쟁취해야지 이 친구야 
+		유혹을 하란 말이야
+00:05:41	 
+		 
+00:05:41	Yeah, well, seduction's not my strong point.
+		유혹..같은거 저 못해요
+00:05:44	 
+		 
+00:05:45	Pfft. Man, seduction's easy once you know the basic principles.
+		기본 원칙만 알면 유혹
+		같은 건 식은죽 먹기지
+00:05:47	 
+		 
+00:05:48	There's nothing to it. Oh, really?
+		- 별거 아냐 
+		- 그래요?
+00:05:49	 
+		 
+00:05:49	Well, I don't see a crowd of women following you around.
+		그러는 제인 씨도 여자들이 
+		  떼지어 쫓아다니진 않는데요
+00:05:52	 
+		그러는 제인 씨도 여자들이 
+		  떼지어 쫓아다니진 않는데요
+00:05:52	 
+		 
+00:05:52	Why would I want a crowd of women following me around?
+		내가 왜 여자들이 떼지어 
+		쫓아다니게 만들고 싶겠어?
+00:05:55	 
+		 
+00:05:55	Okay. I'll bite. What's the basic principle?
+		좋아요, 믿는 셈 치고, 
+		그 기본 원칙이란게 뭐죠?
+00:05:58	 
+		 
+00:05:58	Cost you a dollar.
+		- 1 달러 내 
+		- 왜요?
+00:05:59	 
+		- 1 달러 내 
+		- 왜요?
+00:05:59	For what? So you pay attention.
+		- 1 달러 내 
+		- 왜요?
+00:06:00	For what? So you pay attention.
+		 
+00:06:00	For what? So you pay attention.
+		그래야 집중해서 들을 거 아냐
+00:06:01	 
+		그래야 집중해서 들을 거 아냐
+00:06:02	 
+		 
+00:06:07	Love and affection. What?
+		- 애정과 사랑 
+		- 뭐요?
+00:06:08	 
+		 
+00:06:08	Love and affection. Give me my dollar back.
+		- 애.정.과.사.랑 
+		- 1 달러 도로 내놔요
+00:06:11	 
+		 
+00:06:11	When you're seducing someone, what are you offering them?
+		누군가를 유혹할때 
+		애정과 사랑을 심어줘야지
+00:06:13	 
+		누군가를 유혹할때 
+		애정과 사랑을 심어줘야지
+00:06:13	Love and affection. Who doesn't want love and affection?
+		누군가를 유혹할때 
+		애정과 사랑을 심어줘야지
+00:06:15	Love and affection. Who doesn't want love and affection?
+		 
+00:06:15	Love and affection. Who doesn't want love and affection?
+		애정과 사랑을 원하지 
+		  않는 사람도 있어?
+00:06:17	 
+		 
+00:06:17	It's that simple. Seriously, give me my dollar back.
+		- 그게 다야 
+		- 진짜로, 1 달러 내놔요
+00:06:19	 
+		 
+00:06:19	Let me demonstrate. I will bet you 100 more of these dollars
+		그럼 보여주지 
+		1 달러 100장을 걸어도 좋아 
+00:06:22	 
+		 
+00:06:22	That I can seduce any woman here.
+		여기 있는 어떤 여자라도 
+		  유혹할 수 있다는 데 말이야
+00:06:24	 
+		 
+00:06:25	Okay.
+		좋아요
+00:06:26	 
+		 
+00:06:27	The widow.
+		그럼 미망인
+00:06:29	 
+		 
+00:06:35	Wait a minute. What are you-- j-j-jane!
+		잠깐, 지금 뭐하는.. 
+		제, 제인씨!
+00:06:38	 
+		 
+00:06:38	Good job.
+		잘하는 짓이다
+00:06:39	 
+		 
+00:06:43	Hello, sweetheart.
+		안녕 꼬마야
+00:06:44	 
+		 
+00:06:47	Mrs. Sands, my name is Patrick Jane, cbi.
+		샌즈 부인, 저는 CBI의 
+		  패트릭 제인이라고 합니다
+00:06:50	 
+		 
+00:06:50	I'm sorry for your loss.
+		조의를 표합니다
+00:06:52	 
+		 
+00:06:53	Up close, you're really very beautiful.
+		가까이서 보니 정말 
+		  아름다우시군요
+00:06:55	 
+		가까이서 보니 정말 
+		  아름다우시군요
+00:06:56	 
+		 
+00:06:58	That's... Totally inappropriate and--
+		어..쩜 이런 자리에서 
+		  그런 말씀을..
+00:07:00	 
+		 
+00:07:00	Listen to me, Jennifer.
+		들어보세요, 제니퍼
+00:07:01	 
+		 
+00:07:02	I don't know what kind of hold this man has over you...
+		이 남자가 당신의 무슨 
+		  약점을 쥐었는진 모르겠지만
+00:07:04	 
+		 
+00:07:04	Excuse me.Back up now.
+		- 잠깐만요 
+		- 물러서십시오
+00:07:06	Excuse me.Back up now.
+		어서
+00:07:07	 
+		 
+00:07:10	And I'm not exactly sure what kind of trouble you're in,
+		어떤 곤경인지는 모르겠으나 
+		  제가 도움이 될거라 확신합니다
+00:07:13	 
+		어떤 곤경인지는 모르겠으나 
+		  제가 도움이 될거라 확신합니다
+00:07:13	But I'm confident that I can help you.
+		어떤 곤경인지는 모르겠으나 
+		  제가 도움이 될거라 확신합니다
+00:07:15	 
+		 
+00:07:16	Call me, and I'll come. Excuse me, sir. You have to leave.
+		연락주세요 
+		바로 오겠습니다
+00:07:19	 
+		 
+00:07:19	Whoa, whoa, whoa. Hey. No problem.
+		워, 워, 이봐요들 
+		괜찮습니다, 미안해요
+00:07:21	 
+		워, 워, 이봐요들 
+		괜찮습니다, 미안해요
+00:07:21	Sorry. Sorry about that. Come on.
+		워, 워, 이봐요들 
+		괜찮습니다, 미안해요
+00:07:23	 
+		 
+00:07:23	Come on. I'm so sorry.
+		정말 실례했습니다 
+		어서 와요
+00:07:24	 
+		 
+00:07:26	Looks like you owe me 100 bucks.
+		저한테 100 달러 빚지셨군요
+00:07:27	 
+		 
+00:07:29	Early days, Rigsby. Early days.
+		판단하긴 일러 릭츠비, 
+		아직 이르다고
+00:07:31	 
+		 
+00:07:36	CBI HQ Sacramento
+		CBI 본부 
+		세크라멘토
+00:07:38	 
+		 
+00:07:39	I'm disappointed.
+		정말 실망이야, 실망이 커 
+		도대체 얼굴을 들 수가 없다고
+00:07:40	 
+		정말 실망이야, 실망이 커 
+		도대체 얼굴을 들 수가 없다고
+00:07:40	I-i'm--i'm very disappointed, and I'm embarrassed.
+		정말 실망이야, 실망이 커 
+		도대체 얼굴을 들 수가 없다고
+00:07:42	 
+		 
+00:07:42	How could you do this to me?
+		어떻게 나한테 이러나 자네?
+00:07:44	 
+		 
+00:07:44	I told the mayor of san francisco
+		시장에게 내 휘하 중 최고만 
+		  보내겠노라고 보증했는데
+00:07:45	 
+		시장에게 내 휘하 중 최고만 
+		  보내겠노라고 보증했는데
+00:07:45	That I was putting my best people on this.
+		시장에게 내 휘하 중 최고만 
+		  보내겠노라고 보증했는데
+00:07:47	 
+		 
+00:07:49	Oh! Holy mother!
+		아 니미 망할..
+00:07:51	 
+		 
+00:07:51	Who takes off the freakin' labels? I mean, what is that?
+		아니 대체 라벨은 왜 떼는거야? 
+		이건 또 뭐하는 짓거리야?
+00:07:53	 
+		 
+00:07:53	Is this--is this real or is that decaf?
+		이게 오리지널이야? 
+		  아님 카페인 뺀거?
+00:07:55	 
+		 
+00:07:55	I mean, how am I supposed to know which is which?
+		뭐가 뭔지 무슨 수로 알아?
+00:07:57	 
+		 
+00:07:57	Mix 'em both half and half and drink twice as much.
+		둘 다 반반씩 섞어서 
+		양을 두배로 마시세요
+00:07:59	 
+		 
+00:08:03	What kind of idiot drinks decaf anyway?
+		카페인 없는 커피를 마시는 
+		머저리 같은 짓은 왜 하는거야?
+00:08:06	What kind of idiot drinks decaf anyway?
+		 
+00:08:06	What kind of idiot drinks decaf anyway?
+		말을 말자, 지금 커피가 문제야? 
+		대체 생각이 있나 자네?
+00:08:06	 
+		말을 말자, 지금 커피가 문제야? 
+		대체 생각이 있나 자네?
+00:08:06	What is the point? And what were you thinking,
+		말을 말자, 지금 커피가 문제야? 
+		대체 생각이 있나 자네?
+00:08:08	 
+		 
+00:08:08	Leaving this man alone at an event like that?
+		왜 이 사람을 그런 행사에 
+		혼자 두고 온거야?
+00:08:10	 
+		 
+00:08:11	No excuses.
+		변명의 여지가 없습니다
+00:08:12	 
+		 
+00:08:12	I mistakenly treated him as a responsible adult.
+		제인을 그만 실수로 책임감 
+		  있는 어른취급 해버렸습니다
+00:08:15	 
+		 
+00:08:15	I do have a plan. Which is?
+		- 저도 계획이 있어요 
+		- 어떤?
+00:08:16	 
+		 
+00:08:16	Uh, first win the widow's confidence-- aside from her lawyer
+		우선 미망인의 두려움을 
+		  떨치게 한다음..
+00:08:18	Uh, first win the widow's confidence-- aside from her lawyer
+		그 부인이 법무성에 
+		변호사를 통해 
+00:08:19	 
+		그 부인이 법무성에 
+		변호사를 통해 
+00:08:19	Making an official complaint at the attorney general,
+		그 부인이 법무성에 
+		변호사를 통해 
+00:08:20	Making an official complaint at the attorney general,
+		공식 항의서를 제출할거란 
+		  사실은 제쳐놓더라도 말이야,
+00:08:22	 
+		 
+00:08:22	How is that going for you? She's playing hard to get.
+		- 지금 상황은 어떤가? 
+		- 매우 튕기고 있습니다
+00:08:25	 
+		 
+00:08:25	Jane, you close cases.
+		제인, 자네는 해결사야
+00:08:28	 
+		 
+00:08:28	You--you close like a fiend,
+		귀신같은 해결사지
+00:08:30	 
+		 
+00:08:30	So I tolerate you, and i--and I protect you.
+		그래서 자네를 참는 걸세 
+		자네 보호막도 되어주고,
+00:08:32	 
+		 
+00:08:33	And I let you make Lisbon's life a misery.
+		자네가 리스본의 인생을 
+		암울하게 만들어도 내버려두는거지
+00:08:35	 
+		 
+00:08:35	But th-there is a line.
+		하지만.. 선이 있다고, 선이
+00:08:38	 
+		하지만.. 선이 있다고, 선이
+00:08:38	There is a line, and when you cross it,
+		하지만.. 선이 있다고, 선이
+00:08:38	There is a line, and when you cross it,
+		 
+00:08:39	There is a line, and when you cross it,
+		그러니 그 선을 넘으면 그땐 
+		  우리 팀과 내 몸부터 사릴거야
+00:08:40	 
+		그러니 그 선을 넘으면 그땐 
+		  우리 팀과 내 몸부터 사릴거야
+00:08:40	I will protect myself and this unit,
+		그러니 그 선을 넘으면 그땐 
+		  우리 팀과 내 몸부터 사릴거야
+00:08:42	 
+		 
+00:08:43	And I will throw you to the wolves. Okay.
+		자네는 승냥이 떼에게 
+		  던져버리고 말야
+00:08:45	 
+		 
+00:08:46	As long as we're clear. Hey.
+		- 알겠습니다 
+		- 알면 됐네
+00:08:48	As long as we're clear. Hey.
+		어디가!
+00:08:49	 
+		 
+00:08:51	Mm. Yes?
+		여보세요 네
+00:08:52	 
+		 
+00:08:57	It's the a.G.'s office.
+		지방 법무청 전화인데
+00:08:58	 
+		 
+00:08:58	Um, mrs. Sands is willing to drop the matter
+		샌즈 부인이 이번 
+		  일은 잊겠다는군
+00:09:01	 
+		 
+00:09:01	If Jane will apologize to her.
+		제인이 사과만 한다면 말야
+00:09:03	 
+		 
+00:09:03	Great. I'll make the call. She wants to hear it in person, at her house.
+		잘됐군요! 제가 
+		전화하겠습니다
+00:09:04	Great. I'll make the call. She wants to hear it in person, at her house.
+		직접 얼굴보고 
+		  사과 받길 원하네
+00:09:06	Great. I'll make the call. She wants to hear it in person, at her house.
+		본인 자택에서 말야
+00:09:07	 
+		본인 자택에서 말야
+00:09:08	 
+		 
+00:09:31	Do you want to see my trolls?
+		제 트롤인형 보실래요?
+00:09:33	 
+		 
+00:09:33	I'd love to.
+		그거 정말 좋겠구나
+00:09:35	 
+		 
+00:09:47	This one's a boy. His name is Woody Sands.
+		얘는 남자애에요 
+		이름은 우디 샌즈
+00:09:50	 
+		 
+00:09:52	Yeah.
+		네
+00:09:53	 
+		 
+00:09:53	Come.
+		오세요
+00:09:54	 
+		 
+00:10:02	You have a very nice room.
+		방이 정말 멋지구나
+00:10:03	 
+		 
+00:10:03	Thank you. My daddy made it for me.
+		고맙습니다, 우리 아빠가 
+		  만들어주신 거에요
+00:10:05	 
+		 
+00:10:06	This one's a girl. Her name is Wanda Sands.
+		얘는 여자, 이름은 
+		완다 샌즈에요
+00:10:09	 
+		 
+00:10:10	This one's a girl, too. Her name is--
+		얘도 여자에요, 이름은..
+00:10:12	 
+		 
+00:10:12	Whoa. Whoa. i bet I can guess her name.
+		아, 아, 잠깐! 
+		뭔지 알것 같애
+00:10:14	 
+		 
+00:10:17	Warren Moon.
+		- 워렌 문 
+		- 아니죠!
+00:10:18	 
+		- 워렌 문 
+		- 아니죠!
+00:10:18	No.
+		- 워렌 문 
+		- 아니죠!
+00:10:19	 
+		 
+00:10:20	Wiley post?
+		- 윌리 포스트? 
+		- 아니요!
+00:10:21	 
+		- 윌리 포스트? 
+		- 아니요!
+00:10:21	No.
+		- 윌리 포스트? 
+		- 아니요!
+00:10:22	 
+		 
+00:10:24	Wendy Sands.
+		- 웬디 샌즈 
+		- 맞아요
+00:10:25	 
+		- 웬디 샌즈 
+		- 맞아요
+00:10:25	Yes.
+		- 웬디 샌즈 
+		- 맞아요
+00:10:26	 
+		 
+00:10:38	Bye.
+		- 안녕 
+		- 안녕
+00:10:39	 
+		- 안녕 
+		- 안녕
+00:10:39	Bye.
+		- 안녕 
+		- 안녕
+00:10:40	 
+		 
+00:10:46	Thank you.
+		고맙습니다
+00:10:46	 
+		 
+00:10:47	Are you married, mr. Jane?
+		기혼이신가요, 제인씨?
+00:10:48	 
+		 
+00:10:48	Was. She's dead.
+		예전에는요 
+		지금은 사별했습니다
+00:10:51	 
+		 
+00:10:51	Oh, I'm sorry. What happened?
+		유감이군요 
+		어쩌시다가..?
+00:10:53	 
+		 
+00:10:53	It doesn't matter.
+		그건 중요하지 않아요
+00:10:55	 
+		 
+00:10:57	 
+		제인씨는 어딘가 정말 
+		신비한 데가 있는 분이세요
+00:10:57	You have a very strange way about you, mr. Jane.
+		제인씨는 어딘가 정말 
+		신비한 데가 있는 분이세요
+00:10:59	 
+		 
+00:10:59	Do i?
+		그런가요?
+00:11:00	 
+		 
+00:11:00	After the memorial service,
+		장례식장의 일을 생각하면 
+00:11:01	After the memorial service,
+		제인씨의 해고 요청을 해야 
+		  마땅한데 참 이상하죠
+00:11:01	 
+		제인씨의 해고 요청을 해야 
+		  마땅한데 참 이상하죠
+00:11:01	I don't know why I simply don't have you fired.
+		제인씨의 해고 요청을 해야 
+		  마땅한데 참 이상하죠
+00:11:03	 
+		 
+00:11:04	Are you usually so forthright?
+		평소에도 그렇게 직설적이세요?
+00:11:06	 
+		 
+00:11:06	What's on your mind, mrs. Sands? Why am I here?
+		지금 무슨 생각 하시나요, 부인?
+		왜 저를 여기로 부르셨나요?
+00:11:09	 
+		 
+00:11:09	You know why. I want an apology.
+		왜긴요, 사과를 원하니까요
+00:11:12	 
+		 
+00:11:13	No, you don't.
+		그게 아닐텐데요
+00:11:14	 
+		 
+00:11:22	Here you go, Julie.
+		(이거 봐라, 줄리야)
+00:11:23	 
+		 
+00:11:25	You told me
+		도움이 필요하게 되면
+		연락하라고 하셨죠
+00:11:26	 
+		도움이 필요하게 되면
+		연락하라고 하셨죠
+00:11:26	If I was ever to need your help, I should call you.
+		도움이 필요하게 되면
+		연락하라고 하셨죠
+00:11:28	 
+		 
+00:11:28	Yes.
+		네
+00:11:29	 
+		 
+00:11:31	And here I am.
+		그래서 이렇게 왔습니다
+00:11:32	 
+		 
+00:11:32	You were right.
+		제인 씨 말씀이 맞았어요
+00:11:33	 
+		 
+00:11:33	Bennett did upset me at the service.
+		아까는 베넷씨 때문에
+		  정말 당황했어요
+00:11:35	 
+		 
+00:11:36	He told me the truth about Jason. Which is?
+		남편에 대한 새로운 
+		사실을 말해줬거든요
+00:11:38	He told me the truth about Jason. Which is?
+		사실이라면..?
+00:11:39	 
+		 
+00:11:39	His investment business was a sham,
+		그이의 투자 사업은 
+		  사기였다는군요
+00:11:41	 
+		 
+00:11:41	Went broke ages ago.
+		이미 한참전에 파산 상태였대요
+00:11:43	 
+		 
+00:11:43	Our bank accounts are empty.
+		저희 은행잔고는 텅 비었고
+00:11:45	 
+		 
+00:11:45	He left me and Julie
+		그이는 줄리와 저에게 
+		막대한 빚만 남겨두고 간거죠
+00:11:46	 
+		그이는 줄리와 저에게 
+		막대한 빚만 남겨두고 간거죠
+00:11:46	With nothing but massive debts, penniless.
+		그이는 줄리와 저에게 
+		막대한 빚만 남겨두고 간거죠
+00:11:48	With nothing but massive debts, penniless.
+		한푼도 없이요
+00:11:49	 
+		 
+00:11:50	We're gonna have to sell the house
+		이 집도 팔아야하고.. 
+		뭐든 팔아야 할 지경이에요
+00:11:52	 
+		이 집도 팔아야하고.. 
+		뭐든 팔아야 할 지경이에요
+00:11:52	And--and--and--and everything else we own.
+		이 집도 팔아야하고.. 
+		뭐든 팔아야 할 지경이에요
+00:11:54	 
+		 
+00:11:55	I'm so sorry.
+		유감입니다
+00:11:56	 
+		 
+00:11:56	The i.R.S. And the s.E.C. And I don't know who else
+		국세청에, 증권거래 
+		위원회까지..
+00:11:58	The i.R.S. And the s.E.C. And I don't know who else
+		 
+00:11:58	The i.R.S. And the s.E.C. And I don't know who else
+		그이를 조사중인 곳이
+		  또 얼마나 있을지..
+00:11:59	 
+		그이를 조사중인 곳이
+		  또 얼마나 있을지..
+00:11:59	Were investigating him for fraud. He told you nothing?
+		그이를 조사중인 곳이
+		  또 얼마나 있을지..
+00:12:00	Were investigating him for fraud. He told you nothing?
+		생전에 아무 말 
+		  없으셨고요?
+00:12:02	 
+		 
+00:12:02	Nothing. Nothing.
+		아무 것도요
+00:12:03	Nothing. Nothing.
+		아무 말도요
+00:12:04	 
+		 
+00:12:05	Turns out our--our marriage was a lie.
+		결국 저희 관계도 
+		  거짓이었던 거죠
+00:12:08	 
+		 
+00:12:08	Our--our whole life together was a lie.
+		 
+00:12:08	Our--our whole life together was a lie.
+		함께한 세월이 다 
+		  거짓인거에요
+00:12:11	 
+		 
+00:12:12	Perhaps he was ashamed in his failure.
+		본인의 실패가 
+		  창피해서일지 모르죠
+00:12:14	 
+		 
+00:12:14	No. Ashamed? Jason?
+		창피요? 그 사람이?
+00:12:17	 
+		 
+00:12:18	No.
+		아니에요
+00:12:19	 
+		 
+00:12:19	I always knew he had a-a secretive, mistrustful side,
+		항상 의심도 많고 숨기는 성격인 
+		  건 알았지만.. 이 정도일 줄은!
+00:12:22	 
+		 
+00:12:22	But this? Every couple has secrets.
+		어느 커플이나 비밀은 
+		있게 마련이에요
+00:12:24	 
+		 
+00:12:24	There are rooms in this house I didn't even know were there.
+		제 집안에 있는 줄도 
+		몰랐던 방이 있다고요!
+00:12:27	 
+		 
+00:12:29	Mrs. Sands, you asked me...
+		샌즈 부인 
+		저에게..
+00:12:30	 
+		샌즈 부인 
+		저에게..
+00:12:31	 
+		 
+00:12:32	 
+		도움을 요청하셨죠
+00:12:32	To help you.
+		도움을 요청하셨죠
+00:12:33	 
+		 
+00:12:34	Yes.
+		네
+00:12:35	 
+		 
+00:12:35	How can I do that?
+		어떤 도움이 필요하세요?
+00:12:36	 
+		 
+00:12:37	If I know Jason, he--he-- there's something left.
+		제가 아는 남편이라면.. 
+		  뭔가 남아있어요
+00:12:41	 
+		 
+00:12:41	He would have hid a nest egg somewhere.
+		어딘가 비상금을 
+		숨겨뒀을 거에요
+00:12:43	 
+		어딘가 비상금을 
+		숨겨뒀을 거에요
+00:12:43	 
+		그렇게 생각 안하세요?
+00:12:43	Don't you think it's possible?
+		그렇게 생각 안하세요?
+00:12:45	 
+		 
+00:12:45	Whoever killed him certainly thought so.
+		범인도 분명 그렇게 
+		  생각했겠군요
+00:12:47	 
+		 
+00:12:55	Sheriff's department.
+		보안관 사무소에서 나왔습니다
+00:12:56	 
+		 
+00:12:58	What is this? Who are you?
+		이게 뭐에요? 
+		당신들 누구에요?
+00:13:00	 
+		 
+00:13:00	Asset seizure. No trouble. Start upstairs, boys.
+		재산 차압입니다 
+		문제 일으킬 거 없어요
+00:13:03	Asset seizure. No trouble. Start upstairs, boys.
+		 
+00:13:03	Asset seizure. No trouble. Start upstairs, boys.
+		윗층부터 시작들 해 
+00:13:04	 
+		 
+00:13:04	Cbi. Department of justice. Hang on a second.
+		법무부 소속 CBI 입니다 
+		잠깐 기다려보세요
+00:13:06	 
+		 
+00:13:11	Yeah, this is in order,
+		예 법원명령은 확실히 있는데
+00:13:12	 
+		 
+00:13:12	But, uh, where's your lethal toxins immunization papers? Excuse me?
+		어, 치사 독성물 면역 
+		확인서는 어디있나요?
+00:13:15	But, uh, where's your lethal toxins immunization papers? Excuse me?
+		 
+00:13:15	But, uh, where's your lethal toxins immunization papers? Excuse me?
+		뭐라고요?
+00:13:16	 
+		 
+00:13:16	Did they not tell you the score here? Did you get your shots?
+		여기 상황 못들으셨어요? 
+		주사는 맞고 오셨나요?
+00:13:19	 
+		 
+00:13:20	Shots? What are you talking about?
+		주사? 뭔 소립니까?
+00:13:21	 
+		 
+00:13:21	Shots. There was a murder here.
+		예방 주사 말이에요 
+		여기서 살인사건이 있었습니다
+00:13:23	 
+		 
+00:13:23	Yeah, I know.
+		- 네 알죠 
+		- 실례하겠습니다
+00:13:24	 
+		- 네 알죠 
+		- 실례하겠습니다
+00:13:25	Excuse me a minute.
+		- 네 알죠 
+		- 실례하겠습니다
+00:13:26	 
+		 
+00:13:29	Suspected poisoning.
+		중독으로 짐작되는데
+00:13:31	 
+		 
+00:13:34	Anthrax.
+		탄저균 같아요
+00:13:35	 
+		 
+00:13:38	Come on. Let's, uh, let's go, guys.
+		자, 자, 이, 일단 가보자
+00:13:39	 
+		 
+00:13:41	Get your shots.
+		주사 맞고 오세요 
+		그때 또 얘기하죠
+00:13:42	 
+		주사 맞고 오세요 
+		그때 또 얘기하죠
+00:13:42	We'll talk.
+		주사 맞고 오세요 
+		그때 또 얘기하죠
+00:13:43	 
+		 
+00:13:43	Shots. Yeah.
+		주사라니, 네
+00:13:45	 
+		 
+00:13:49	Looks like Sands was bust all right.
+		피해자는 정말 영락없이 
+		  체포됐던 모양이야
+00:13:51	 
+		 
+00:13:51	He used to be huge, but he made some really bad calls in i.T.
+		꽤나 큰 사업체였는데, IT분야에 
+		  말아먹은 돈이 꽤 되나봐
+00:13:54	 
+		 
+00:13:55	Over the past five years,
+		지난 5년간 회사가치가 
+		  거의 제로까지 하락했어
+00:13:56	 
+		지난 5년간 회사가치가 
+		  거의 제로까지 하락했어
+00:13:56	His business has dwindled down to almost nothing.
+		지난 5년간 회사가치가 
+		  거의 제로까지 하락했어
+00:13:58	 
+		 
+00:13:58	No clients. No income.
+		고객도, 수익도 없고..
+00:14:00	 
+		 
+00:14:00	There were indictments and injunctions
+		여기저기서 기소장에 
+		  강제명령이 날아오니
+00:14:02	 
+		여기저기서 기소장에 
+		  강제명령이 날아오니
+00:14:02	And the whole nightmare coming, just down the road. The strange thing is,
+		여기저기서 기소장에 
+		  강제명령이 날아오니
+00:14:02	And the whole nightmare coming, just down the road. The strange thing is,
+		순식간에 악몽이 들이닥친거지
+00:14:04	And the whole nightmare coming, just down the road. The strange thing is,
+		 
+00:14:04	And the whole nightmare coming, just down the road. The strange thing is,
+		한가지 이상한 점은, 
+		  2주 전까지만 해도 
+00:14:05	 
+		한가지 이상한 점은, 
+		  2주 전까지만 해도 
+00:14:05	Until a couple of weeks ago, there was $10 million
+		한가지 이상한 점은, 
+		  2주 전까지만 해도 
+00:14:06	Until a couple of weeks ago, there was $10 million
+		 
+00:14:06	Until a couple of weeks ago, there was $10 million
+		개인 계좌에 1000 만불에 달하는 
+		현금, 채권, 주식이 있었다는 거에요
+00:14:07	 
+		개인 계좌에 1000 만불에 달하는 
+		현금, 채권, 주식이 있었다는 거에요
+00:14:07	In his personal accounts in cash and bonds and stocks,
+		개인 계좌에 1000 만불에 달하는 
+		현금, 채권, 주식이 있었다는 거에요
+00:14:10	 
+		 
+00:14:10	Most of it deposited over the last year. His business is dead for years.
+		대부분 작년에 입금된 돈이죠
+00:14:11	Most of it deposited over the last year. His business is dead for years.
+		사업은 수년간 망한 상태였는데 
+		1000만 달러를 어디서 구한거야? 
+00:14:12	 
+		사업은 수년간 망한 상태였는데 
+		1000만 달러를 어디서 구한거야? 
+00:14:12	Where do you get $10 million from? More importantly, where is it now?
+		사업은 수년간 망한 상태였는데 
+		1000만 달러를 어디서 구한거야? 
+00:14:13	Where do you get $10 million from? More importantly, where is it now?
+		그보다 중요한건, 그 돈이 
+		  지금은 어디 간거고?
+00:14:15	 
+		 
+00:14:15	That's what his killers wanted to know. Hey.
+		살인범들도 그 사실이 궁금했겠지
+00:14:16	That's what his killers wanted to know. Hey.
+		 
+00:14:16	That's what his killers wanted to know. Hey.
+		근데, 미망인이 그 돈에 대해 
+		  모르고 있는 거 확실해요?
+00:14:16	 
+		근데, 미망인이 그 돈에 대해 
+		  모르고 있는 거 확실해요?
+00:14:16	Are you sure the widow doesn't know where it is?
+		근데, 미망인이 그 돈에 대해 
+		  모르고 있는 거 확실해요?
+00:14:18	 
+		 
+00:14:19	No, she's genuinely broke and genuinely scared
+		응, 부인은 정말로 파산했고 
+		  정말로 두려워하고 있어
+00:14:23	 
+		 
+00:14:24	You're not soft on her, are you?
+		부인한테 맘이 약해진 
+		  건 아니지, 응?
+00:14:25	 
+		 
+00:14:25	No. Maybe a little.
+		응
+00:14:26	No. Maybe a little.
+		
+00:14:26	No. Maybe a little.
+		어쩌면 조금은 
+00:14:27	 
+		 
+00:14:28	We need to talk to the lawyer. What's his--
+		우린 그 변호사를 만나봐야해
+00:14:29	 
+		 
+00:14:29	Bennett? We need to talk to him.
+		베넷말야? 
+		  '우리'가 만나봐야지
+00:14:32	 
+		 
+00:14:32	You need to stay well away. Did you say maybe a little?
+		너는 저만치 
+		떨어져있어야 되고 
+00:14:34	You need to stay well away. Did you say maybe a little?
+		
+00:14:34	You need to stay well away. Did you say maybe a little?
+		방금 조금이라고 했어?
+00:14:36	 
+		 
+00:14:36	She's a gorgeous, grieving widow.
+		비탄에 잠긴 
+		  미모의 미망인이잖아
+00:14:38	 
+		 
+00:14:38	Of course maybe a little.
+		당연히 조금은 약해지지
+00:14:39	 
+		 
+00:14:40	Don't worry.
+		걱정마, 내 일에 
+		  영향을 주진 않을 거야
+00:14:41	 
+		걱정마, 내 일에 
+		  영향을 주진 않을 거야
+00:14:41	It's not going to affect my work.
+		걱정마, 내 일에 
+		  영향을 주진 않을 거야
+00:14:42	 
+		 
+00:14:42	I'm a law enforcement professional.
+		난 엄연한 프로 수사관 
+		  이라니까, 참 나
+00:14:45	 
+		난 엄연한 프로 수사관 
+		  이라니까, 참 나
+00:14:45	Jeez.
+		난 엄연한 프로 수사관 
+		  이라니까, 참 나
+00:14:46	 
+		 
+00:14:51	My sincere apologies for our operative Jane, by the way.
+		그나저나 저희 제인 직원의 
+		  일은 진심으로 사과드려요
+00:14:53	 
+		 
+00:14:53	Unconscionable.
+		말도 안되는 짓이었죠
+00:14:55	 
+		 
+00:14:55	Supervising agent Minelli gave him a severe reprimand.
+		미넬리 감독요원께서 제인을 
+		  강하게 견책하였습니다
+00:14:57	 
+		 
+00:14:57	Well, think nothing of it.
+		아, 신경쓰지 마세요
+00:14:59	 
+		 
+00:15:00	I can't tell you how sad I am about all this.
+		이 모든게 다 너무 
+		안타까운 일이로군요
+00:15:03	 
+		How can I help?
+		 
+		무엇을 도와드리면 될까요?
+00:15:04	 
+		 
+00:15:04	I'll try and be brief. You were Sands' lawyer.
+		간단하게 말씀드릴게요, 선생님은 
+		  샌즈 가(家) 변호사이시죠
+00:15:07	 
+		 
+00:15:07	You had to have known he was in ruinous debt.
+		샌즈 씨가 어마어마한 빚더미에 
+		  앉아있었다는 것을 아셨을텐데요
+00:15:09	 
+		 
+00:15:09	Yeah, I knew there were difficulties,
+		네, 사정이 어려운 건 알았지만.. 
+		  그 정도로 깊은 수렁일 줄은 몰랐습니다
+00:15:11	 
+		네, 사정이 어려운 건 알았지만.. 
+		  그 정도로 깊은 수렁일 줄은 몰랐습니다
+00:15:11	But I had no idea how deep he was in it.
+		네, 사정이 어려운 건 알았지만.. 
+		  그 정도로 깊은 수렁일 줄은 몰랐습니다
+00:15:13	 
+		 
+00:15:14	I don't deal in his business affairs.
+		저는 샌즈씨의 사업에 관여 
+		  하는 변호사가 아닙니다
+00:15:16	 
+		 
+00:15:16	I'm his family lawyer,
+		가족의 고문 변호사이죠
+00:15:18	 
+		 
+00:15:18	So I look after his personal financial matters,
+		그러니 제가 담당하는 건 
+		  그분의 개인자금 관련 문제였죠
+00:15:20	 
+		 
+00:15:20	Which until recently, were in pretty good shape.
+		그리고 최근까지, 샌즈 씨의 개인 
+		  자산은 꽤 좋은 상태였습니다
+00:15:22	 
+		 
+00:15:22	Yeah, two weeks ago,
+		네, 2 주전에 샌즈씨는 1000만 달러의 
+		  연금 계좌를 현금으로 전환시켰어요
+00:15:23	 
+		네, 2 주전에 샌즈씨는 1000만 달러의 
+		  연금 계좌를 현금으로 전환시켰어요
+00:15:23	He converted a $10 million pension account into cash.
+		네, 2 주전에 샌즈씨는 1000만 달러의 
+		  연금 계좌를 현금으로 전환시켰어요
+00:15:26	 
+		 
+00:15:26	It's pretty much all he had. Which is his right.
+		- 사실상 본인의 전재산이던데요 
+		  - 그건 본인의 자유지요
+00:15:28	 
+		 
+00:15:29	I learned about it after the fact from his accountants.
+		저도 샌즈씨의 회계사가 
+		  말해줘서 알았어요
+00:15:31	 
+		 
+00:15:31	It's a huge withdrawal,
+		인출금액이 어마어마했는데
+00:15:34	 
+		 
+00:15:34	But, uh, of course, I figured he had much more in reserve.
+		저는 당연히 더 저축해둔 
+		  돈이 있을 줄 알았지요
+00:15:37	 
+		 
+00:15:37	Did you ask him what he was doing with the money?
+		그 돈을 다 어디에 
+		  쓰려는지 여쭤 보셨나요?
+00:15:39	 
+		그 돈을 다 어디에 
+		  쓰려는지 여쭤 보셨나요?
+00:15:39	 
+		 
+00:15:39	 
+		예 물어봤습니다
+00:15:39	I did. He told me he needed it to surprise his wife.
+		예 물어봤습니다
+00:15:41	I did. He told me he needed it to surprise his wife.
+		 
+00:15:41	I did. He told me he needed it to surprise his wife.
+		아내를 놀라게 해줄 
+		  일이 있다는군요
+00:15:44	 
+		 
+00:15:44	He did that all right.
+		네 확실히 놀라게는 했지요
+00:15:45	 
+		 
+00:15:46	I believed him.
+		그 말을 믿었지요
+00:15:47	 
+		 
+00:15:48	What do you believe now?
+		지금은 어떻게 믿고 계세요?
+00:15:49	 
+		 
+00:15:49	I think he was looking at jail time.
+		감옥형이 거의 
+		  확정됐던거 같아요
+00:15:51	 
+		 
+00:15:51	I think he grabbed as much cash as he could,
+		제 생각에는 최대한 현금을 만들어서 
+		  도피를 할 계획이었던 거 같습니다
+00:15:53	 
+		제 생각에는 최대한 현금을 만들어서 
+		  도피를 할 계획이었던 거 같습니다
+00:15:53	And he was gonna run away.
+		제 생각에는 최대한 현금을 만들어서 
+		  도피를 할 계획이었던 거 같습니다
+00:15:54	 
+		 
+00:15:54	Thanks for your help, counselor. We'll be in touch
+		감사합니다, 변호사님 
+		또 연락드릴게요
+00:15:57	 
+		 
+00:15:57	Okay. Whatever you need, I'm at your service.
+		예, 무엇이든 연락주십시오 
+		대기하고 있겠습니다
+00:15:59	 
+		 
+00:16:00	Hey. We found out where that money was coming from.
+		반장님, 그 돈의 
+		  출처를 찾아냈어요
+00:16:03	 
+		 
+00:16:03	Sands owns an office supply company that supplies
+		샌즈는 사무용품 회사를 
+		  하나 가지고 있는데
+00:16:06	 
+		 
+00:16:06	This Happy Landings Entertainment with copy paper.
+		해피 랜딩스 엔터테인먼트 사에 
+		  복사 용지를 제공하는 회사에요
+00:16:08	 
+		 
+00:16:08	Over the last 2 years, $55.2 million worth.
+		지난 2년 동안, 그 회사의 
+		  가치는 5520 만 달러였죠
+00:16:11	 
+		 
+00:16:11	Who owns Happy Landings Entertainment?
+		해피 랜딩스 엔터테인먼트라는 
+		  회사의 소유주는 누구야?
+00:16:13	Who owns Happy Landings Entertainment?
+		 
+00:16:13	Who owns Happy Landings Entertainment?
+		스위스에 있는 합동 기업들이
+		  한 유령회사 간판뒤로 숨어있는데
+		
+00:16:13	 
+		스위스에 있는 합동 기업들이
+		  한 유령회사 간판뒤로 숨어있는데
+		
+00:16:13	It's a shell company hidden in a swiss trust
+		스위스에 있는 합동 기업들이
+		  한 유령회사 간판뒤로 숨어있는데
+		
+00:16:15	 
+		스위스에 있는 합동 기업들이
+		  한 유령회사 간판뒤로 숨어있는데
+		
+00:16:15	Wrapped in a dummy corporation.
+		스위스에 있는 합동 기업들이
+		  한 유령회사 간판뒤로 숨어있는데
+		
+00:16:15	Wrapped in a dummy corporation.
+		 
+00:16:15	Wrapped in a dummy corporation.
+		거기도 그 중 하나에요
+00:16:17	 
+		It'll take a while to untangle. But Sands' company?
+		 
+		그 회사를 추적하는건 
+		  꽤 복잡하겠지만, 
+00:16:19	 
+		It'll take a while to untangle. But Sands' company?
+		 
+00:16:19	 
+		It'll take a while to untangle. But Sands' company?
+		샌즈의 회사는 혼자만 다른 
+		  영업소재지를 등록해놨어요
+00:16:20	 
+		It's the only one of his businesses
+		샌즈의 회사는 혼자만 다른 
+		  영업소재지를 등록해놨어요
+00:16:21	 
+		샌즈의 회사는 혼자만 다른 
+		  영업소재지를 등록해놨어요
+00:16:21	Under a separate corporate address. In Sausalito?
+		샌즈의 회사는 혼자만 다른 
+		  영업소재지를 등록해놨어요
+00:16:23	Under a separate corporate address. In Sausalito?
+		 
+00:16:23	Under a separate corporate address. In Sausalito?
+		쏘살리토 잖아?  (샌프란
+		  시스코 건너편의 항구도시)
+00:16:24	 
+		 
+00:16:24	Odd, huh? Nice work.
+		- 그러게 이상하죠? 
+		  - 수고했어
+00:16:26	Odd, huh? Nice work.
+		 
+00:16:26	Odd, huh? Nice work.
+		이제 거기 가나요? 
+00:16:26	 
+		이제 거기 가나요? 
+00:16:26	Are we gonna have a look? We are. You're gonna stay here and keep digging.
+		이제 거기 가나요? 
+00:16:27	Are we gonna have a look? We are. You're gonna stay here and keep digging.
+		 
+00:16:27	Are we gonna have a look? We are. You're gonna stay here and keep digging.
+		우리는 가는데, 너는 
+		  남아서 더 찾아봐야지
+00:16:29	 
+		 
+00:16:30	Who owns Happy Landings Entertainment?
+		해피 랜딩스 엔터테인먼트의 
+		  소유주는 누굴까?
+00:16:32	 
+		 
+00:16:38	Huh. Doesn't look like a copy paper business, does it?
+		그다지 복사용지 
+		회사같이 안보이는데요
+00:16:40	Huh. Doesn't look like a copy paper business, does it?
+		 
+00:16:40	Huh. Doesn't look like a copy paper business, does it?
+		에, 그러게 
+00:16:40	 
+		에, 그러게 
+00:16:40	Uh, no. This is it. You coming aboard?
+		에, 그러게 
+00:16:42	Uh, no. This is it. You coming aboard?
+		 
+00:16:42	Uh, no. This is it. You coming aboard?
+		바로 여기야, 너도 승선할래?
+00:16:44	 
+		 
+00:16:45	Why not?
+		안갈 이유도 없지
+00:16:46	 
+		 
+00:16:46	If Sands lied about this, what else did he cover up?
+		이런 거짓말도 하는 사람이면 
+		  그 밖에 또 뭘 숨겼을까요?
+00:16:49	 
+		 
+00:17:18	The place is trashed.
+		난장판인데
+00:17:19	 
+		 
+00:17:26	 
+		조, 위로 가
+00:17:27	 
+		 
+00:17:52	I'm--i'm just gonna wait on--on the jetty.
+		나..난 그냥 
+		  선창에서 기다릴게
+00:17:54	 
+		 
+00:18:01	Who are you?
+		당신 누구야?
+00:18:02	 
+		 
+00:18:03	Patrick Jane, cbi.
+		CBI 의 패트릭 제인입니다
+00:18:06	 
+		 
+00:18:09	Don't shoot.
+		쏘지 마세요
+00:18:10	 
+		 
+00:18:13	What's that, cbi?
+		그게 뭐야, CBI가?
+00:18:14	 
+		 
+00:18:14	Police. Lay the gun down. Show me the badge.
+		- 경찰이다, 총 내려놔 
+		  - 뱃지 보여줘
+00:18:17	 
+		 
+00:18:17	Put the gun down! Okay, police.
+		- 총 내려놔! 
+		  - 알았어요, 경찰
+00:18:20	 
+		 
+00:18:20	I make no trouble. No problem.
+		말썽 안 부릴게요 
+		  문제 없어요
+00:18:22	 
+		 
+00:18:23	Who'd you think we were? Nobody.
+		- 우리가 누군줄 안거죠? 
+		  - 아무도요
+00:18:25	 
+		 
+00:18:26	Who are you? What are you looking for?
+		당신은 누구지? 
+		  뭘 찾고 있던 거에요?
+00:18:28	 
+		 
+00:18:28	This is my boat. I can do what I like
+		여긴 내 배에요 
+		뭘 하든 내 자유죠
+00:18:30	 
+		 
+00:18:30	Yeah, it's very nice, very put together.
+		그러게, 참 좋네요, 
+		정돈도 잘 되어있고?
+00:18:33	 
+		 
+00:18:33	This boat belongs to Jason Sands.
+		이 배는 제이슨 
+		샌즈 소유거든요
+00:18:35	 
+		 
+00:18:35	Yes. And Jason Sands is my fiance.
+		맞아요, 제이슨 샌즈는 
+		제 약혼자라고요
+00:18:38	 
+		 
+00:18:43	Adrianna, we can charge you right now
+		애이드리아나, 우린 
+		지금이라도 당신을
+00:18:45	 
+		 
+00:18:45	With burglary, Vandalism, assault with a deadly weapon.
+		절도, 재물 손괴, 흉기를 이용한 
+		폭행으로 기소할 수 있어요
+00:18:48	 
+		 
+00:18:48	That's 10 to 15 right there.
+		그것만 해도 바로 
+		10 에서 15 년 형이군요
+00:18:50	 
+		 
+00:18:50	Wouldn't you rather talk to us about
+		그러니 당신의 상황을 
+		설명하는게 낫지 않겠어요?
+00:18:51	 
+		그러니 당신의 상황을 
+		설명하는게 낫지 않겠어요?
+00:18:51	Your situation? From you, I buy cookies
+		그러니 당신의 상황을 
+		설명하는게 낫지 않겠어요?
+00:18:52	Your situation? From you, I buy cookies
+		 
+00:18:52	Your situation? From you, I buy cookies
+		당신한테는 과자나 사지, 
+		상황 설명은 안해요
+00:18:54	 
+		I don't talk about situation. Listen. We have enough--
+		당신한테는 과자나 사지, 
+		상황 설명은 안해요
+00:18:56	 
+		I don't talk about situation. Listen. We have enough--
+		 
+00:18:56	 
+		I don't talk about situation. Listen. We have enough--
+		잘들어, 이미 우리는..
+00:18:58	 
+		잘들어, 이미 우리는..
+00:18:59	 
+		 
+00:19:08	 
+		잘생긴 오빠네
+00:19:08	The handsome one.
+		잘생긴 오빠네
+00:19:09	 
+		잘생긴 오빠네
+00:19:10	 
+		 
+00:19:11	Gay, yes?
+		 
+00:19:11	Gay, yes?
+		게이, 맞지요?
+00:19:12	 
+		게이, 맞지요?
+00:19:13	 
+		 
+00:19:13	 
+		이건 살인수사에요
+00:19:14	This is a murder investigation.
+		이건 살인수사에요
+00:19:16	 
+		이건 살인수사에요
+00:19:16	 
+		 
+00:19:16	 
+		당신은 사건발생 추정시간의 
+		알리바이도 없어요
+00:19:16	You've got no alibi for the time frame in question.
+		당신은 사건발생 추정시간의 
+		알리바이도 없어요
+00:19:18	You've got no alibi for the time frame in question.
+		 
+00:19:18	You've got no alibi for the time frame in question.
+		지금은 당신을 
+		용의자로 보고있어요
+00:19:19	 
+		지금은 당신을 
+		용의자로 보고있어요
+00:19:19	We're looking at you as a suspect.
+		지금은 당신을 
+		용의자로 보고있어요
+00:19:21	We're looking at you as a suspect.
+		 
+00:19:21	We're looking at you as a suspect.
+		조금더 상황을 진지하게
+		여기는 게 좋을 거에요
+00:19:21	 
+		조금더 상황을 진지하게
+		여기는 게 좋을 거에요
+00:19:21	You should take this a little more seriously.
+		조금더 상황을 진지하게
+		여기는 게 좋을 거에요
+00:19:23	 
+		조금더 상황을 진지하게
+		여기는 게 좋을 거에요
+00:19:24	 
+		 
+00:19:24	 
+		있잖아요, 내가 이만했을때
+00:19:24	You know, when I was this big,
+		있잖아요, 내가 이만했을때
+00:19:27	 
+		있잖아요, 내가 이만했을때
+00:19:27	 
+		 
+00:19:27	 
+		2년 동안 임시 
+		수용소에 있었어요
+00:19:28	I was in a detention camp for two years.
+		2년 동안 임시 
+		수용소에 있었어요
+00:19:31	 
+		2년 동안 임시 
+		수용소에 있었어요
+00:19:31	 
+		 
+00:19:32	 
+		- 내말 알겠어요? 
+		- 알겠어요
+00:19:32	You understand? I understand.
+		- 내말 알겠어요? 
+		- 알겠어요
+00:19:33	You understand? I understand.
+		 
+00:19:33	You understand? I understand.
+		아니, 당신은 몰라
+00:19:33	 
+		아니, 당신은 몰라
+00:19:33	No, you don't.
+		아니, 당신은 몰라
+00:19:35	 
+		아니, 당신은 몰라
+00:19:36	 
+		 
+00:19:36	 
+		그게 심각한 거지
+		이건..아니에요
+00:19:36	That was serious.
+		그게 심각한 거지
+		이건..아니에요
+00:19:38	 
+		그게 심각한 거지
+		이건..아니에요
+00:19:38	This--no.
+		그게 심각한 거지
+		이건..아니에요
+00:19:39	This--no.
+		 
+00:19:39	 
+		 
+00:19:42	 
+		무슨 일을 하시죠?
+00:19:42	What do you do for a living?
+		무슨 일을 하시죠?
+00:19:44	 
+		무슨 일을 하시죠?
+00:19:44	 
+		 
+00:19:44	 
+		나는 춤추고, 모델하고, 연기.
+00:19:44	I dance, model, acting.
+		나는 춤추고, 모델하고, 연기.
+00:19:47	I dance, model, acting.
+		 
+00:19:47	I dance, model, acting.
+		- 벌이는 괜찮은가요? 
+		- 괜찮은게 뭐에요?
+00:19:47	 
+		- 벌이는 괜찮은가요? 
+		- 괜찮은게 뭐에요?
+00:19:47	Is that a good living?
+		- 벌이는 괜찮은가요? 
+		- 괜찮은게 뭐에요?
+00:19:48	 
+		- 벌이는 괜찮은가요? 
+		- 괜찮은게 뭐에요?
+00:19:48	What's good?
+		- 벌이는 괜찮은가요? 
+		- 괜찮은게 뭐에요?
+00:19:50	 
+		 
+00:19:50	 
+		제이슨 샌즈와 연인이 
+		된지는 얼마나 되었나요?
+00:19:50	How long were you and Jason Sands lovers?
+		제이슨 샌즈와 연인이 
+		된지는 얼마나 되었나요?
+00:19:52	How long were you and Jason Sands lovers?
+		 
+00:19:52	How long were you and Jason Sands lovers?
+		2 년이요, 우린..
+		연인 이상의 관계였어요
+00:19:52	 
+		2 년이요, 우린..
+		연인 이상의 관계였어요
+00:19:52	Two years. We were-- we were more than lovers.
+		2 년이요, 우린..
+		연인 이상의 관계였어요
+00:19:55	Two years. We were-- we were more than lovers.
+		 
+00:19:55	Two years. We were-- we were more than lovers.
+		결혼을 약속한 상태였죠
+00:19:55	 
+		결혼을 약속한 상태였죠
+00:19:55	We were engaged to be married.
+		결혼을 약속한 상태였죠
+00:19:57	 
+		결혼을 약속한 상태였죠
+00:19:58	 
+		 
+00:19:58	 
+		샌즈는 이미 결혼했는데요
+00:19:58	He was already married.
+		샌즈는 이미 결혼했는데요
+00:19:59	He was already married.
+		 
+00:19:59	He was already married.
+		아뇨, 그 여자와는 
+		이혼을 할 예정이었어요
+00:19:59	 
+		아뇨, 그 여자와는 
+		이혼을 할 예정이었어요
+00:19:59	No, he was divorcing her. She doesn't know that.
+		아뇨, 그 여자와는 
+		이혼을 할 예정이었어요
+00:20:00	No, he was divorcing her. She doesn't know that.
+		 
+00:20:00	No, he was divorcing her. She doesn't know that.
+		- 그 부인은 모르잖아요 
+		- 모르긴요, 알고 있었어요
+00:20:01	 
+		- 그 부인은 모르잖아요 
+		- 모르긴요, 알고 있었어요
+00:20:01	Oh, sure, she does. Why would she tell you?
+		- 그 부인은 모르잖아요 
+		- 모르긴요, 알고 있었어요
+00:20:02	Oh, sure, she does. Why would she tell you?
+		 
+00:20:02	Oh, sure, she does. Why would she tell you?
+		왜 자기 입으로 
+		말하겠어요? 창피한데
+00:20:04	 
+		왜 자기 입으로 
+		말하겠어요? 창피한데
+00:20:04	It's embarrassing. He doesn't want her anymore.
+		왜 자기 입으로 
+		말하겠어요? 창피한데
+00:20:05	It's embarrassing. He doesn't want her anymore.
+		 
+00:20:05	It's embarrassing. He doesn't want her anymore.
+		그이는 더이상 그 여자를 원하지
+		않아요, 창피한 일이에요
+00:20:07	 
+		그이는 더이상 그 여자를 원하지
+		않아요, 창피한 일이에요
+00:20:07	It is embarrassing. What were you looking for?
+		그이는 더이상 그 여자를 원하지
+		않아요, 창피한 일이에요
+00:20:08	It is embarrassing. What were you looking for?
+		 
+00:20:08	It is embarrassing. What were you looking for?
+		뭘 찾고 있었어요?
+00:20:09	 
+		뭘 찾고 있었어요?
+00:20:10	 
+		 
+00:20:10	 
+		그리고 우리는 서로 사랑했어요
+00:20:10	And we loved each other. You loved each other. We hear that.
+		그리고 우리는 서로 사랑했어요
+00:20:11	And we loved each other. You loved each other. We hear that.
+		 
+00:20:11	And we loved each other. You loved each other. We hear that.
+		서로 사랑했다고요 
+		그건 이제 알겠어요
+00:20:12	And we loved each other. You loved each other. We hear that.
+		 
+00:20:12	And we loved each other. You loved each other. We hear that.
+		배 위에선 뭘 찾고 있었나요?
+00:20:13	 
+		배 위에선 뭘 찾고 있었나요?
+00:20:13	What were you looking for on the boat?
+		배 위에선 뭘 찾고 있었나요?
+00:20:15	 
+		배 위에선 뭘 찾고 있었나요?
+00:20:15	 
+		 
+00:20:15	 
+		제이슨은 저와 함께 도망가기 위해서 
+		1000 만 달러 어치의 다이아를 샀어요
+00:20:15	Jason bought $10 million of diamonds
+		제이슨은 저와 함께 도망가기 위해서 
+		1000 만 달러 어치의 다이아를 샀어요
+00:20:18	 
+		제이슨은 저와 함께 도망가기 위해서 
+		1000 만 달러 어치의 다이아를 샀어요
+00:20:19	For when we would run away. I was looking for them.
+		제이슨은 저와 함께 도망가기 위해서 
+		1000 만 달러 어치의 다이아를 샀어요
+00:20:19	For when we would run away. I was looking for them.
+		 
+00:20:19	For when we would run away. I was looking for them.
+		전 그걸 찾고 있었어요
+00:20:21	 
+		전 그걸 찾고 있었어요
+00:20:21	 
+		 
+00:20:21	 
+		다이아를 산 시점이 언제죠?
+00:20:21	When did he buy them?
+		다이아를 산 시점이 언제죠?
+00:20:23	 
+		다이아를 산 시점이 언제죠?
+00:20:24	 
+		 
+00:20:24	 
+		한달 전이요
+00:20:24	A month ago.
+		한달 전이요
+00:20:25	 
+		한달 전이요
+00:20:25	 
+		 
+00:20:25	 
+		한번은 저에게 보여줬어요 
+		아름다웠죠
+00:20:25	Once he showed me them.
+		한번은 저에게 보여줬어요 
+		아름다웠죠
+00:20:27	 
+		한번은 저에게 보여줬어요 
+		아름다웠죠
+00:20:28	They are beautiful.
+		한번은 저에게 보여줬어요 
+		아름다웠죠
+00:20:30	 
+		한번은 저에게 보여줬어요 
+		아름다웠죠
+00:20:30	 
+		 
+00:20:32	 
+		그리고 어딘가에 숨겼는데
+		어디인지는 몰라요
+00:20:33	And then he hid them somewhere. I don't know where.
+		그리고 어딘가에 숨겼는데
+		어디인지는 몰라요
+00:20:34	And then he hid them somewhere. I don't know where.
+		 
+00:20:34	And then he hid them somewhere. I don't know where.
+		도망갈 계획이었다고요
+00:20:35	 
+		도망갈 계획이었다고요
+00:20:35	You were gonna run away? Jason knew that it was the end of the road here.
+		도망갈 계획이었다고요
+00:20:35	You were gonna run away? Jason knew that it was the end of the road here.
+		 
+00:20:35	You were gonna run away? Jason knew that it was the end of the road here.
+		제이슨은 이제 막다른 
+		골목이란 걸 알았어요
+00:20:39	You were gonna run away? Jason knew that it was the end of the road here.
+		 
+00:20:39	You were gonna run away? Jason knew that it was the end of the road here.
+		감옥에 가거나, 살해당하게 되겠죠
+		그래서 우리는 계획을 짰어요
+00:20:39	 
+		감옥에 가거나, 살해당하게 되겠죠
+		그래서 우리는 계획을 짰어요
+00:20:39	He was going to jail
+		감옥에 가거나, 살해당하게 되겠죠
+		그래서 우리는 계획을 짰어요
+00:20:40	 
+		감옥에 가거나, 살해당하게 되겠죠
+		그래서 우리는 계획을 짰어요
+00:20:40	Or going to get killed, so we make a plan.
+		감옥에 가거나, 살해당하게 되겠죠
+		그래서 우리는 계획을 짰어요
+00:20:43	Or going to get killed, so we make a plan.
+		 
+00:20:43	Or going to get killed, so we make a plan.
+		우, 우리는 요트를 타고
+		도망가려고 했어요
+00:20:43	 
+		우, 우리는 요트를 타고
+		도망가려고 했어요
+00:20:43	We are going, to, uh, run away in the sailboat.
+		우, 우리는 요트를 타고
+		도망가려고 했어요
+00:20:46	We are going, to, uh, run away in the sailboat.
+		 
+00:20:46	We are going, to, uh, run away in the sailboat.
+		당신과 제이슨이 
+		요트를 타고 간다고요
+00:20:46	 
+		당신과 제이슨이 
+		요트를 타고 간다고요
+00:20:46	You and him on a sailboat.
+		당신과 제이슨이 
+		요트를 타고 간다고요
+00:20:49	 
+		당신과 제이슨이 
+		요트를 타고 간다고요
+00:20:49	 
+		 
+00:20:49	 
+		그이는 항해술이 좋았어요 
+		  나를 가르쳤어요
+00:20:50	No, he was a good sailor.
+		그이는 항해술이 좋았어요 
+		  나를 가르쳤어요
+00:20:51	 
+		그이는 항해술이 좋았어요 
+		  나를 가르쳤어요
+00:20:51	He teach me.
+		그이는 항해술이 좋았어요 
+		  나를 가르쳤어요
+00:20:52	 
+		그이는 항해술이 좋았어요 
+		  나를 가르쳤어요
+00:20:53	 
+		 
+00:20:53	 
+		만약, 그 망할놈들이 
+		그이를 죽이지만 않았으면
+00:20:54	If, um, those bastards didn't kill him,
+		만약, 그 망할놈들이 
+		그이를 죽이지만 않았으면
+00:20:58	If, um, those bastards didn't kill him,
+		 
+00:20:58	If, um, those bastards didn't kill him,
+		그이와 저와 줄리는 
+		타히티 섬에 있을텐데
+00:20:58	 
+		그이와 저와 줄리는 
+		타히티 섬에 있을텐데
+00:20:58	Maybe me and him and Julie would be in tahiti,
+		그이와 저와 줄리는 
+		타히티 섬에 있을텐데
+00:21:02	Maybe me and him and Julie would be in tahiti,
+		 
+00:21:02	Maybe me and him and Julie would be in tahiti,
+		부자가 되어서요, 
+		여기 당신들과 있는 대신에.. 
+00:21:02	 
+		부자가 되어서요, 
+		여기 당신들과 있는 대신에.. 
+00:21:02	Rich, instead of here with you.
+		부자가 되어서요, 
+		여기 당신들과 있는 대신에.. 
+00:21:05	Rich, instead of here with you.
+		 
+00:21:05	Rich, instead of here with you.
+		주..줄리를 데려가려고 했다고요?
+00:21:06	 
+		주..줄리를 데려가려고 했다고요?
+00:21:06	Y-you were gonna take Julie?
+		주..줄리를 데려가려고 했다고요?
+00:21:07	 
+		주..줄리를 데려가려고 했다고요?
+00:21:07	What bastards. You know who killed him?
+		주..줄리를 데려가려고 했다고요?
+00:21:07	What bastards. You know who killed him?
+		 
+00:21:07	What bastards. You know who killed him?
+		망할 놈들이라니, 누가 
+		죽였는지 알고 있는 거에요?
+00:21:11	 
+		 
+00:21:11	 
+		- 그럼요, 저 알아요 
+		- 말해주세요
+00:21:11	Yeah, sure, I know.
+		- 그럼요, 저 알아요 
+		- 말해주세요
+00:21:12	 
+		- 그럼요, 저 알아요 
+		- 말해주세요
+00:21:12	Tell us. If I tell you, I leave here now.
+		- 그럼요, 저 알아요 
+		- 말해주세요
+00:21:13	Tell us. If I tell you, I leave here now.
+		 
+00:21:13	Tell us. If I tell you, I leave here now.
+		지금 말해주면 난 
+		여기서 나가는 거에요
+00:21:15	 
+		지금 말해주면 난 
+		여기서 나가는 거에요
+00:21:15	 
+		 
+00:21:15	 
+		엉터리 절도죄 
+		이런거 다 없애고
+00:21:15	You drop this burglary stupidness.
+		엉터리 절도죄 
+		이런거 다 없애고
+00:21:18	You drop this burglary stupidness.
+		 
+00:21:18	You drop this burglary stupidness.
+		난 증언도 안할 
+		거에요, 아무것도
+00:21:18	 
+		난 증언도 안할 
+		거에요, 아무것도
+00:21:18	I don't testify. Nothing.
+		난 증언도 안할 
+		거에요, 아무것도
+00:21:20	 
+		난 증언도 안할 
+		거에요, 아무것도
+00:21:20	 
+		 
+00:21:22	 
+		이름만 말해줄 거에요 
+		그게 끝이야
+00:21:22	I give you names. That's it.
+		이름만 말해줄 거에요 
+		그게 끝이야
+00:21:23	 
+		이름만 말해줄 거에요 
+		그게 끝이야
+00:21:24	 
+		 
+00:21:24	 
+		좋아요
+00:21:25	Deal.
+		좋아요
+00:21:26	 
+		좋아요
+00:21:26	 
+		 
+00:21:26	 
+		그 쓰레기 종자들은 
+		나이트클럽을 운영해요
+00:21:27	These, um, scum pigs run nightclubs.
+		그 쓰레기 종자들은 
+		나이트클럽을 운영해요
+00:21:31	 
+		그 쓰레기 종자들은 
+		나이트클럽을 운영해요
+00:21:31	 
+		 
+00:21:31	 
+		제이슨은 놈들이 마약과 여자로
+		번 돈을 세탁해 줬어요
+00:21:31	Jason cleans their, uh,
+		제이슨은 놈들이 마약과 여자로
+		번 돈을 세탁해 줬어요
+00:21:34	 
+		제이슨은 놈들이 마약과 여자로
+		번 돈을 세탁해 줬어요
+00:21:34	Drug and, um, girl money for them.
+		제이슨은 놈들이 마약과 여자로
+		번 돈을 세탁해 줬어요
+00:21:37	Drug and, um, girl money for them.
+		 
+00:21:37	Drug and, um, girl money for them.
+		다이아를 살때 쓴 돈도
+		그 돈이에요
+00:21:38	 
+		다이아를 살때 쓴 돈도
+		그 돈이에요
+00:21:38	It's this money he uses to buy the diamonds.
+		다이아를 살때 쓴 돈도
+		그 돈이에요
+00:21:41	It's this money he uses to buy the diamonds.
+		 
+00:21:41	It's this money he uses to buy the diamonds.
+		혹시 오클랜드 외곽에 해피 랜딩스
+		엔터테인먼트라는 회사를 운영하나요?
+00:21:41	 
+		혹시 오클랜드 외곽에 해피 랜딩스
+		엔터테인먼트라는 회사를 운영하나요?
+00:21:41	Did they have a company called Happy Landings Entertainment
+		혹시 오클랜드 외곽에 해피 랜딩스
+		엔터테인먼트라는 회사를 운영하나요?
+00:21:44	 
+		혹시 오클랜드 외곽에 해피 랜딩스
+		엔터테인먼트라는 회사를 운영하나요?
+00:21:44	Out of oakland? I don't know. They live in oakland.
+		혹시 오클랜드 외곽에 해피 랜딩스
+		엔터테인먼트라는 회사를 운영하나요?
+00:21:44	Out of oakland? I don't know. They live in oakland.
+		 
+00:21:44	Out of oakland? I don't know. They live in oakland.
+		나는 몰라요, 그 사람들 
+		오클랜드에 살긴 해요
+00:21:47	Out of oakland? I don't know. They live in oakland.
+		 
+00:21:47	Out of oakland? I don't know. They live in oakland.
+		그 사람들 이름은?
+00:21:47	 
+		These people have names?
+		그 사람들 이름은?
+00:21:49	 
+		그 사람들 이름은?
+00:21:50	 
+		 
+00:21:50	 
+		디이터 웹, 카터 루이스
+00:21:50	Dieter Webb and Carter Lewis.
+		디이터 웹, 카터 루이스
+00:21:52	 
+		디이터 웹, 카터 루이스
+00:21:53	 
+		 
+00:21:53	 
+		쓰레기 종자들
+00:21:54	Scum pigs.
+		쓰레기 종자들
+00:21:55	 
+		쓰레기 종자들
+00:21:56	 
+		 
+00:21:56	 
+		쓰레기 종자들이라
+00:21:56	Scum pigs.
+		쓰레기 종자들이라
+00:21:57	 
+		쓰레기 종자들이라
+00:21:58	 
+		 
+00:22:00	 
+		디이터와 카터는 
+		대학가 DJ로 시작해서
+00:22:00	Dieter and Carter-- started out as college deejays.
+		디이터와 카터는 
+		대학가 DJ로 시작해서
+00:22:02	Dieter and Carter-- started out as college deejays.
+		 
+00:22:02	Dieter and Carter-- started out as college deejays.
+		지금은 "밤무대 지휘자"라고
+		자칭하고 다니는 놈들이에요
+00:22:02	 
+		지금은 "밤무대 지휘자"라고
+		자칭하고 다니는 놈들이에요
+00:22:02	Nightlife impresarios is what they say they are.
+		지금은 "밤무대 지휘자"라고
+		자칭하고 다니는 놈들이에요
+00:22:05	 
+		 
+00:22:05	 
+		서부 해안쪽에 클럽, 레스토랑,
+		부띠끄 호텔을 경영하고 있고요
+00:22:05	They own clubs, restaurants, boutique hotels
+		서부 해안쪽에 클럽, 레스토랑,
+		부띠끄 호텔을 경영하고 있고요
+00:22:07	 
+		서부 해안쪽에 클럽, 레스토랑,
+		부띠끄 호텔을 경영하고 있고요
+00:22:07	Up and down the west coast.
+		서부 해안쪽에 클럽, 레스토랑,
+		부띠끄 호텔을 경영하고 있고요
+00:22:08	Up and down the west coast.
+		 
+00:22:08	Up and down the west coast.
+		자연히 마약과 매춘이 부업으로 꽃피더니
+		어느덧 놈들의 핵심 사업이 되었죠
+00:22:09	 
+		자연히 마약과 매춘이 부업으로 꽃피더니
+		어느덧 놈들의 핵심 사업이 되었죠
+00:22:09	Drugs and prostitution started as a natural sideline,
+		자연히 마약과 매춘이 부업으로 꽃피더니
+		어느덧 놈들의 핵심 사업이 되었죠
+00:22:11	 
+		자연히 마약과 매춘이 부업으로 꽃피더니
+		어느덧 놈들의 핵심 사업이 되었죠
+00:22:11	Then became their core business. Did we find 'em?
+		자연히 마약과 매춘이 부업으로 꽃피더니
+		어느덧 놈들의 핵심 사업이 되었죠
+00:22:12	Then became their core business. Did we find 'em?
+		 
+00:22:12	Then became their core business. Did we find 'em?
+		놈들 위치는?
+00:22:13	Then became their core business. Did we find 'em?
+		 
+00:22:13	Then became their core business. Did we find 'em?
+		이 놈들은 물밑에 
+		숨어다니길 선호해요
+00:22:13	 
+		이 놈들은 물밑에 
+		숨어다니길 선호해요
+00:22:13	These guys like to glide under the radar.
+		이 놈들은 물밑에 
+		숨어다니길 선호해요
+00:22:14	These guys like to glide under the radar.
+		 
+00:22:14	These guys like to glide under the radar.
+		현재 기록만 보면 놈들은 
+		재산도 부동산도 없어요
+00:22:14	 
+		현재 기록만 보면 놈들은 
+		재산도 부동산도 없어요
+00:22:14	According to official records,
+		현재 기록만 보면 놈들은 
+		재산도 부동산도 없어요
+00:22:16	 
+		현재 기록만 보면 놈들은 
+		재산도 부동산도 없어요
+00:22:16	They own no property and live nowhere.
+		현재 기록만 보면 놈들은 
+		재산도 부동산도 없어요
+00:22:18	They own no property and live nowhere.
+		 
+00:22:18	They own no property and live nowhere.
+		우편 사서함만 
+		하나 있고요
+00:22:18	 
+		우편 사서함만 
+		하나 있고요
+00:22:18	Their only address is a p.O. Box.
+		우편 사서함만 
+		하나 있고요
+00:22:19	Their only address is a p.O. Box.
+		 
+00:22:19	Their only address is a p.O. Box.
+		지금 현재 샌프란시스코 및
+		오클랜드 경찰서와 합동수사 중입니다
+00:22:20	 
+		지금 현재 샌프란시스코 및
+		오클랜드 경찰서와 합동수사 중입니다
+00:22:20	Working with san francisco and oakland
+		지금 현재 샌프란시스코 및
+		오클랜드 경찰서와 합동수사 중입니다
+00:22:21	 
+		지금 현재 샌프란시스코 및
+		오클랜드 경찰서와 합동수사 중입니다
+00:22:21	P.D. As we speak. You're letting her go
+		지금 현재 샌프란시스코 및
+		오클랜드 경찰서와 합동수사 중입니다
+00:22:22	P.D. As we speak. You're letting her go
+		 
+00:22:22	P.D. As we speak. You're letting her go
+		그냥 풀어주게요?
+00:22:23	P.D. As we speak. You're letting her go
+		 
+00:22:23	P.D. As we speak. You're letting her go
+		디이터와 카터의 
+		이름을 알려줬잖아
+00:22:23	 
+		디이터와 카터의 
+		이름을 알려줬잖아
+00:22:23	She gave us Dieter and Carter.
+		디이터와 카터의 
+		이름을 알려줬잖아
+00:22:25	 
+		디이터와 카터의 
+		이름을 알려줬잖아
+00:22:25	 
+		 
+00:22:25	 
+		제인에게 총을 들이댄 걸로 
+		기소할 순 있지만, 뭐하러 그래?
+00:22:25	I could charge her with waving a gun at Jane, but what for?
+		제인에게 총을 들이댄 걸로 
+		기소할 순 있지만, 뭐하러 그래?
+00:22:28	 
+		제인에게 총을 들이댄 걸로 
+		기소할 순 있지만, 뭐하러 그래?
+00:22:28	 
+		 
+00:22:28	 
+		글세요, 대장님
+00:22:28	I don't know, boss. If ever I saw a woman
+		글세요, 대장님
+00:22:29	I don't know, boss. If ever I saw a woman
+		 
+00:22:29	I don't know, boss. If ever I saw a woman
+		저 여자는 펜치와 시가 꽁초로
+		고문도 가능한 타입처럼 보이는데요
+00:22:30	 
+		저 여자는 펜치와 시가 꽁초로
+		고문도 가능한 타입처럼 보이는데요
+00:22:30	Who could use pliers and a lit cigar on
+		저 여자는 펜치와 시가 꽁초로
+		고문도 가능한 타입처럼 보이는데요
+00:22:31	 
+		저 여자는 펜치와 시가 꽁초로
+		고문도 가능한 타입처럼 보이는데요
+00:22:31	A man, that's her. Miss Jonovic, a moment
+		저 여자는 펜치와 시가 꽁초로
+		고문도 가능한 타입처럼 보이는데요
+00:22:33	A man, that's her. Miss Jonovic, a moment
+		 
+00:22:33	A man, that's her. Miss Jonovic, a moment
+		조노비치 양, 잠시만요
+00:22:35	 
+		조노비치 양, 잠시만요
+00:22:35	 
+		 
+00:22:36	 
+		제인!
+00:22:36	Jane, tell her not to leave town.
+		제인!
+00:22:37	Jane, tell her not to leave town.
+		이 동네는 뜨지 말라고해
+00:22:38	 
+		이 동네는 뜨지 말라고해
+00:22:38	 
+		 
+00:22:42	 
+		줄리도 함께 데리고 
+		도망갈 계획이라고 하셨죠
+00:22:42	You said you and Jason were planning on leaving with Julie.
+		줄리도 함께 데리고 
+		도망갈 계획이라고 하셨죠
+00:22:45	You said you and Jason were planning on leaving with Julie.
+		 
+00:22:45	You said you and Jason were planning on leaving with Julie.
+		그래요
+00:22:45	 
+		그래요
+00:22:45	Yes. You didn't mind taking the kid?
+		그래요
+00:22:46	Yes. You didn't mind taking the kid?
+		 
+00:22:46	Yes. You didn't mind taking the kid?
+		- 애를 데려가도 상관없었어요?
+		- 네, 저는 그애를 정말 좋아해요
+00:22:47	 
+		- 애를 데려가도 상관없었어요?
+		- 네, 저는 그애를 정말 좋아해요
+00:22:47	No. I love Julie. Me and her are good friends.
+		- 애를 데려가도 상관없었어요?
+		- 네, 저는 그애를 정말 좋아해요
+00:22:48	No. I love Julie. Me and her are good friends.
+		 
+00:22:48	No. I love Julie. Me and her are good friends.
+		우린 정말 잘지내요
+00:22:49	No. I love Julie. Me and her are good friends.
+		 
+00:22:49	No. I love Julie. Me and her are good friends.
+		아이를 친엄마로부터
+		떼어낸다고요?
+00:22:49	 
+		아이를 친엄마로부터
+		떼어낸다고요?
+00:22:49	You were gonna take her away from her own mother? Yes.
+		아이를 친엄마로부터
+		떼어낸다고요?
+00:22:51	You were gonna take her away from her own mother? Yes.
+		 
+00:22:51	You were gonna take her away from her own mother? Yes.
+		네
+00:22:52	You were gonna take her away from her own mother? Yes.
+		 
+00:22:52	You were gonna take her away from her own mother? Yes.
+		그거 좀 가혹한 것 같은데요
+00:22:52	 
+		그거 좀 가혹한 것 같은데요
+00:22:52	Oh, that seems a cruel thing to do.
+		그거 좀 가혹한 것 같은데요
+00:22:55	Oh, that seems a cruel thing to do.
+		 
+00:22:55	Oh, that seems a cruel thing to do.
+		사람 나름이죠
+00:22:56	 
+		사람 나름이죠
+00:22:56	Depends. She is a cold person--jennifer.
+		사람 나름이죠
+00:22:57	Depends. She is a cold person--jennifer.
+		 
+00:22:57	Depends. She is a cold person--jennifer.
+		그 여자.. 제니퍼는
+		차가운 사람이에요
+00:22:59	Depends. She is a cold person--jennifer.
+		 
+00:22:59	Depends. She is a cold person--jennifer.
+		줄리는 신경도 안쓴다고요
+00:22:59	 
+		줄리는 신경도 안쓴다고요
+00:22:59	She doesn't care so much about Julie.
+		줄리는 신경도 안쓴다고요
+00:23:02	She doesn't care so much about Julie.
+		 
+00:23:02	She doesn't care so much about Julie.
+		그런 시늉은 하는데, 
+		실제로는 아니죠
+00:23:02	 
+		그런 시늉은 하는데, 
+		실제로는 아니죠
+00:23:02	She pretends, but she doesn't really.
+		그런 시늉은 하는데, 
+		실제로는 아니죠
+00:23:06	 
+		그런 시늉은 하는데, 
+		실제로는 아니죠
+00:23:06	 
+		 
+00:23:06	 
+		말해주세요
+00:23:06	Tell me something.
+		말해주세요
+00:23:08	 
+		말해주세요
+00:23:08	 
+		 
+00:23:08	 
+		음, 혹시, 제니퍼가 내 
+		다이아몬드를 갖고 있을까요?
+00:23:09	Do you think, uh, Jennifer has my diamonds?
+		음, 혹시, 제니퍼가 내 
+		다이아몬드를 갖고 있을까요?
+00:23:11	 
+		음, 혹시, 제니퍼가 내 
+		다이아몬드를 갖고 있을까요?
+00:23:11	 
+		 
+00:23:11	 
+		글세요, 그럴수도 있죠
+00:23:12	I don't know.
+		글세요, 그럴수도 있죠
+00:23:13	 
+		글세요, 그럴수도 있죠
+00:23:13	Maybe.
+		글세요, 그럴수도 있죠
+00:23:14	Maybe.
+		 
+00:23:14	Maybe.
+		그럴수 있다고요? 
+		그 여자한테 물어봤어요?
+00:23:14	 
+		그럴수 있다고요? 
+		그 여자한테 물어봤어요?
+00:23:14	Maybe? Did you ask her?
+		그럴수 있다고요? 
+		그 여자한테 물어봤어요?
+00:23:17	Maybe? Did you ask her?
+		 
+00:23:17	 
+		 
+00:23:22	 
+		이 동네는 뜨지 마세요
+00:23:22	Don't leave town.
+		이 동네는 뜨지 마세요
+00:23:23	 
+		이 동네는 뜨지 마세요
+00:23:23	 
+		 
+00:23:23	 
+		분부대로 하지요
+00:23:24	As you like.
+		분부대로 하지요
+00:23:25	 
+		분부대로 하지요
+00:23:26	 
+		 
+00:23:27	 
+		- 애정과 사랑이라더니요? 
+		- 바로 그거라니까
+00:23:27	So love and affection, huh? That's it.
+		- 애정과 사랑이라더니요? 
+		- 바로 그거라니까
+00:23:29	 
+		- 애정과 사랑이라더니요? 
+		- 바로 그거라니까
+00:23:30	 
+		 
+00:23:30	 
+		어디 가?
+00:23:30	Where you going?
+		어디 가?
+00:23:31	 
+		어디 가?
+00:23:31	 
+		 
+00:23:31	 
+		- 미망인 만나보러
+		- 그러셔?
+00:23:32	To speak to the widow. Oh, yeah?
+		- 미망인 만나보러
+		- 그러셔?
+00:23:33	To speak to the widow. Oh, yeah?
+		 
+00:23:34	 
+		 
+00:23:34	 
+		부인도 정부의 존재를
+		알고 있었는지 물어봐야겠어
+00:23:34	I want to know if she knows about the mistress.
+		부인도 정부의 존재를
+		알고 있었는지 물어봐야겠어
+00:23:36	 
+		부인도 정부의 존재를
+		알고 있었는지 물어봐야겠어
+00:23:37	 
+		 
+00:23:45	 
+		@@/- 이거 맛있네요 
+		- 정말 감사합니다 @@\
+00:23:45	This is delicious. Thank you so much.
+		@@/- 이거 맛있네요 
+		- 정말 감사합니다 @@\
+00:23:48	 
+		@@/- 이거 맛있네요 
+		- 정말 감사합니다 @@\
+00:23:48	 
+		 
+00:23:54	 
+		아이가 있으세요, 패트릭?
+00:23:54	Do you have children, Patrick?
+		아이가 있으세요, 패트릭?
+00:23:55	 
+		아이가 있으세요, 패트릭?
+00:23:56	 
+		 
+00:23:56	 
+		아니요
+00:23:56	No.
+		아니요
+00:23:57	 
+		아니요
+00:23:58	 
+		 
+00:23:58	 
+		아이는 가장 큰 은총이에요
+00:23:58	They are the greatest gift.
+		아이는 가장 큰 은총이에요
+00:24:00	 
+		아이는 가장 큰 은총이에요
+00:24:00	 
+		 
+00:24:00	 
+		네, 맞아요
+00:24:00	Yes, they are. Put a little bit of ginger in it.
+		네, 맞아요
+00:24:01	Yes, they are. Put a little bit of ginger in it.
+		 
+00:24:03	Yes, they are. Put a little bit of ginger in it.
+		아, 아까부터 머릿속에
+		맴돌아서 미치겠는데
+00:24:03	 
+		아, 아까부터 머릿속에
+		맴돌아서 미치겠는데
+00:24:03	Hey, it's been bothering the hell of out of me.
+		아, 아까부터 머릿속에
+		맴돌아서 미치겠는데
+00:24:05	 
+		아, 아까부터 머릿속에
+		맴돌아서 미치겠는데
+00:24:05	 
+		 
+00:24:05	 
+		피터와 늑대에서.. 오리 악기가 플룻 
+		이었나요, 바순이었나요? 생각이 안나요
+00:24:05	"peter & the wolf"--
+		피터와 늑대에서.. 오리 악기가 플룻 
+		이었나요, 바순이었나요? 생각이 안나요
+00:24:06	 
+		피터와 늑대에서.. 오리 악기가 플룻 
+		이었나요, 바순이었나요? 생각이 안나요
+00:24:08	Is the duck a flute or a bassoon? I cannot remember.
+		피터와 늑대에서.. 오리 악기가 플룻 
+		이었나요, 바순이었나요? 생각이 안나요
+00:24:11	Is the duck a flute or a bassoon? I cannot remember.
+		 
+00:24:11	Is the duck a flute or a bassoon? I cannot remember.
+		아, 음, 바순..
+		이었던것 같아요
+00:24:12	 
+		아, 음, 바순..
+		이었던것 같아요
+00:24:12	Oh, um, a-a bassoon, I think.
+		아, 음, 바순..
+		이었던것 같아요
+00:24:14	Oh, um, a-a bassoon, I think.
+		 
+00:24:14	Oh, um, a-a bassoon, I think.
+		에이 됐어요, 별거 아니니
+00:24:15	 
+		에이 됐어요, 별거 아니니
+00:24:15	Never mind. Trivia.
+		에이 됐어요, 별거 아니니
+00:24:16	Never mind. Trivia.
+		 
+00:24:16	Never mind. Trivia.
+		저기요, 좋은 소식과 
+		나쁜 소식이 있어요
+00:24:16	 
+		저기요, 좋은 소식과 
+		나쁜 소식이 있어요
+00:24:16	Listen, I have good news, and I have bad news.
+		저기요, 좋은 소식과 
+		나쁜 소식이 있어요
+00:24:20	 
+		저기요, 좋은 소식과 
+		나쁜 소식이 있어요
+00:24:20	 
+		 
+00:24:21	 
+		디이터의 조모가 있는데 나이는 93세, 
+		거주지는 투손 지역의 양로원이에요
+00:24:21	Dieter Webb's grandmother is 93
+		디이터의 조모가 있는데 나이는 93세, 
+		거주지는 투손 지역의 양로원이에요
+00:24:22	 
+		디이터의 조모가 있는데 나이는 93세, 
+		거주지는 투손 지역의 양로원이에요
+00:24:22	And lives in a seniors' assisted living center in Tucson,
+		디이터의 조모가 있는데 나이는 93세, 
+		거주지는 투손 지역의 양로원이에요
+00:24:24	And lives in a seniors' assisted living center in Tucson,
+		 
+00:24:24	And lives in a seniors' assisted living center in Tucson,
+		- 10년 동안 거기서 사는데..
+		- 맞춰보지
+00:24:25	 
+		- 10년 동안 거기서 사는데..
+		- 맞춰보지
+00:24:25	Has for a decade, but she-- let me guess. She's leasing a high-end vehicle
+		- 10년 동안 거기서 사는데..
+		- 맞춰보지
+00:24:27	Has for a decade, but she-- let me guess. She's leasing a high-end vehicle
+		 
+00:24:27	Has for a decade, but she-- let me guess. She's leasing a high-end vehicle
+		요새는 고급차를 리스하고 오클랜드 
+		지역의 좋은 집도 한채 장만했구나?
+00:24:29	 
+		요새는 고급차를 리스하고 오클랜드 
+		지역의 좋은 집도 한채 장만했구나?
+00:24:29	And recently bought a nice house in oakland.
+		요새는 고급차를 리스하고 오클랜드 
+		지역의 좋은 집도 한채 장만했구나?
+00:24:31	And recently bought a nice house in oakland.
+		 
+00:24:31	And recently bought a nice house in oakland.
+		대단한데요
+00:24:31	 
+		대단한데요
+00:24:31	You're good.
+		대단한데요
+00:24:31	You're good.
+		 
+00:24:31	You're good.
+		릭츠비와 반펠트를 
+		보내서 확인해봐
+00:24:32	 
+		릭츠비와 반펠트를 
+		보내서 확인해봐
+00:24:32	Get Rigsby and Van Pelt on it.
+		릭츠비와 반펠트를 
+		보내서 확인해봐
+00:24:34	 
+		릭츠비와 반펠트를 
+		보내서 확인해봐
+00:24:34	 
+		 
+00:24:35	 
+		1000 만 달러요?
+00:24:36	$10 million?
+		1000 만 달러요?
+00:24:37	 
+		1000 만 달러요?
+00:24:38	 
+		 
+00:24:38	 
+		네, 부인의 짐작대로 
+		꽤나 튼실한 비상금이더군요
+00:24:38	Yes, just as you suspected, a very healthy nest egg.
+		네, 부인의 짐작대로 
+		꽤나 튼실한 비상금이더군요
+00:24:42	 
+		네, 부인의 짐작대로 
+		꽤나 튼실한 비상금이더군요
+00:24:42	 
+		 
+00:24:42	 
+		아, 정말 잘됐네요 
+		그걸 꼭 찾아야해요
+00:24:42	Oh, that's wonderful. We have to find it.
+		아, 정말 잘됐네요 
+		그걸 꼭 찾아야해요
+00:24:44	Oh, that's wonderful. We have to find it.
+		 
+00:24:44	Oh, that's wonderful. We have to find it.
+		그것도 괜찮겠죠
+00:24:44	 
+		그것도 괜찮겠죠
+00:24:44	Wouldn't be a bad idea.
+		그것도 괜찮겠죠
+00:24:46	 
+		그것도 괜찮겠죠
+00:24:46	 
+		 
+00:24:46	 
+		어디부터 찾아볼까요?
+00:24:46	Where should we start?
+		어디부터 찾아볼까요?
+00:24:47	 
+		어디부터 찾아볼까요?
+00:24:48	 
+		 
+00:24:49	 
+		저도 모르겠어요
+00:24:50	I don't know.
+		저도 모르겠어요
+00:24:51	 
+		저도 모르겠어요
+00:24:51	 
+		 
+00:24:52	 
+		그때 대피실도 단번에 찾으셨잖아요
+00:24:52	You found the safe room in a moment.
+		그때 대피실도 단번에 찾으셨잖아요
+00:24:54	 
+		그때 대피실도 단번에 찾으셨잖아요
+00:24:55	 
+		 
+00:24:55	 
+		이렇게 뭔가를 찾는 일에 
+		굉장히 소질이 있으신게 분명해요
+00:24:55	You must be terribly clever at that kind of thing,
+		이렇게 뭔가를 찾는 일에 
+		굉장히 소질이 있으신게 분명해요
+00:24:57	 
+		이렇게 뭔가를 찾는 일에 
+		굉장히 소질이 있으신게 분명해요
+00:24:58	Finding things.
+		이렇게 뭔가를 찾는 일에 
+		굉장히 소질이 있으신게 분명해요
+00:24:59	Finding things.
+		 
+00:24:59	Finding things.
+		한 번 해볼게요
+00:25:00	 
+		한 번 해볼게요
+00:25:00	I could try.
+		한 번 해볼게요
+00:25:01	 
+		한 번 해볼게요
+00:25:02	 
+		 
+00:25:02	 
+		하지만 제니퍼, 그게 
+		좋은 소식이었어요
+00:25:02	But, Jennifer, that was the good news.
+		하지만 제니퍼, 그게 
+		좋은 소식이었어요
+00:25:04	 
+		하지만 제니퍼, 그게 
+		좋은 소식이었어요
+00:25:05	 
+		 
+00:25:05	 
+		알겠어요, 그럼 
+		나쁜 소식은?
+00:25:06	Okay.
+		알겠어요, 그럼 
+		나쁜 소식은?
+00:25:07	 
+		알겠어요, 그럼 
+		나쁜 소식은?
+00:25:08	Bad news?
+		알겠어요, 그럼 
+		나쁜 소식은?
+00:25:09	Bad news?
+		 
+00:25:09	 
+		 
+00:25:10	 
+		남편의 정부로 보이는
+		여자분을 만났어요
+00:25:10	We talked to a woman who appears to have been Jason's mistress.
+		남편의 정부로 보이는
+		여자분을 만났어요
+00:25:13	 
+		남편의 정부로 보이는
+		여자분을 만났어요
+00:25:14	 
+		 
+00:25:18	 
+		그럴 줄 알았어
+00:25:18	I knew it.
+		그럴 줄 알았어
+00:25:19	 
+		그럴 줄 알았어
+00:25:20	 
+		 
+00:25:21	 
+		그럴 줄 알았어요, 
+		그럴 줄 알았어
+00:25:21	I knew it. I knew it.
+		그럴 줄 알았어요, 
+		그럴 줄 알았어
+00:25:22	I knew it. I knew it.
+		 
+00:25:22	I knew it. I knew it.
+		유감이에요
+00:25:23	 
+		유감이에요
+00:25:23	I'm sorry.
+		유감이에요
+00:25:24	 
+		유감이에요
+00:25:24	 
+		 
+00:25:25	 
+		정부에 대해서 
+		모르고 계셨나요?
+00:25:25	You didn't know about her?
+		정부에 대해서 
+		모르고 계셨나요?
+00:25:26	 
+		정부에 대해서 
+		모르고 계셨나요?
+00:25:27	 
+		 
+00:25:27	 
+		네. 어떤 여자에요? 
+		나..나이는요?
+00:25:27	No. What's she like? H-how old is she?
+		네. 어떤 여자에요? 
+		나..나이는요?
+00:25:31	No. What's she like? H-how old is she?
+		 
+00:25:31	No. What's she like? H-how old is she?
+		20 대 중반, 동유럽계, 
+		터프한 아가씨에요
+00:25:31	 
+		20 대 중반, 동유럽계, 
+		터프한 아가씨에요
+00:25:31	Mid '20s, eastern european, tough.
+		20 대 중반, 동유럽계, 
+		터프한 아가씨에요
+00:25:34	 
+		20 대 중반, 동유럽계, 
+		터프한 아가씨에요
+00:25:34	 
+		 
+00:25:35	 
+		미인인가요?
+00:25:35	Good-looking?
+		미인인가요?
+00:25:36	 
+		미인인가요?
+00:25:37	 
+		 
+00:25:38	 
+		괜찮은 편이었죠
+00:25:38	Not bad.
+		괜찮은 편이었죠
+00:25:39	 
+		괜찮은 편이었죠
+00:25:40	 
+		 
+00:25:41	 
+		그 여자가 돈을 가지고 있나요?
+00:25:41	Does she have the money?
+		그 여자가 돈을 가지고 있나요?
+00:25:42	Does she have the money?
+		 
+00:25:42	Does she have the money?
+		매우 유력해요
+00:25:42	 
+		매우 유력해요
+00:25:42	Strong possibility.
+		매우 유력해요
+00:25:44	 
+		매우 유력해요
+00:25:45	 
+		 
+00:25:46	 
+		인생이 왜 이리 복잡할까요
+00:25:46	Life is so complicated.
+		인생이 왜 이리 복잡할까요
+00:25:48	 
+		인생이 왜 이리 복잡할까요
+00:25:49	 
+		 
+00:25:53	 
+		패트릭? 잠시만 안아주실래요?
+00:25:53	Patrick?
+		패트릭? 잠시만 안아주실래요?
+00:25:54	 
+		패트릭? 잠시만 안아주실래요?
+00:25:56	Will you hold me?
+		패트릭? 잠시만 안아주실래요?
+00:25:58	 
+		패트릭? 잠시만 안아주실래요?
+00:25:58	 
+		 
+00:25:59	 
+		지금 정말 누군가 안아줄 
+		사람이 필요해요, 제발
+00:25:59	I need someone to hold me. Please.
+		지금 정말 누군가 안아줄 
+		사람이 필요해요, 제발
+00:26:01	 
+		지금 정말 누군가 안아줄 
+		사람이 필요해요, 제발
+00:26:01	 
+		 
+00:26:05	 
+		미안해요, 제니퍼 
+		저도 그게 가능하고 싶어요
+00:26:05	I'm sorry, Jennifer. I wish I could.
+		미안해요, 제니퍼 
+		저도 그게 가능하고 싶어요
+00:26:07	 
+		미안해요, 제니퍼 
+		저도 그게 가능하고 싶어요
+00:26:08	 
+		 
+00:26:15	 
+		@@/오클랜드@@\
+00:26:18	 
+		 
+00:26:23	 
+		진입부대는 왜 안와? 
+		올시간이 20 분이 지났는데
+00:26:23	Where's the entry team?
+		진입부대는 왜 안와? 
+		올시간이 20 분이 지났는데
+00:26:24	 
+		진입부대는 왜 안와? 
+		올시간이 20 분이 지났는데
+00:26:24	They were supposed to be here 20 minutes ago.
+		진입부대는 왜 안와? 
+		올시간이 20 분이 지났는데
+00:26:26	They were supposed to be here 20 minutes ago.
+		 
+00:26:26	They were supposed to be here 20 minutes ago.
+		진정해요, 이런 놈들은 
+		아직 일어나지도 않았을거에요
+00:26:26	 
+		진정해요, 이런 놈들은 
+		아직 일어나지도 않았을거에요
+00:26:26	Relax. Guys like these probably aren't even
+		진정해요, 이런 놈들은 
+		아직 일어나지도 않았을거에요
+00:26:28	 
+		진정해요, 이런 놈들은 
+		아직 일어나지도 않았을거에요
+00:26:28	Out of bed yet. Could be up from the night before
+		진정해요, 이런 놈들은 
+		아직 일어나지도 않았을거에요
+00:26:29	Out of bed yet. Could be up from the night before
+		 
+00:26:29	Out of bed yet. Could be up from the night before
+		아님 어제 밤을 샜을 수도 있지
+00:26:31	 
+		아님 어제 밤을 샜을 수도 있지
+00:26:31	 
+		 
+00:26:31	 
+		그래서 아침먹으러 갔다던가
+00:26:31	Maybe went out for some breakfast. We can deal with 'em.
+		그래서 아침먹으러 갔다던가
+00:26:33	Maybe went out for some breakfast. We can deal with 'em.
+		 
+00:26:33	Maybe went out for some breakfast. We can deal with 'em.
+		우리끼리 충분하다니까요
+00:26:35	 
+		우리끼리 충분하다니까요
+00:26:35	 
+		 
+00:26:35	 
+		액션배우 나셨구만
+00:26:35	Suddenly she's steve mcqueen.
+		액션배우 나셨구만
+00:26:37	 
+		액션배우 나셨구만
+00:26:38	 
+		 
+00:26:40	 
+		놈들 나온다
+00:26:41	They'reon the move.
+		놈들 나온다
+00:26:42	 
+		놈들 나온다
+00:26:42	 
+		 
+00:26:45	 
+		가요, 지금 덮쳐요
+00:26:45	Come on. Let's take 'em.
+		가요, 지금 덮쳐요
+00:26:46	 
+		가요, 지금 덮쳐요
+00:26:47	 
+		 
+00:26:57	 
+		경찰이다! 차에서 내려!
+00:26:57	Police! Get out of the car! Hands up!
+		경찰이다! 차에서 내려!
+00:26:58	Police! Get out of the car! Hands up!
+		 
+00:26:58	Police! Get out of the car! Hands up!
+		손들어!
+00:26:59	Police! Get out of the car! Hands up!
+		 
+00:26:59	Police! Get out of the car! Hands up!
+		- 차에서 나와!
+		- 나와!
+00:26:59	 
+		- 차에서 나와!
+		- 나와!
+00:26:59	Get out of the car! Get out!
+		- 차에서 나와!
+		- 나와!
+00:27:01	 
+		- 차에서 나와!
+		- 나와!
+00:27:01	Whoa, whoa. Take it easy, man. Come on.
+		- 차에서 나와!
+		- 나와!
+00:27:01	Whoa, whoa. Take it easy, man. Come on.
+		 
+00:27:01	Whoa, whoa. Take it easy, man. Come on.
+		좋게 가자고들, 
+		어서~ 옳지 말듣고
+00:27:04	 
+		좋게 가자고들, 
+		어서~ 옳지 말듣고
+00:27:04	Nice and easy. Up against the car.
+		좋게 가자고들, 
+		어서~ 옳지 말듣고
+00:27:04	Nice and easy. Up against the car.
+		 
+00:27:04	Nice and easy. Up against the car.
+		차에 붙어
+00:27:06	 
+		차에 붙어
+00:27:07	 
+		 
+00:27:08	 
+		차에 붙어
+00:27:08	Up against the car.
+		차에 붙어
+00:27:10	 
+		차에 붙어
+00:27:11	 
+		 
+00:27:12	 
+		@@/ 들어가자 @@\
+00:27:15	 
+		 
+00:27:15	 
+		꼼짝마!
+00:27:15	Freeze!
+		꼼짝마!
+00:27:17	 
+		꼼짝마!
+00:27:17	 
+		 
+00:27:17	 
+		머리 뒤로 손 올려
+00:27:18	Hands behind your head.
+		머리 뒤로 손 올려
+00:27:19	 
+		머리 뒤로 손 올려
+00:27:20	 
+		 
+00:27:39	 
+		손, 손 이리내!
+00:27:39	Hands. Give me your hands!
+		손, 손 이리내!
+00:27:41	 
+		손, 손 이리내!
+00:27:41	 
+		 
+00:27:43	 
+		가자
+00:27:43	Let's go.
+		가자
+00:27:44	 
+		가자
+00:27:44	 
+		 
+00:27:48	Hi. Let's go. Let's go.
+		 
+00:27:49	Hi. Let's go. Let's go.
+		가자, 가자
+00:27:52	 
+		가자, 가자
+00:27:52	 
+		 
+00:27:58	 
+		나하고 말하기 싫어, 디이터?
+00:27:58	You don't want to talk to me, Dieter?
+		나하고 말하기 싫어, 디이터?
+00:27:59	 
+		나하고 말하기 싫어, 디이터?
+00:27:59	 
+		 
+00:28:00	 
+		할 말 없어요, 변호사 불러요
+00:28:00	I've got nothing to say. Call my lawyer.
+		할 말 없어요, 변호사 불러요
+00:28:02	I've got nothing to say. Call my lawyer.
+		 
+00:28:02	 
+		 
+00:28:02	 
+		제이슨 샌즈에 대해 뭐 아나?
+00:28:02	What do you know about Jason Sands? I know he's dead.
+		제이슨 샌즈에 대해 뭐 아나?
+00:28:04	What do you know about Jason Sands? I know he's dead.
+		 
+00:28:04	What do you know about Jason Sands? I know he's dead.
+		죽은건 알죠
+00:28:05	 
+		죽은건 알죠
+00:28:06	 
+		 
+00:28:07	 
+		너한테서 얼마나 가져갔어?
+00:28:07	How much did he take from you? How much what?
+		너한테서 얼마나 가져갔어?
+00:28:08	How much did he take from you? How much what?
+		 
+00:28:08	How much did he take from you? How much what?
+		뭘 얼마나 가져가요?
+00:28:09	 
+		뭘 얼마나 가져가요?
+00:28:10	 
+		 
+00:28:10	 
+		제이슨이 네 돈 1000 만 달러를 
+		훔친 것으로 추측하는데 대략 맞나?
+00:28:10	We estimate he stole around $10 million from you.
+		제이슨이 네 돈 1000 만 달러를 
+		훔친 것으로 추측하는데 대략 맞나?
+00:28:12	 
+		제이슨이 네 돈 1000 만 달러를 
+		훔친 것으로 추측하는데 대략 맞나?
+00:28:12	Is that about right?
+		제이슨이 네 돈 1000 만 달러를 
+		훔친 것으로 추측하는데 대략 맞나?
+00:28:13	Is that about right?
+		 
+00:28:13	Is that about right?
+		저와 제 파트너는요, 
+		파티를 주최해요
+00:28:13	 
+		저와 제 파트너는요, 
+		파티를 주최해요
+00:28:14	Me and my partner, we host parties.
+		저와 제 파트너는요, 
+		파티를 주최해요
+00:28:16	Me and my partner, we host parties.
+		 
+00:28:16	Me and my partner, we host parties.
+		장사가 잘 되긴 하지만 
+		그 정도는 아니라고요
+00:28:16	 
+		장사가 잘 되긴 하지만 
+		그 정도는 아니라고요
+00:28:16	I'm doing good, but not that good.
+		장사가 잘 되긴 하지만 
+		그 정도는 아니라고요
+00:28:18	 
+		장사가 잘 되긴 하지만 
+		그 정도는 아니라고요
+00:28:19	 
+		 
+00:28:19	 
+		1000 만 이라니
+00:28:19	$10 million.
+		1000 만 이라니
+00:28:21	 
+		1000 만 이라니
+00:28:22	 
+		 
+00:28:23	 
+		제이슨은 내 물건은 
+		아무것도 안훔쳤어요
+00:28:23	Jason didn't steal anything from me. You and Carter broke into his house,
+		제이슨은 내 물건은 
+		아무것도 안훔쳤어요
+00:28:25	Jason didn't steal anything from me. You and Carter broke into his house,
+		 
+00:28:25	Jason didn't steal anything from me. You and Carter broke into his house,
+		너와 카터가 그 집에 침입해서 
+		샌즈를 죽을때까지 고문했잖아
+00:28:26	 
+		너와 카터가 그 집에 침입해서 
+		샌즈를 죽을때까지 고문했잖아
+00:28:26	And you tortured him to death because he stole from you.
+		너와 카터가 그 집에 침입해서 
+		샌즈를 죽을때까지 고문했잖아
+00:28:27	And you tortured him to death because he stole from you.
+		너희 물건을 훔쳤으니까
+00:28:28	And you tortured him to death because he stole from you.
+		 
+00:28:28	And you tortured him to death because he stole from you.
+		이봐, 형씨요, 난 그런일 제대로 하는
+		사람들이 있어요, 뭔말인지 아시겠죠?
+00:28:28	 
+		이봐, 형씨요, 난 그런일 제대로 하는
+		사람들이 있어요, 뭔말인지 아시겠죠?
+00:28:28	Look, dude, I know people that know how to do that stuff.
+		이봐, 형씨요, 난 그런일 제대로 하는
+		사람들이 있어요, 뭔말인지 아시겠죠?
+00:28:30	 
+		이봐, 형씨요, 난 그런일 제대로 하는
+		사람들이 있어요, 뭔말인지 아시겠죠?
+00:28:30	You know what I'm saying? If it was us that tortured him,
+		이봐, 형씨요, 난 그런일 제대로 하는
+		사람들이 있어요, 뭔말인지 아시겠죠?
+00:28:31	You know what I'm saying? If it was us that tortured him,
+		 
+00:28:31	You know what I'm saying? If it was us that tortured him,
+		고문한게 우리였다면, 지금쯤 돈을
+		손에 넣고 놈도 살아있었을 겁니다
+00:28:33	 
+		고문한게 우리였다면, 지금쯤 돈을
+		손에 넣고 놈도 살아있었을 겁니다
+00:28:33	We'd have the money right now,
+		고문한게 우리였다면, 지금쯤 돈을
+		손에 넣고 놈도 살아있었을 겁니다
+00:28:34	 
+		고문한게 우리였다면, 지금쯤 돈을
+		손에 넣고 놈도 살아있었을 겁니다
+00:28:34	And he'd have his life. I wouldn't kill him.
+		고문한게 우리였다면, 지금쯤 돈을
+		손에 넣고 놈도 살아있었을 겁니다
+00:28:35	And he'd have his life. I wouldn't kill him.
+		 
+00:28:36	And he'd have his life. I wouldn't kill him.
+		- 저라면 죽이진 않아요
+		- 무슨 돈을 손에 넣어?
+00:28:37	 
+		- 저라면 죽이진 않아요
+		- 무슨 돈을 손에 넣어?
+00:28:37	What money?
+		- 저라면 죽이진 않아요
+		- 무슨 돈을 손에 넣어?
+00:28:38	What money?
+		 
+00:28:38	 
+		 
+00:28:40	Oh, you caught me there.
+		 
+00:28:40	Oh, you caught me there.
+		이런, 한 수 당했네요
+00:28:42	 
+		이런, 한 수 당했네요
+00:28:42	 
+		 
+00:28:42	 
+		당신이 우리가 도둑맞았다고 
+		주장하는 상상속의 돈 말예요
+00:28:42	The imaginary money you said he stole from us.
+		당신이 우리가 도둑맞았다고 
+		주장하는 상상속의 돈 말예요
+00:28:45	 
+		당신이 우리가 도둑맞았다고 
+		주장하는 상상속의 돈 말예요
+00:28:46	 
+		 
+00:28:46	 
+		누군가 우리보다 먼저 
+		놈을 덮친거에요
+00:28:46	Somebody got there before us. An imaginary somebody.
+		누군가 우리보다 먼저 
+		놈을 덮친거에요
+00:28:48	Somebody got there before us. An imaginary somebody.
+		 
+00:28:48	Somebody got there before us. An imaginary somebody.
+		상상속의 누군가겠지
+00:28:49	 
+		상상속의 누군가겠지
+00:28:50	 
+		 
+00:28:52	 
+		제 생각을 알려드릴까요?
+00:28:52	You want my opinion?
+		제 생각을 알려드릴까요?
+00:28:54	 
+		제 생각을 알려드릴까요?
+00:28:54	 
+		 
+00:28:54	 
+		그렇다고 밀고를 하는건 아녀요
+		그냥 제 생각일 뿐
+00:28:54	Now this isn't snitching. It's just an opinion.
+		그렇다고 밀고를 하는건 아녀요
+		그냥 제 생각일 뿐
+00:28:57	 
+		그렇다고 밀고를 하는건 아녀요
+		그냥 제 생각일 뿐
+00:28:57	 
+		 
+00:28:57	 
+		받아 적으시요 
+		애이드리아나 조노비치
+00:28:57	Write this down.
+		받아 적으시요 
+		애이드리아나 조노비치
+00:28:59	 
+		받아 적으시요 
+		애이드리아나 조노비치
+00:28:59	Adrianna Jonovic.
+		받아 적으시요 
+		애이드리아나 조노비치
+00:29:00	 
+		받아 적으시요 
+		애이드리아나 조노비치
+00:29:01	 
+		 
+00:29:01	 
+		제이슨과 자던 미친
+		아르메니아 댄서에요
+00:29:02	She's a crazy armenian dancer that Jason was tapping.
+		제이슨과 자던 미친
+		아르메니아 댄서에요
+00:29:04	She's a crazy armenian dancer that Jason was tapping.
+		 
+00:29:04	She's a crazy armenian dancer that Jason was tapping.
+		왜?
+00:29:04	 
+		왜?
+00:29:04	Why?
+		왜?
+00:29:05	Why?
+		 
+00:29:05	Why?
+		그 여자는 미친 용병 년이에요
+00:29:05	 
+		그 여자는 미친 용병 년이에요
+00:29:05	She's a mercenary bitch.
+		그 여자는 미친 용병 년이에요
+00:29:07	 
+		그 여자는 미친 용병 년이에요
+00:29:07	 
+		 
+00:29:07	 
+		제이슨의 인생을 끔찍하게 만들고는 
+		제이슨이 그걸 좋아하게 만들었죠
+00:29:08	She made Jason's life misery and made him like it.
+		제이슨의 인생을 끔찍하게 만들고는 
+		제이슨이 그걸 좋아하게 만들었죠
+00:29:10	 
+		제이슨의 인생을 끔찍하게 만들고는 
+		제이슨이 그걸 좋아하게 만들었죠
+00:29:10	 
+		 
+00:29:11	 
+		우리도 그 여자를 써봐서 잘알죠
+00:29:11	She used to work for us,
+		우리도 그 여자를 써봐서 잘알죠
+00:29:13	 
+		우리도 그 여자를 써봐서 잘알죠
+00:29:14	So I know whereof I speak.
+		우리도 그 여자를 써봐서 잘알죠
+00:29:16	 
+		우리도 그 여자를 써봐서 잘알죠
+00:29:16	 
+		 
+00:29:17	 
+		그 여자 확인해보세요
+00:29:17	You should check her out.
+		그 여자 확인해보세요
+00:29:18	You should check her out.
+		 
+00:29:18	You should check her out.
+		다른 한 놈도 똑같은 
+		대사를 하더군요
+00:29:18	 
+		다른 한 놈도 똑같은 
+		대사를 하더군요
+00:29:18	The other one, Lewis, has the same line.
+		다른 한 놈도 똑같은 
+		대사를 하더군요
+00:29:21	 
+		다른 한 놈도 똑같은 
+		대사를 하더군요
+00:29:22	 
+		 
+00:29:24	 
+		저놈들 집안이 온통 
+		1급 마약 천지였으니
+00:29:24	There were class "a" drugs all over his house,
+		저놈들 집안이 온통 
+		1급 마약 천지였으니
+00:29:26	There were class "a" drugs all over his house,
+		 
+00:29:26	There were class "a" drugs all over his house,
+		놈들은 여기 얼마든지 
+		잡아둘 수 있어요
+00:29:26	 
+		놈들은 여기 얼마든지 
+		잡아둘 수 있어요
+00:29:26	So we can hold him as long as it takes.
+		놈들은 여기 얼마든지 
+		잡아둘 수 있어요
+00:29:28	So we can hold him as long as it takes.
+		 
+00:29:28	So we can hold him as long as it takes.
+		조노비치는?
+00:29:28	 
+		조노비치는?
+00:29:28	And Jonovic? I think she's clean on this one,
+		조노비치는?
+00:29:29	And Jonovic? I think she's clean on this one,
+		 
+00:29:29	And Jonovic? I think she's clean on this one,
+		이번은 그 여자 짓이 아닌것 같은데
+		혹시 모르니 여기 데려다 둘 수 있어요
+00:29:30	 
+		이번은 그 여자 짓이 아닌것 같은데
+		혹시 모르니 여기 데려다 둘 수 있어요
+00:29:30	But we can bring her back in just to be safe.
+		이번은 그 여자 짓이 아닌것 같은데
+		혹시 모르니 여기 데려다 둘 수 있어요
+00:29:32	But we can bring her back in just to be safe.
+		 
+00:29:32	But we can bring her back in just to be safe.
+		그래, 놈들 봐주지는 말라고
+		우리도 뭔가 뱉어내야 하잖는가
+00:29:32	 
+		그래, 놈들 봐주지는 말라고
+		우리도 뭔가 뱉어내야 하잖는가
+00:29:32	Well, don't let up on 'em. We need a result here.
+		그래, 놈들 봐주지는 말라고
+		우리도 뭔가 뱉어내야 하잖는가
+00:29:34	 
+		그래, 놈들 봐주지는 말라고
+		우리도 뭔가 뱉어내야 하잖는가
+00:29:35	 
+		 
+00:29:35	 
+		샌즈 부인
+00:29:35	Mrs. Sands. Oh.
+		샌즈 부인
+00:29:37	 
+		샌즈 부인
+00:29:37	 
+		 
+00:29:37	 
+		패트릭, 애가 없어요, 
+		애가 없어요
+00:29:37	Patrick, she's gone. She's gone. Th-they--they took her!
+		패트릭, 애가 없어요, 
+		애가 없어요
+00:29:39	Patrick, she's gone. She's gone. Th-they--they took her!
+		 
+00:29:39	Patrick, she's gone. She's gone. Th-they--they took her!
+		그..그 사람들이 데려갔어요! 
+		우리 애기가 없어졌어요!
+00:29:41	 
+		그..그 사람들이 데려갔어요! 
+		우리 애기가 없어졌어요!
+00:29:41	My baby is gone!
+		그..그 사람들이 데려갔어요! 
+		우리 애기가 없어졌어요!
+00:29:42	My baby is gone!
+		 
+00:29:42	My baby is gone!
+		괜찮아요, 괜찮아요
+		금방 갈게요
+00:29:42	 
+		괜찮아요, 괜찮아요
+		금방 갈게요
+00:29:42	It's okay. It's okay. W-we'll be right there.
+		괜찮아요, 괜찮아요
+		금방 갈게요
+00:29:45	 
+		괜찮아요, 괜찮아요
+		금방 갈게요
+00:29:45	 
+		 
+00:29:48	 
+		우리가 원하는게 뭔지 알겠지 경찰에
+		말하면 아이는 죽는다 전화 기다려라
+00:29:51	 
+		 
+00:29:51	 
+		오클랜드의 두 놈들 짓일까요?
+00:29:52	So you think the guys from oakland
+		오클랜드의 두 놈들 짓일까요?
+00:29:53	 
+		오클랜드의 두 놈들 짓일까요?
+00:29:53	Are behind this? Just 'cause they're in custody
+		오클랜드의 두 놈들 짓일까요?
+00:29:53	Are behind this? Just 'cause they're in custody
+		 
+00:29:53	Are behind this? Just 'cause they're in custody
+		구류 중이라고 해서 이런 
+		짓을 못꾸미란 법은 없지
+00:29:54	 
+		구류 중이라고 해서 이런 
+		짓을 못꾸미란 법은 없지
+00:29:54	Doesn't mean they couldn't have arrananged this.
+		구류 중이라고 해서 이런 
+		짓을 못꾸미란 법은 없지
+00:29:56	 
+		구류 중이라고 해서 이런 
+		짓을 못꾸미란 법은 없지
+00:29:56	 
+		 
+00:29:58	 
+		남편한테 도둑맞은 사람들은 
+		지금 구류 중이라면서요
+00:29:58	You said the men my husband stole from are behind bars. They are.
+		남편한테 도둑맞은 사람들은 
+		지금 구류 중이라면서요
+00:30:00	You said the men my husband stole from are behind bars. They are.
+		 
+00:30:00	You said the men my husband stole from are behind bars. They are.
+		예 그래요
+00:30:01	You said the men my husband stole from are behind bars. They are.
+		 
+00:30:01	You said the men my husband stole from are behind bars. They are.
+		그 사람들 짓이 아니라면 
+		누가 그랬다는 거에요?
+00:30:01	 
+		그 사람들 짓이 아니라면 
+		누가 그랬다는 거에요?
+00:30:01	Then if they didn't do this, who did?
+		그 사람들 짓이 아니라면 
+		누가 그랬다는 거에요?
+00:30:03	Then if they didn't do this, who did?
+		 
+00:30:03	Then if they didn't do this, who did?
+		줄리를 찾기위해 모든 
+		수단을 동원하고 있습니다
+00:30:03	 
+		줄리를 찾기위해 모든 
+		수단을 동원하고 있습니다
+00:30:03	I assure you we're doing everything we can to find Julie.
+		줄리를 찾기위해 모든 
+		수단을 동원하고 있습니다
+00:30:06	I assure you we're doing everything we can to find Julie.
+		쪽지에는 자기들이 원하는 걸 
+		부인도 안다고 했는데요
+00:30:06	 
+		쪽지에는 자기들이 원하는 걸 
+		부인도 안다고 했는데요
+00:30:06	The note left said you knew what they wanted.
+		쪽지에는 자기들이 원하는 걸 
+		부인도 안다고 했는데요
+00:30:08	The note left said you knew what they wanted.
+		돈이지 뭐겠어요
+00:30:08	 
+		돈이지 뭐겠어요
+00:30:08	The money, obviously. We have to find the money.
+		돈이지 뭐겠어요
+00:30:10	The money, obviously. We have to find the money.
+		돈을 찾아야해요, 
+		원하는 걸 줘야된다고요
+00:30:12	 
+		돈을 찾아야해요, 
+		원하는 걸 줘야된다고요
+00:30:12	I have to give them what they want.
+		돈을 찾아야해요, 
+		원하는 걸 줘야된다고요
+00:30:12	I have to give them what they want.
+		범인들은 왜 부인한테 돈이 
+		있을거라고 생각할까요?
+00:30:13	 
+		범인들은 왜 부인한테 돈이 
+		있을거라고 생각할까요?
+00:30:13	Why would they think you have it? I don't--i-i don't know.
+		범인들은 왜 부인한테 돈이 
+		있을거라고 생각할까요?
+00:30:14	Why would they think you have it? I don't--i-i don't know.
+		저..저도 몰라요
+00:30:16	Why would they think you have it? I don't--i-i don't know.
+		 
+00:30:16	 
+		 
+00:30:17	 
+		꼭 우리 애기 
+		찾아주셔야해요
+00:30:17	You have to find my baby. We're trying, mrs. Sands.
+		꼭 우리 애기 
+		찾아주셔야해요
+00:30:18	You have to find my baby. We're trying, mrs. Sands.
+		 
+00:30:18	You have to find my baby. We're trying, mrs. Sands.
+		지금 찾는 중입니다, 현재
+		CBI 는 연방요원과 합동으로..
+00:30:20	 
+		지금 찾는 중입니다, 현재
+		CBI 는 연방요원과 합동으로..
+00:30:20	Cbi is working in conjunction with federal agents--
+		지금 찾는 중입니다, 현재
+		CBI 는 연방요원과 합동으로..
+00:30:22	Cbi is working in conjunction with federal agents--
+		 
+00:30:22	Cbi is working in conjunction with federal agents--
+		그런건 알 바 아니에요
+00:30:23	 
+		그런건 알 바 아니에요
+00:30:23	Look, I don't care about any of that.
+		그런건 알 바 아니에요
+00:30:25	Look, I don't care about any of that.
+		 
+00:30:25	Look, I don't care about any of that.
+		우리 애기 꼭 
+		찾아주세요, 제발이요
+00:30:25	 
+		우리 애기 꼭 
+		찾아주세요, 제발이요
+00:30:25	Look, you have to find my little girl. Please.
+		우리 애기 꼭 
+		찾아주세요, 제발이요
+00:30:27	 
+		우리 애기 꼭 
+		찾아주세요, 제발이요
+00:30:27	 
+		 
+00:30:32	 
+		무슨 소리에요, 애를 훔치다니?
+00:30:32	What are you talking about, steal a kid?
+		무슨 소리에요, 애를 훔치다니?
+00:30:33	What are you talking about, steal a kid?
+		 
+00:30:33	What are you talking about, steal a kid?
+		여태껏 이 안에 갖혀있었는데
+00:30:34	 
+		여태껏 이 안에 갖혀있었는데
+00:30:34	I've been locked up in this place.
+		여태껏 이 안에 갖혀있었는데
+00:30:35	I've been locked up in this place.
+		 
+00:30:35	I've been locked up in this place.
+		너 친구 많잖아, 기억 안나?
+00:30:35	 
+		너 친구 많잖아, 기억 안나?
+00:30:35	You have friends, remember? So you think that I'd be ass enough
+		너 친구 많잖아, 기억 안나?
+00:30:36	You have friends, remember? So you think that I'd be ass enough
+		 
+00:30:36	You have friends, remember? So you think that I'd be ass enough
+		제가 이 안에서 사람을 고용해서
+		그런짓을 할만큼 또라이로 보여요?
+00:30:38	 
+		제가 이 안에서 사람을 고용해서
+		그런짓을 할만큼 또라이로 보여요?
+00:30:38	To hire somebody to do it while I'm in here?
+		제가 이 안에서 사람을 고용해서
+		그런짓을 할만큼 또라이로 보여요?
+00:30:41	 
+		제가 이 안에서 사람을 고용해서
+		그런짓을 할만큼 또라이로 보여요?
+00:30:41	 
+		 
+00:30:44	 
+		디히터 말에도 일리가 있어
+00:30:44	Dieter has a point.
+		디히터 말에도 일리가 있어
+00:30:45	Dieter has a point.
+		 
+00:30:45	Dieter has a point.
+		놈과 카터는 나쁜 놈들이긴
+		해도, 마피아가 아니야
+00:30:46	 
+		놈과 카터는 나쁜 놈들이긴
+		해도, 마피아가 아니야
+00:30:46	He and Carter are bad guys, but they're not mafia.
+		놈과 카터는 나쁜 놈들이긴
+		해도, 마피아가 아니야
+00:30:48	He and Carter are bad guys, but they're not mafia.
+		 
+00:30:48	He and Carter are bad guys, but they're not mafia.
+		그 정도로 막나가지는 않는다고
+00:30:48	 
+		그 정도로 막나가지는 않는다고
+00:30:48	They don't have that kind of reach. Or those kind of stones.
+		그 정도로 막나가지는 않는다고
+00:30:49	They don't have that kind of reach. Or those kind of stones.
+		 
+00:30:49	They don't have that kind of reach. Or those kind of stones.
+		- 그 정도로 강한 약도 없고요
+		- 떴어요
+00:30:51	 
+		- 그 정도로 강한 약도 없고요
+		- 떴어요
+00:30:51	We're up.
+		- 그 정도로 강한 약도 없고요
+		- 떴어요
+00:30:52	We're up.
+		 
+00:30:52	 
+		 
+00:30:53	 
+		납치범들이 방금 제니퍼 씨의
+		폰으로 즉석메시지를 보냈어요
+00:30:53	The kidnappers just i.M.'ed Jennifer's cell phone.
+		납치범들이 방금 제니퍼 씨의
+		폰으로 즉석메시지를 보냈어요
+00:30:55	The kidnappers just i.M.'ed Jennifer's cell phone.
+		 
+00:30:55	The kidnappers just i.M.'ed Jennifer's cell phone.
+		당신 딸을 데리고 있다, 
+		우리가 원하는 건 찾았나?
+00:30:55	 
+		당신 딸을 데리고 있다, 
+		우리가 원하는 건 찾았나?
+00:30:57	 
+		 
+00:30:57	 
+		네 라고 해, 그리고 내가 
+		가져다주겠다고 해
+00:30:58	Say yes. Say yes and tell 'em I'll bring it to them.
+		네 라고 해, 그리고 내가 
+		가져다주겠다고 해
+00:31:01	Say yes. Say yes and tell 'em I'll bring it to them.
+		 
+00:31:01	Say yes. Say yes and tell 'em I'll bring it to them.
+		뭐? 안돼
+00:31:01	 
+		뭐? 안돼
+00:31:01	What? No. It's okay. I know where the money is, honestly. Say yes.
+		뭐? 안돼
+00:31:01	What? No. It's okay. I know where the money is, honestly. Say yes.
+		 
+00:31:01	What? No. It's okay. I know where the money is, honestly. Say yes.
+		괜찮아, 나 그 돈 어디있는지 
+		알아 진짜로, 알겠다고 해!
+00:31:04	 
+		괜찮아, 나 그 돈 어디있는지 
+		알아 진짜로, 알겠다고 해!
+00:31:04	 
+		 
+00:31:10	 
+		네, 가지고 있어요
+00:31:11	 
+		 
+00:31:16	 
+		- 깨어 있어?
+		- 시퍼렇게
+00:31:17	Still awake?
+		- 깨어 있어?
+		- 시퍼렇게
+00:31:18	 
+		- 깨어 있어?
+		- 시퍼렇게
+00:31:18	Wide. Jane, be careful.
+		- 깨어 있어?
+		- 시퍼렇게
+00:31:18	Wide. Jane, be careful.
+		 
+00:31:18	Wide. Jane, be careful.
+		제인, 조심해
+00:31:19	Wide. Jane, be careful.
+		 
+00:31:19	Wide. Jane, be careful.
+		놈들이 뭔가 말하게 유도하거나
+		놈들을 막으려는 짓은 하지말고
+00:31:20	 
+		놈들이 뭔가 말하게 유도하거나
+		놈들을 막으려는 짓은 하지말고
+00:31:20	Don't try and get them to say anything or stop them.
+		놈들이 뭔가 말하게 유도하거나
+		놈들을 막으려는 짓은 하지말고
+00:31:22	Don't try and get them to say anything or stop them.
+		 
+00:31:22	Don't try and get them to say anything or stop them.
+		우린 놈들 휴대폰만 있으면 돼
+00:31:22	 
+		우린 놈들 휴대폰만 있으면 돼
+00:31:22	All we need is their phone. Just sent us the number.
+		우린 놈들 휴대폰만 있으면 돼
+00:31:24	All we need is their phone. Just sent us the number.
+		 
+00:31:24	All we need is their phone. Just sent us the number.
+		그냥 우리한테 번호만 찍어보내요 
+		그럼 납치범 주소를 추적할테니까요
+00:31:25	 
+		그냥 우리한테 번호만 찍어보내요 
+		그럼 납치범 주소를 추적할테니까요
+00:31:25	We'll track the kidnapper's address. Oh, here comes someone.
+		그냥 우리한테 번호만 찍어보내요 
+		그럼 납치범 주소를 추적할테니까요
+00:31:26	We'll track the kidnapper's address. Oh, here comes someone.
+		 
+00:31:26	We'll track the kidnapper's address. Oh, here comes someone.
+		아, 누구 나온다
+00:31:28	We'll track the kidnapper's address. Oh, here comes someone.
+		 
+00:31:28	We'll track the kidnapper's address. Oh, here comes someone.
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:28	 
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:28	Jane, just do your mind games
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:29	 
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:29	And get out of there, okay?
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:31	 
+		제인, 평소 하던대로 정신만 
+		빼놓고 얼른 나와, 알겠지?
+00:31:31	 
+		 
+00:31:31	 
+		걱정 마세요, 엄마
+00:31:32	Don't worry, mom.
+		걱정 마세요, 엄마
+00:31:33	 
+		걱정 마세요, 엄마
+00:31:33	 
+		 
+00:31:38	 
+		함정이 아닌게 좋을거야
+00:31:38	This better not be a trap.
+		함정이 아닌게 좋을거야
+00:31:39	 
+		함정이 아닌게 좋을거야
+00:31:40	 
+		 
+00:31:40	 
+		죽여버릴 거야 
+		다이아몬드 내놔
+00:31:40	I will kill you. Give me the diamonds.
+		죽여버릴 거야 
+		다이아몬드 내놔
+00:31:42	I will kill you. Give me the diamonds.
+		 
+00:31:42	I will kill you. Give me the diamonds.
+		아 이런 애이드리아나, 이런 
+		길로 빠지면 안돼요, 납치는..
+00:31:42	 
+		아 이런 애이드리아나, 이런 
+		길로 빠지면 안돼요, 납치는..
+00:31:42	Oh, Adrianna, you're going down the wrong road. Kidnapping is--
+		아 이런 애이드리아나, 이런 
+		길로 빠지면 안돼요, 납치는..
+00:31:44	Oh, Adrianna, you're going down the wrong road. Kidnapping is--
+		 
+00:31:44	Oh, Adrianna, you're going down the wrong road. Kidnapping is--
+		난 납치범이 아니야 
+		누군 원해서 이러는 줄 알아?
+00:31:45	 
+		난 납치범이 아니야 
+		누군 원해서 이러는 줄 알아?
+00:31:45	I'm not a kidnapper. You think I want to do this?
+		난 납치범이 아니야 
+		누군 원해서 이러는 줄 알아?
+00:31:48	I'm not a kidnapper. You think I want to do this?
+		 
+00:31:48	I'm not a kidnapper. You think I want to do this?
+		이렇게 해야만 해, 
+		줄리를 죽게 할 순 없어
+00:31:48	 
+		이렇게 해야만 해, 
+		줄리를 죽게 할 순 없어
+00:31:48	I have to do this. I don't want Julie to die.
+		이렇게 해야만 해, 
+		줄리를 죽게 할 순 없어
+00:31:51	I have to do this. I don't want Julie to die.
+		 
+00:31:51	I have to do this. I don't want Julie to die.
+		무슨 일인지 말해봐요
+		제가 도울 수 있어요
+00:31:51	 
+		Tell me what's going on. I can--i can help you.
+		무슨 일인지 말해봐요
+		제가 도울 수 있어요
+00:31:54	 
+		Tell me what's going on. I can--i can help you.
+		 
+00:31:54	 
+		Tell me what's going on. I can--i can help you.
+		난 널 몰라, 난 너 안 믿어
+00:31:54	 
+		난 널 몰라, 난 너 안 믿어
+00:31:54	I don't know you. I don't trust you.
+		난 널 몰라, 난 너 안 믿어
+00:31:56	I don't know you. I don't trust you.
+		 
+00:31:56	 
+		 
+00:31:57	 
+		다이아몬드나 내놔
+00:31:57	Just give me the diamonds.
+		다이아몬드나 내놔
+00:31:59	Just give me the diamonds.
+		 
+00:31:59	Just give me the diamonds.
+		좋아요
+00:31:59	 
+		좋아요
+00:31:59	Okay.
+		좋아요
+00:32:00	 
+		좋아요
+00:32:01	 
+		 
+00:32:04	 
+		줄리는 어딨어요?
+00:32:05	Where's Julie?
+		줄리는 어딨어요?
+00:32:05	Where's Julie?
+		 
+00:32:05	Where's Julie?
+		내가 다이아를 받았다고 
+		전화하면, 놈들이 줄리를 넘겨줘
+00:32:06	 
+		내가 다이아를 받았다고 
+		전화하면, 놈들이 줄리를 넘겨줘
+00:32:06	I call a number, tell them I have the diamonds,
+		내가 다이아를 받았다고 
+		전화하면, 놈들이 줄리를 넘겨줘
+00:32:08	 
+		내가 다이아를 받았다고 
+		전화하면, 놈들이 줄리를 넘겨줘
+00:32:08	They give Julie. Call them.
+		내가 다이아를 받았다고 
+		전화하면, 놈들이 줄리를 넘겨줘
+00:32:09	They give Julie. Call them.
+		 
+00:32:09	They give Julie. Call them.
+		전화 하세요
+00:32:10	 
+		전화 하세요
+00:32:11	 
+		 
+00:32:11	 
+		이게 진짜 다이아인지 
+		어떻게 믿지?
+00:32:11	How do I know those are real diamonds?
+		이게 진짜 다이아인지 
+		어떻게 믿지?
+00:32:13	How do I know those are real diamonds?
+		 
+00:32:13	How do I know those are real diamonds?
+		제 눈엔 진짜로 보이던데요
+00:32:13	 
+		제 눈엔 진짜로 보이던데요
+00:32:13	They look real to me.
+		제 눈엔 진짜로 보이던데요
+00:32:14	 
+		제 눈엔 진짜로 보이던데요
+00:32:15	 
+		 
+00:32:18	 
+		여기요, 한 번 보세요
+00:32:18	Here.
+		여기요, 한 번 보세요
+00:32:20	 
+		여기요, 한 번 보세요
+00:32:20	Why don't you have a look?
+		여기요, 한 번 보세요
+00:32:21	Why don't you have a look?
+		 
+00:32:21	 
+		 
+00:32:22	 
+		전에도 봤던 거잖아요, 여기
+00:32:22	You've seen them before. Here.
+		전에도 봤던 거잖아요, 여기
+00:32:24	You've seen them before. Here.
+		 
+00:32:24	 
+		 
+00:32:31	 
+		아, 미안해요
+00:32:32	Oh, I'm sorry.
+		아, 미안해요
+00:32:33	 
+		아, 미안해요
+00:32:34	 
+		 
+00:32:36	 
+		괜찮아요
+00:32:36	It's okay.
+		괜찮아요
+00:32:37	 
+		괜찮아요
+00:32:38	 
+		 
+00:32:38	 
+		함정이 먹혔어
+00:32:38	Scan's working.
+		함정이 먹혔어
+00:32:39	 
+		함정이 먹혔어
+00:32:40	 
+		 
+00:32:44	 
+		아냐, 이, 이건... 이건
+		다이아몬드가 아니야
+00:32:44	No, this--this...
+		아냐, 이, 이건... 이건
+		다이아몬드가 아니야
+00:32:45	 
+		아냐, 이, 이건... 이건
+		다이아몬드가 아니야
+00:32:45	This is not the diamonds. No, plastic.
+		아냐, 이, 이건... 이건
+		다이아몬드가 아니야
+00:32:47	This is not the diamonds. No, plastic.
+		 
+00:32:47	This is not the diamonds. No, plastic.
+		응, 플라스틱이야, 
+		마지막 통화번호 전달한다
+00:32:48	 
+		응, 플라스틱이야, 
+		마지막 통화번호 전달한다
+00:32:49	Forwarding the last number dialed.
+		응, 플라스틱이야, 
+		마지막 통화번호 전달한다
+00:32:50	 
+		응, 플라스틱이야, 
+		마지막 통화번호 전달한다
+00:32:51	 
+		 
+00:32:52	Whoa. Whoa, whoa, whoa. You son of a whore.
+		 
+00:32:53	Whoa. Whoa, whoa, whoa. You son of a whore.
+		이 개놈의 자식
+00:32:55	 
+		이 개놈의 자식
+00:32:55	 
+		 
+00:32:56	 
+		프레시디오 인근 아파트 건물에서 
+		휴대폰 신호가 오고 있어요
+00:32:56	Signal on that phone is coming from an apartment building
+		프레시디오 인근 아파트 건물에서 
+		휴대폰 신호가 오고 있어요
+00:32:58	 
+		프레시디오 인근 아파트 건물에서 
+		휴대폰 신호가 오고 있어요
+00:32:58	In the Presidio. All units move in.
+		프레시디오 인근 아파트 건물에서 
+		휴대폰 신호가 오고 있어요
+00:32:59	In the Presidio. All units move in.
+		 
+00:32:59	In the Presidio. All units move in.
+		전대원 출동해
+00:33:00	 
+		전대원 출동해
+00:33:01	 
+		 
+00:33:01	 
+		이제 놈들이 줄리를 죽일거야
+00:33:01	They will kill Julie now.
+		이제 놈들이 줄리를 죽일거야
+00:33:02	They will kill Julie now.
+		 
+00:33:02	They will kill Julie now.
+		"놈들"이 누군데요?
+00:33:03	 
+		"놈들"이 누군데요?
+00:33:03	Who is "they"?
+		"놈들"이 누군데요?
+00:33:03	Who is "they"?
+		 
+00:33:03	Who is "they"?
+		나도 몰라 
+		놈들이 나한테 연락했어
+00:33:04	 
+		나도 몰라 
+		놈들이 나한테 연락했어
+00:33:04	I don't know. They call me. They send pictures to my phone
+		나도 몰라 
+		놈들이 나한테 연락했어
+00:33:06	I don't know. They call me. They send pictures to my phone
+		 
+00:33:06	I don't know. They call me. They send pictures to my phone
+		내 휴대폰으로.. 줄리가
+		묶인 사진을 보냈어
+00:33:08	 
+		내 휴대폰으로.. 줄리가
+		묶인 사진을 보냈어
+00:33:08	Of--of Julie tied up.
+		내 휴대폰으로.. 줄리가
+		묶인 사진을 보냈어
+00:33:10	Of--of Julie tied up.
+		 
+00:33:10	Of--of Julie tied up.
+		제이슨의 돈을 내놓지 
+		않으면 줄리를 죽인다고
+00:33:11	 
+		제이슨의 돈을 내놓지 
+		않으면 줄리를 죽인다고
+00:33:11	They say I must give them Jason's money, or she dies.
+		제이슨의 돈을 내놓지 
+		않으면 줄리를 죽인다고
+00:33:14	 
+		제이슨의 돈을 내놓지 
+		않으면 줄리를 죽인다고
+00:33:14	 
+		 
+00:33:15	 
+		나한텐 그 돈이 없단말야
+00:33:15	I don't have Jason's money.
+		나한텐 그 돈이 없단말야
+00:33:17	I don't have Jason's money.
+		 
+00:33:17	I don't have Jason's money.
+		놈들이 요구한게 제이슨의 
+		돈이었나요, 다이아몬드 였나요?
+00:33:17	 
+		놈들이 요구한게 제이슨의 
+		돈이었나요, 다이아몬드 였나요?
+00:33:17	Did they ask for Jason's money or did they ask for diamonds?
+		놈들이 요구한게 제이슨의 
+		돈이었나요, 다이아몬드 였나요?
+00:33:20	Did they ask for Jason's money or did they ask for diamonds?
+		 
+00:33:20	Did they ask for Jason's money or did they ask for diamonds?
+		돈이었어
+00:33:20	 
+		돈이었어
+00:33:20	For money. Then they're not gonna hurt Julie
+		돈이었어
+00:33:20	For money. Then they're not gonna hurt Julie
+		 
+00:33:20	For money. Then they're not gonna hurt Julie
+		만약 당신 말이 사실이라면 
+		놈들은 줄리를 해치지 않을 거에요
+00:33:22	 
+		만약 당신 말이 사실이라면 
+		놈들은 줄리를 해치지 않을 거에요
+00:33:22	If you're telling me the truth.
+		만약 당신 말이 사실이라면 
+		놈들은 줄리를 해치지 않을 거에요
+00:33:24	If you're telling me the truth.
+		 
+00:33:24	If you're telling me the truth.
+		만약이 아니야, 
+		내 말 사실이야
+00:33:24	 
+		만약이 아니야, 
+		내 말 사실이야
+00:33:24	No if. I am telling the truth.
+		만약이 아니야, 
+		내 말 사실이야
+00:33:27	 
+		만약이 아니야, 
+		내 말 사실이야
+00:33:27	 
+		 
+00:33:54	 
+		물러서요
+00:33:54	Get back. Police!
+		물러서요
+00:33:55	Get back. Police!
+		 
+00:33:55	Get back. Police!
+		- 경찰이다!
+		- 경찰이다!
+00:33:55	 
+		- 경찰이다!
+		- 경찰이다!
+00:33:55	Police! Freeze!
+		- 경찰이다!
+		- 경찰이다!
+00:33:56	Police! Freeze!
+		 
+00:33:56	Police! Freeze!
+		꼼짝마!
+00:33:57	 
+		꼼짝마!
+00:33:58	 
+		 
+00:33:59	Drop the weapon! Drop the gun!
+		 
+00:34:01	 
+		 
+00:34:01	Drop it right now! Put down the weapon!
+		 
+00:34:02	Drop it right now! Put down the weapon!
+		- 무기 내려놔!
+		- 총 버려!
+00:34:04	 
+		- 무기 내려놔!
+		- 총 버려!
+00:34:04	 
+		 
+00:34:04	 
+		- 당장 내려놔!
+		- 무기 버려!
+00:34:06	 
+		 
+00:34:06	 
+		- 무기 버려!
+		- 애 있어!
+00:34:07	Drop the weapon! Watch the kid!
+		- 무기 버려!
+		- 애 있어!
+00:34:08	Drop the weapon! Watch the kid!
+		 
+00:34:09	 
+		 
+00:34:19	 
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:20	So far what I know is
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:21	 
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:21	You guys shot and grievously wounded
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:23	 
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:23	A prominent and a very well-liked member
+		지금까지 내 귀에 들어온 소식은 자네들이 
+		총으로 쏴버려 치명상을 입힌 사람이
+00:34:23	A prominent and a very well-liked member
+		 
+00:34:23	A prominent and a very well-liked member
+		샌프란시스코의 매우 촉망받는
+		인기 변호사라는 사실인데 
+00:34:25	 
+		샌프란시스코의 매우 촉망받는
+		인기 변호사라는 사실인데 
+00:34:25	Of the san francisco bar.
+		샌프란시스코의 매우 촉망받는
+		인기 변호사라는 사실인데 
+00:34:26	 
+		샌프란시스코의 매우 촉망받는
+		인기 변호사라는 사실인데 
+00:34:27	 
+		 
+00:34:27	 
+		어떻게 된건가? 
+		간단 명료하게 말해보게
+00:34:27	What's going on? In simple, declarative sentences.
+		어떻게 된건가? 
+		간단 명료하게 말해보게
+00:34:29	What's going on? In simple, declarative sentences.
+		 
+00:34:29	What's going on? In simple, declarative sentences.
+		변호사가 범인이에요
+00:34:29	 
+		변호사가 범인이에요
+00:34:29	Bennett's our man.
+		변호사가 범인이에요
+00:34:30	Bennett's our man.
+		 
+00:34:30	Bennett's our man.
+		1000만 달러 어치 다이아때문에 제이슨을
+		죽이고, 같은 이유로 줄리를 납치했어요
+00:34:30	 
+		1000만 달러 어치 다이아때문에 제이슨을
+		죽이고, 같은 이유로 줄리를 납치했어요
+00:34:30	He killed Jason Sands for $10 million in diamonds,
+		1000만 달러 어치 다이아때문에 제이슨을
+		죽이고, 같은 이유로 줄리를 납치했어요
+00:34:33	 
+		1000만 달러 어치 다이아때문에 제이슨을
+		죽이고, 같은 이유로 줄리를 납치했어요
+00:34:33	Kidnapped Julie Sands for the same reason.
+		1000만 달러 어치 다이아때문에 제이슨을
+		죽이고, 같은 이유로 줄리를 납치했어요
+00:34:35	Kidnapped Julie Sands for the same reason.
+		 
+00:34:35	Kidnapped Julie Sands for the same reason.
+		부인이나 정부 둘 중에 
+		한명이 공범 역할을 했고요
+00:34:35	 
+		부인이나 정부 둘 중에 
+		한명이 공범 역할을 했고요
+00:34:35	Either the widow or the mistress acted as his accomplice.
+		부인이나 정부 둘 중에 
+		한명이 공범 역할을 했고요
+00:34:38	 
+		부인이나 정부 둘 중에 
+		한명이 공범 역할을 했고요
+00:34:38	 
+		 
+00:34:38	 
+		둘중에 누구야?
+00:34:38	Which one? We're trying to nail that down now.
+		둘중에 누구야?
+00:34:39	Which one? We're trying to nail that down now.
+		 
+00:34:39	Which one? We're trying to nail that down now.
+		그걸 이제 결판 지으려고요
+00:34:40	Which one? We're trying to nail that down now.
+		 
+00:34:40	Which one? We're trying to nail that down now.
+		베넷이 살아나면 말해줄텐데
+		그럴 가망은 없어보여요
+00:34:40	 
+		베넷이 살아나면 말해줄텐데
+		그럴 가망은 없어보여요
+00:34:40	If Bennett makes it, he could tell us,
+		베넷이 살아나면 말해줄텐데
+		그럴 가망은 없어보여요
+00:34:42	 
+		베넷이 살아나면 말해줄텐데
+		그럴 가망은 없어보여요
+00:34:42	But it doesn't look like he will,
+		베넷이 살아나면 말해줄텐데
+		그럴 가망은 없어보여요
+00:34:42	But it doesn't look like he will,
+		 
+00:34:42	But it doesn't look like he will,
+		그러니 그 공범으로부터 
+		자백을 받아내야 해요
+00:34:43	 
+		그러니 그 공범으로부터 
+		자백을 받아내야 해요
+00:34:43	So we're gonna need a confession from his accomplice.
+		그러니 그 공범으로부터 
+		자백을 받아내야 해요
+00:34:45	So we're gonna need a confession from his accomplice.
+		 
+00:34:45	So we're gonna need a confession from his accomplice.
+		- 그래서, 음...
+		- 뭐야?
+00:34:45	 
+		- 그래서, 음...
+		- 뭐야?
+00:34:45	So, um... What?
+		- 그래서, 음...
+		- 뭐야?
+00:34:47	So, um... What?
+		 
+00:34:48	 
+		 
+00:34:48	 
+		제인이 좋은 수가 있대요
+00:34:49	Jane has an idea.
+		제인이 좋은 수가 있대요
+00:34:50	 
+		제인이 좋은 수가 있대요
+00:34:50	 
+		 
+00:34:52	 
+		하지만 이 일을 진행하다가 항의가
+		들어오면, 저희 뒤를 봐주실거죠?
+00:34:52	But if we generate any complaints
+		하지만 이 일을 진행하다가 항의가
+		들어오면, 저희 뒤를 봐주실거죠?
+00:34:53	 
+		하지만 이 일을 진행하다가 항의가
+		들어오면, 저희 뒤를 봐주실거죠?
+00:34:53	As to how we go about this, you've got our backs, right?
+		하지만 이 일을 진행하다가 항의가
+		들어오면, 저희 뒤를 봐주실거죠?
+00:34:55	As to how we go about this, you've got our backs, right?
+		 
+00:34:55	As to how we go about this, you've got our backs, right?
+		그야, 상황에 따라 다르지
+00:34:56	 
+		그야, 상황에 따라 다르지
+00:34:56	Well, that depends.
+		그야, 상황에 따라 다르지
+00:34:58	Well, that depends.
+		 
+00:34:58	Well, that depends.
+		당연히, 이번 건은 이겨야하지만
+00:34:58	 
+		당연히, 이번 건은 이겨야하지만
+00:34:58	Obviously, we need a win here. But i-i won't sanction
+		당연히, 이번 건은 이겨야하지만
+00:35:00	Obviously, we need a win here. But i-i won't sanction
+		 
+00:35:00	Obviously, we need a win here. But i-i won't sanction
+		하지만.. 불법이거나 소송이 들어올
+		수 있는 행동은 허락하지 않겠네
+00:35:01	 
+		하지만.. 불법이거나 소송이 들어올
+		수 있는 행동은 허락하지 않겠네
+00:35:01	Anything underhanded or actionable. That's kind of vague.
+		하지만.. 불법이거나 소송이 들어올
+		수 있는 행동은 허락하지 않겠네
+00:35:03	Anything underhanded or actionable. That's kind of vague.
+		 
+00:35:03	Anything underhanded or actionable. That's kind of vague.
+		그 말은 좀 애매하신데요
+00:35:04	Anything underhanded or actionable. That's kind of vague.
+		 
+00:35:04	Anything underhanded or actionable. That's kind of vague.
+		이 팀이 지향하는 목표 자체가
+		치밀함, 신중함, 분별력이야
+00:35:04	 
+		이 팀이 지향하는 목표 자체가
+		치밀함, 신중함, 분별력이야
+00:35:04	The whole point of this unit
+		이 팀이 지향하는 목표 자체가
+		치밀함, 신중함, 분별력이야
+00:35:06	 
+		이 팀이 지향하는 목표 자체가
+		치밀함, 신중함, 분별력이야
+00:35:06	Is--is subtly and discretion and judgment.
+		이 팀이 지향하는 목표 자체가
+		치밀함, 신중함, 분별력이야
+00:35:08	Is--is subtly and discretion and judgment.
+		 
+00:35:08	Is--is subtly and discretion and judgment.
+		자네가 옳은 일을 할것으로 기대하네, 
+		나까지 휘말리게 하지 않고 말이야
+00:35:08	 
+		자네가 옳은 일을 할것으로 기대하네, 
+		나까지 휘말리게 하지 않고 말이야
+00:35:08	I expect you to do what's right without dragging me into it.
+		자네가 옳은 일을 할것으로 기대하네, 
+		나까지 휘말리게 하지 않고 말이야
+00:35:12	I expect you to do what's right without dragging me into it.
+		 
+00:35:12	I expect you to do what's right without dragging me into it.
+		정말이세요?
+00:35:12	 
+		정말이세요?
+00:35:12	Really?
+		정말이세요?
+00:35:13	 
+		정말이세요?
+00:35:14	 
+		 
+00:35:15	 
+		그래, 그래, 리스본
+00:35:15	Yes, yes, Lisbon.
+		그래, 그래, 리스본
+00:35:17	Yes, yes, Lisbon.
+		
+00:35:18	 
+00:35:18	 
+		당연히
+00:35:18	Of course. If I'm forced to it, I have your back.
+		당연히
+00:35:19	Of course. If I'm forced to it, I have your back.
+		 
+00:35:19	Of course. If I'm forced to it, I have your back.
+		어쩔 수 없는 상황이 오면, 
+		자네를 엄호하지
+00:35:22	 
+		어쩔 수 없는 상황이 오면, 
+		자네를 엄호하지
+00:35:22	 
+		 
+00:35:22	 
+		물을 필요가 있다는 
+		자체가 황당하군
+00:35:22	I'm insulted you need to ask.
+		물을 필요가 있다는 
+		자체가 황당하군
+00:35:24	 
+		물을 필요가 있다는 
+		자체가 황당하군
+00:35:25	 
+		 
+00:35:32	 
+		어디 있어요? 어디 있어요? 
+		우리 애 괜찮나요?
+00:35:33	Where is she? Where is she?
+		어디 있어요? 어디 있어요? 
+		우리 애 괜찮나요?
+00:35:34	 
+		어디 있어요? 어디 있어요? 
+		우리 애 괜찮나요?
+00:35:34	Is she okay?
+		어디 있어요? 어디 있어요? 
+		우리 애 괜찮나요?
+00:35:34	Is she okay?
+		 
+00:35:34	Is she okay?
+		네, 약간 충격은 받았지만 
+		신체적으로는 괜찮아요
+00:35:34	 
+		네, 약간 충격은 받았지만 
+		신체적으로는 괜찮아요
+00:35:34	Yes. She's a little in shock, but physically she's fine.
+		네, 약간 충격은 받았지만 
+		신체적으로는 괜찮아요
+00:35:37	Yes. She's a little in shock, but physically she's fine.
+		 
+00:35:37	Yes. She's a little in shock, but physically she's fine.
+		상처 하나 없어요, 의사들이
+		확실히 하려고 여기 온거에요
+00:35:37	 
+		상처 하나 없어요, 의사들이
+		확실히 하려고 여기 온거에요
+00:35:38	Not a scratch. Doctors just want to make sure. Mm.
+		상처 하나 없어요, 의사들이
+		확실히 하려고 여기 온거에요
+00:35:40	Not a scratch. Doctors just want to make sure. Mm.
+		 
+00:35:40	Not a scratch. Doctors just want to make sure. Mm.
+		안녕, 제니퍼
+00:35:40	 
+		안녕, 제니퍼
+00:35:40	Hello, Jennifer.
+		안녕, 제니퍼
+00:35:41	 
+		안녕, 제니퍼
+00:35:43	 
+		 
+00:35:44	 
+		애이드리아나?
+00:35:44	Adrianna?
+		애이드리아나?
+00:35:45	 
+		애이드리아나?
+00:35:46	 
+		 
+00:35:46	 
+		이건 예상 못했네
+00:35:46	This is a surprise.
+		이건 예상 못했네
+00:35:47	 
+		이건 예상 못했네
+00:35:48	 
+		 
+00:35:49	 
+		저 여자 여긴 왜 왔어요?
+		감옥에 있어야 하는거 아녀요?
+00:35:49	What's she doing here? Shouldn't she be in jail?
+		저 여자 여긴 왜 왔어요?
+		감옥에 있어야 하는거 아녀요?
+00:35:51	What's she doing here? Shouldn't she be in jail?
+		 
+00:35:51	What's she doing here? Shouldn't she be in jail?
+		아, 보석으로 나왔습니다, 부인
+00:35:51	 
+		아, 보석으로 나왔습니다, 부인
+00:35:51	Uh, out on bond, ma'am.
+		아, 보석으로 나왔습니다, 부인
+00:35:53	Uh, out on bond, ma'am.
+		 
+00:35:53	Uh, out on bond, ma'am.
+		이렇게 금방요?
+00:35:53	 
+		이렇게 금방요?
+00:35:53	So quickly?
+		이렇게 금방요?
+00:35:54	 
+		이렇게 금방요?
+00:35:54	 
+		 
+00:35:54	 
+		내가 당신보다 더 실력있는 
+		변호사를 후리거든
+00:35:54	I screw better lawyers than you.
+		내가 당신보다 더 실력있는 
+		변호사를 후리거든
+00:35:56	 
+		내가 당신보다 더 실력있는 
+		변호사를 후리거든
+00:35:57	 
+		 
+00:36:00	 
+		그렇게 비뚤어지기까지 정말 
+		딱하고 어려운 인생을 사셨나 본데
+00:36:00	You've obviously led
+		그렇게 비뚤어지기까지 정말 
+		딱하고 어려운 인생을 사셨나 본데
+00:36:01	 
+		그렇게 비뚤어지기까지 정말 
+		딱하고 어려운 인생을 사셨나 본데
+00:36:01	A very sad and difficult life to be so twisted.
+		그렇게 비뚤어지기까지 정말 
+		딱하고 어려운 인생을 사셨나 본데
+00:36:04	 
+		그렇게 비뚤어지기까지 정말 
+		딱하고 어려운 인생을 사셨나 본데
+00:36:04	 
+		 
+00:36:04	 
+		진심으로 당신을 동정해요, 
+		애이드리아나
+00:36:04	Truly, Adrianna, you have my sympathy.
+		진심으로 당신을 동정해요, 
+		애이드리아나
+00:36:07	Truly, Adrianna, you have my sympathy.
+		 
+00:36:07	Truly, Adrianna, you have my sympathy.
+		@@/ 이 멍청한 년.. @@\
+00:36:07	 
+		@@/ 이 멍청한 년.. @@\
+00:36:07	You stupid cow...
+		@@/ 이 멍청한 년.. @@\
+00:36:09	 
+		@@/ 이 멍청한 년.. @@\
+00:36:09	 
+		 
+00:36:11	 
+		조 선배, 가요
+00:36:11	Cho, let's move.
+		조 선배, 가요
+00:36:13	 
+		조 선배, 가요
+00:36:13	 
+		 
+00:36:13	Oh, hey. What was that name again? What name?
+		 
+00:36:14	Oh, hey. What was that name again? What name?
+		- 그 이름이 뭐라고?
+		- 무슨 이름?
+00:36:16	Oh, hey. What was that name again? What name?
+		 
+00:36:16	Oh, hey. What was that name again? What name?
+		아까 제인이 진짜 중요하다고
+		말한 이름 말이야
+00:36:16	 
+		아까 제인이 진짜 중요하다고
+		말한 이름 말이야
+00:36:16	The one that Jane thought was so important. Wendy.
+		아까 제인이 진짜 중요하다고
+		말한 이름 말이야
+00:36:18	The one that Jane thought was so important. Wendy.
+		 
+00:36:18	The one that Jane thought was so important. Wendy.
+		웬디요
+00:36:19	The one that Jane thought was so important. Wendy.
+		 
+00:36:19	The one that Jane thought was so important. Wendy.
+		맞다, 웬디. 혹시 두 분 중에
+		웬디라는 여자 아시는 분?
+00:36:19	 
+		맞다, 웬디. 혹시 두 분 중에
+		웬디라는 여자 아시는 분?
+00:36:19	Right, Wendy. Do either of you know a woman named Wendy? No.
+		맞다, 웬디. 혹시 두 분 중에
+		웬디라는 여자 아시는 분?
+00:36:21	Right, Wendy. Do either of you know a woman named Wendy? No.
+		 
+00:36:21	Right, Wendy. Do either of you know a woman named Wendy? No.
+		- 없어요
+		- 없어요? 아쉽네요
+00:36:22	 
+		- 없어요
+		- 없어요? 아쉽네요
+00:36:22	No? Shame. She'd be worth knowing. Cho.
+		- 없어요
+		- 없어요? 아쉽네요
+00:36:23	No? Shame. She'd be worth knowing. Cho.
+		 
+00:36:23	No? Shame. She'd be worth knowing. Cho.
+		알아두면 좋을텐데
+00:36:24	No? Shame. She'd be worth knowing. Cho.
+		 
+00:36:24	No? Shame. She'd be worth knowing. Cho.
+		- 선배 
+		- 왜?
+00:36:25	 
+		- 선배 
+		- 왜?
+00:36:25	What? Excuse his levity, ma'am.
+		- 선배 
+		- 왜?
+00:36:26	What? Excuse his levity, ma'am.
+		 
+00:36:26	What? Excuse his levity, ma'am.
+		경솔한 말을 했군요, 
+		  실례했습니다
+00:36:28	 
+		경솔한 말을 했군요, 
+		  실례했습니다
+00:36:28	 
+		 
+00:36:28	 
+		그 웬디라는 여자.. 
+		그 여자가 다이아를 갖고 있어요?
+00:36:28	This Wendy person-- she has the diamonds? It's a possibility.
+		그 웬디라는 여자.. 
+		그 여자가 다이아를 갖고 있어요?
+00:36:30	This Wendy person-- she has the diamonds? It's a possibility.
+		 
+00:36:30	This Wendy person-- she has the diamonds? It's a possibility.
+		가능성은 있죠
+00:36:31	This Wendy person-- she has the diamonds? It's a possibility.
+		 
+00:36:31	This Wendy person-- she has the diamonds? It's a possibility.
+		다이아몬드요?
+00:36:32	 
+		다이아몬드요?
+00:36:32	Diamonds? By the way,
+		다이아몬드요?
+00:36:33	Diamonds? By the way,
+		 
+00:36:33	Diamonds? By the way,
+		아 참, 부인의 그 친구 
+		변호사분 경과가 좋아요
+00:36:33	 
+		아 참, 부인의 그 친구 
+		변호사분 경과가 좋아요
+00:36:33	Your friend mr. Bennett is coming along nicely.
+		아 참, 부인의 그 친구 
+		변호사분 경과가 좋아요
+00:36:35	Your friend mr. Bennett is coming along nicely.
+		 
+00:36:35	Your friend mr. Bennett is coming along nicely.
+		이제 곧 저희와 이야기도
+		할수 있을 것 같던데요
+00:36:35	 
+		이제 곧 저희와 이야기도
+		할수 있을 것 같던데요
+00:36:35	I expect we'll be talking to him shortly.
+		이제 곧 저희와 이야기도
+		할수 있을 것 같던데요
+00:36:37	 
+		이제 곧 저희와 이야기도
+		할수 있을 것 같던데요
+00:36:37	So if there's anything you want to pass along...
+		이제 곧 저희와 이야기도
+		할수 있을 것 같던데요
+00:36:37	So if there's anything you want to pass along...
+		 
+00:36:37	So if there's anything you want to pass along...
+		그러니 혹시 전할 
+		말이라도 싶으시면...
+00:36:38	So if there's anything you want to pass along...
+		 
+00:36:38	So if there's anything you want to pass along...
+		하지만 어떤 경관 말로는
+		가망이 없다고 했는데요
+00:36:39	 
+		하지만 어떤 경관 말로는
+		가망이 없다고 했는데요
+00:36:39	But this other police said that he was a dead man
+		하지만 어떤 경관 말로는
+		가망이 없다고 했는데요
+00:36:41	But this other police said that he was a dead man
+		 
+00:36:41	But this other police said that he was a dead man
+		- 네, 죽어간다고 했어요
+		- 아닙니다
+00:36:41	 
+		- 네, 죽어간다고 했어요
+		- 아닙니다
+00:36:41	Yeah, they said he was dying. No. No, he'll live.
+		- 네, 죽어간다고 했어요
+		- 아닙니다
+00:36:43	Yeah, they said he was dying. No. No, he'll live.
+		 
+00:36:43	Yeah, they said he was dying. No. No, he'll live.
+		아뇨, 살 거에요
+00:36:45	 
+		아뇨, 살 거에요
+00:36:46	 
+		 
+00:36:54	 
+		- 어떻게 했어? 
+		- 믿는 눈치던데요?
+00:36:54	How'd it go? I think we sold it.
+		- 어떻게 했어? 
+		- 믿는 눈치던데요?
+00:36:55	How'd it go? I think we sold it.
+		 
+00:36:55	How'd it go? I think we sold it.
+		- 장난해? 완전 넘어갔다고
+		- 빠샤
+00:36:55	 
+		- 장난해? 완전 넘어갔다고
+		- 빠샤
+00:36:55	Are you kidding? We killed. Yeah.
+		- 장난해? 완전 넘어갔다고
+		- 빠샤
+00:36:57	Are you kidding? We killed. Yeah.
+		 
+00:36:57	 
+		 
+00:36:57	 
+		제인씨 말로는 이대로 두고 
+		보면 저절로 풀릴 거래요
+00:36:58	Well, Jane says give it a moment,
+		제인씨 말로는 이대로 두고 
+		보면 저절로 풀릴 거래요
+00:36:59	 
+		제인씨 말로는 이대로 두고 
+		보면 저절로 풀릴 거래요
+00:36:59	Let it play itself out.
+		제인씨 말로는 이대로 두고 
+		보면 저절로 풀릴 거래요
+00:37:00	 
+		제인씨 말로는 이대로 두고 
+		보면 저절로 풀릴 거래요
+00:37:00	 
+		 
+00:37:10	 
+		아무도 없어요, 둘다 가버렸어요
+00:37:10	It's empty. They're both gone.
+		아무도 없어요, 둘다 가버렸어요
+00:37:12	It's empty. They're both gone.
+		 
+00:37:12	It's empty. They're both gone.
+		정말? 둘 다?
+00:37:12	 
+		정말? 둘 다?
+00:37:12	Really? Both?
+		정말? 둘 다?
+00:37:14	Really? Both?
+		 
+00:37:14	 
+		 
+00:37:15	 
+		제인, 아무도 없대 
+		가자
+00:37:15	Jane, nobody's there. Come on.
+		제인, 아무도 없대 
+		가자
+00:37:17	Jane, nobody's there. Come on.
+		 
+00:37:17	 
+		 
+00:37:22	 
+		괜찮아 아가야, 이제는
+		다 괜찮아 질거야
+00:37:22	It's okay, baby. Everything going to be good now.
+		괜찮아 아가야, 이제는
+		다 괜찮아 질거야
+00:37:24	It's okay, baby. Everything going to be good now.
+		 
+00:37:24	It's okay, baby. Everything going to be good now.
+		- 다 괜찮아
+		- 그동안 어딨었어요?
+00:37:24	 
+		- 다 괜찮아
+		- 그동안 어딨었어요?
+00:37:24	Everything's good. Hmm?
+		- 다 괜찮아
+		- 그동안 어딨었어요?
+00:37:26	 
+		- 다 괜찮아
+		- 그동안 어딨었어요?
+00:37:26	Where have you been?
+		- 다 괜찮아
+		- 그동안 어딨었어요?
+00:37:27	Where have you been?
+		 
+00:37:27	 
+		 
+00:37:39	 
+		젠장! 젠장! 젠장!
+00:37:39	Damn! Damn!
+		젠장! 젠장! 젠장!
+00:37:40	 
+		젠장! 젠장! 젠장!
+00:37:42	Damn!
+		젠장! 젠장! 젠장!
+00:37:43	Damn!
+		 
+00:37:43	Damn!
+		뭘 찾고 계세요?
+00:37:43	 
+		뭘 찾고 계세요?
+00:37:43	What are you looking for?
+		뭘 찾고 계세요?
+00:37:44	 
+		뭘 찾고 계세요?
+00:37:45	 
+		 
+00:37:47	 
+		뭔지 아시잖아요
+00:37:47	You know what I'm looking for.
+		뭔지 아시잖아요
+00:37:48	You know what I'm looking for.
+		 
+00:37:48	You know what I'm looking for.
+		웬디 샌즈는 보라색 
+		머리였던 것 같아요
+00:37:49	 
+		웬디 샌즈는 보라색 
+		머리였던 것 같아요
+00:37:49	I'm pretty certain Wendy Sands had purple hair.
+		웬디 샌즈는 보라색 
+		머리였던 것 같아요
+00:37:52	 
+		웬디 샌즈는 보라색 
+		머리였던 것 같아요
+00:37:52	 
+		 
+00:37:53	 
+		- 이제 변호사를 부르는게 좋을거에요
+		- 왜요? 무엇 때문에?
+00:37:53	You may want to call a lawyer now. Why? What for?
+		- 이제 변호사를 부르는게 좋을거에요
+		- 왜요? 무엇 때문에?
+00:37:57	You may want to call a lawyer now. Why? What for?
+		 
+00:37:57	You may want to call a lawyer now. Why? What for?
+		일을 어렵게 만들지 
+		말아요, 제니퍼
+00:37:57	 
+		일을 어렵게 만들지 
+		말아요, 제니퍼
+00:37:57	Don't make this difficult, Jennifer.
+		일을 어렵게 만들지 
+		말아요, 제니퍼
+00:37:59	 
+		일을 어렵게 만들지 
+		말아요, 제니퍼
+00:38:00	 
+		 
+00:38:00	 
+		베넷이 다 말해줬다고요
+00:38:00	Bennett told us everything.
+		베넷이 다 말해줬다고요
+00:38:01	 
+		베넷이 다 말해줬다고요
+00:38:01	 
+		 
+00:38:01	 
+		훌륭하시군요
+00:38:02	Nicely done.
+		훌륭하시군요
+00:38:03	 
+		훌륭하시군요
+00:38:04	 
+		 
+00:38:05	 
+		나와 애이드리아나에게 서로가 돈을
+		갖고 있다고 생각하게 만들다니
+00:38:05	You made me think Adrianna had the money,
+		나와 애이드리아나에게 서로가 돈을
+		갖고 있다고 생각하게 만들다니
+00:38:08	 
+		나와 애이드리아나에게 서로가 돈을
+		갖고 있다고 생각하게 만들다니
+00:38:08	And you made her think I had the money. Clever.
+		나와 애이드리아나에게 서로가 돈을
+		갖고 있다고 생각하게 만들다니
+00:38:10	And you made her think I had the money. Clever.
+		 
+00:38:10	And you made her think I had the money. Clever.
+		기발하군요
+00:38:11	And you made her think I had the money. Clever.
+		 
+00:38:11	And you made her think I had the money. Clever.
+		감사합니다
+00:38:11	 
+		감사합니다
+00:38:11	Thank you.
+		감사합니다
+00:38:12	 
+		감사합니다
+00:38:13	 
+		 
+00:38:13	 
+		부인같은 훌륭한 배우에게
+		그런 말을 듣자니...
+00:38:13	Coming from a fine actress like yourself, I'm...
+		부인같은 훌륭한 배우에게
+		그런 말을 듣자니...
+00:38:16	 
+		부인같은 훌륭한 배우에게
+		그런 말을 듣자니...
+00:38:16	 
+		 
+00:38:16	 
+		황송하네요
+00:38:17	I'm flattered.
+		황송하네요
+00:38:18	 
+		황송하네요
+00:38:19	 
+		 
+00:38:19	 
+		그 돈 진짜 다이아몬드로 바꾼거에요,
+		아니면 그것도 속임수에요?
+00:38:19	Is it really in diamonds,
+		그 돈 진짜 다이아몬드로 바꾼거에요,
+		아니면 그것도 속임수에요?
+00:38:20	 
+		그 돈 진짜 다이아몬드로 바꾼거에요,
+		아니면 그것도 속임수에요?
+00:38:20	Or is that just part of the trick?
+		그 돈 진짜 다이아몬드로 바꾼거에요,
+		아니면 그것도 속임수에요?
+00:38:22	Or is that just part of the trick?
+		 
+00:38:22	Or is that just part of the trick?
+		속임수 아니에요, 다이아몬드에요
+00:38:22	 
+		속임수 아니에요, 다이아몬드에요
+00:38:22	No trick.
+		속임수 아니에요, 다이아몬드에요
+00:38:23	 
+		속임수 아니에요, 다이아몬드에요
+00:38:23	Diamonds.
+		속임수 아니에요, 다이아몬드에요
+00:38:24	Diamonds.
+		 
+00:38:24	Diamonds.
+		어디있는지 아세요?
+00:38:24	 
+		어디있는지 아세요?
+00:38:25	Do you know where?
+		어디있는지 아세요?
+00:38:26	 
+		어디있는지 아세요?
+00:38:26	 
+		 
+00:38:26	 
+		알아요
+00:38:26	I do.
+		알아요
+00:38:27	I do.
+		 
+00:38:27	I do.
+		말해주세요
+00:38:27	 
+		말해주세요
+00:38:28	Tell me.
+		말해주세요
+00:38:29	 
+		말해주세요
+00:38:29	 
+		 
+00:38:29	 
+		모든 걸 말해주면
+		가르쳐 드릴게요
+00:38:29	Tell me what happened,
+		모든 걸 말해주면
+		가르쳐 드릴게요
+00:38:31	 
+		모든 걸 말해주면
+		가르쳐 드릴게요
+00:38:31	And I'll tell you where they are.
+		모든 걸 말해주면
+		가르쳐 드릴게요
+00:38:33	 
+		모든 걸 말해주면
+		가르쳐 드릴게요
+00:38:33	 
+		 
+00:38:33	 
+		여태까지 전부 
+		저를 갖고 놀았군요
+00:38:33	This whole time, you were just playing me.
+		여태까지 전부 
+		저를 갖고 놀았군요
+00:38:36	 
+		여태까지 전부 
+		저를 갖고 놀았군요
+00:38:36	 
+		 
+00:38:36	 
+		전부는 아니었어요
+00:38:37	Not the whole time.
+		전부는 아니었어요
+00:38:38	 
+		전부는 아니었어요
+00:38:39	 
+		 
+00:38:39	 
+		그거 아쉽네요, 난...우리가
+		정말 통한다고 생각했는데
+00:38:39	That's so sad. I...
+		그거 아쉽네요, 난...우리가
+		정말 통한다고 생각했는데
+00:38:40	 
+		그거 아쉽네요, 난...우리가
+		정말 통한다고 생각했는데
+00:38:41	Thought we had a real connection.
+		그거 아쉽네요, 난...우리가
+		정말 통한다고 생각했는데
+00:38:43	 
+		그거 아쉽네요, 난...우리가
+		정말 통한다고 생각했는데
+00:38:43	 
+		 
+00:38:43	 
+		그랬지요
+00:38:43	We did.
+		그랬지요
+00:38:44	 
+		그랬지요
+00:38:45	 
+		 
+00:38:45	 
+		- 다시 시작할까요
+		- 그렇게는 못해요
+00:38:45	We can again.
+		- 다시 시작할까요
+		- 그렇게는 못해요
+00:38:46	 
+		- 다시 시작할까요
+		- 그렇게는 못해요
+00:38:46	No, we can't.
+		- 다시 시작할까요
+		- 그렇게는 못해요
+00:38:48	 
+		- 다시 시작할까요
+		- 그렇게는 못해요
+00:38:48	 
+		 
+00:38:51	 
+		사실은 전...
+00:38:51	You know, i...
+		사실은 전...
+00:38:52	 
+		사실은 전...
+00:38:53	 
+		 
+00:38:53	 
+		절대 이렇게 될 줄은 몰랐어요
+00:38:53	I never meant for this to happen.
+		절대 이렇게 될 줄은 몰랐어요
+00:38:55	 
+		절대 이렇게 될 줄은 몰랐어요
+00:38:56	 
+		 
+00:38:57	 
+		알아요
+00:38:57	I know.
+		알아요
+00:38:58	 
+		알아요
+00:39:00	 
+		 
+00:39:00	 
+		베넷 짓이었어요
+00:39:00	It was Bennett.
+		베넷 짓이었어요
+00:39:01	 
+		베넷 짓이었어요
+00:39:02	 
+		 
+00:39:02	 
+		저도 억지로 끌어들인 거에요
+		그 사람이 전부 계획한거에요
+00:39:03	He forced me into this. He--he planned the whole thing.
+		저도 억지로 끌어들인 거에요
+		그 사람이 전부 계획한거에요
+00:39:05	He forced me into this. He--he planned the whole thing.
+		 
+00:39:05	He forced me into this. He--he planned the whole thing.
+		아니, 베넷은 자기가 주도권을 
+		쥔 줄 착각하는 멍청이고요
+00:39:05	 
+		아니, 베넷은 자기가 주도권을 
+		쥔 줄 착각하는 멍청이고요
+00:39:05	No, Bennett is an idiot that thinks he's in control,
+		아니, 베넷은 자기가 주도권을 
+		쥔 줄 착각하는 멍청이고요
+00:39:08	No, Bennett is an idiot that thinks he's in control,
+		 
+00:39:08	No, Bennett is an idiot that thinks he's in control,
+		실제로 그 사람을 요리한건 당신이죠, 
+		그렇게 큰 눈과 떨리는 입술을 하고
+00:39:08	 
+		실제로 그 사람을 요리한건 당신이죠, 
+		그렇게 큰 눈과 떨리는 입술을 하고
+00:39:08	But you played him like a violin,
+		실제로 그 사람을 요리한건 당신이죠, 
+		그렇게 큰 눈과 떨리는 입술을 하고
+00:39:10	 
+		실제로 그 사람을 요리한건 당신이죠, 
+		그렇게 큰 눈과 떨리는 입술을 하고
+00:39:10	With those big eyes and those trembling lips.
+		실제로 그 사람을 요리한건 당신이죠, 
+		그렇게 큰 눈과 떨리는 입술을 하고
+00:39:13	With those big eyes and those trembling lips.
+		 
+00:39:13	With those big eyes and those trembling lips.
+		끝내주는 연기였어요
+00:39:13	 
+		끝내주는 연기였어요
+00:39:13	It's a dynamite act. You had me buying it.
+		끝내주는 연기였어요
+00:39:14	It's a dynamite act. You had me buying it.
+		 
+00:39:14	It's a dynamite act. You had me buying it.
+		저도 속았으니까요
+00:39:16	 
+		저도 속았으니까요
+00:39:17	 
+		 
+00:39:18	 
+		당신이 오리가 오보에
+		라고만 했어도..
+00:39:18	If only you'd told me the duck was an oboe,
+		당신이 오리가 오보에
+		라고만 했어도..
+00:39:21	 
+		당신이 오리가 오보에
+		라고만 했어도..
+00:39:21	 
+		 
+00:39:21	 
+		다이아몬드가 있는 곳을 
+		알려줬을 거에요
+00:39:21	I probably would've told you where the diamonds were,
+		다이아몬드가 있는 곳을 
+		알려줬을 거에요
+00:39:24	I probably would've told you where the diamonds were,
+		 
+00:39:24	I probably would've told you where the diamonds were,
+		그럼 아마도 우린 절대 
+		이 사건을 해결못했겠죠
+00:39:24	 
+		그럼 아마도 우린 절대 
+		이 사건을 해결못했겠죠
+00:39:24	And we likely never would've solved this one.
+		그럼 아마도 우린 절대 
+		이 사건을 해결못했겠죠
+00:39:27	And we likely never would've solved this one.
+		 
+00:39:27	And we likely never would've solved this one.
+		오리가 오보에라고요?
+00:39:27	 
+		오리가 오보에라고요?
+00:39:27	The duck was an oboe?
+		오리가 오보에라고요?
+00:39:28	The duck was an oboe?
+		 
+00:39:28	The duck was an oboe?
+		네, "피터와 늑대"에서요
+00:39:29	 
+		Yeah. "peter and the wolf."
+		네, "피터와 늑대"에서요
+00:39:31	 
+		네, "피터와 늑대"에서요
+00:39:31	 
+		 
+00:39:32	The duck is played by the oboe.
+		 
+00:39:32	The duck is played by the oboe.
+		오리를 연주한 악기는 
+		오보에 였어요
+00:39:35	 
+		오리를 연주한 악기는 
+		오보에 였어요
+00:39:35	 
+		 
+00:39:35	 
+		늑대는 바순이고
+00:39:36	The wolf is a bassoon.
+		늑대는 바순이고
+00:39:38	 
+		늑대는 바순이고
+00:39:38	 
+		 
+00:39:38	 
+		지저귀는 새는 플룻.
+00:39:38	The flute is the songbird.
+		지저귀는 새는 플룻.
+00:39:40	 
+		지저귀는 새는 플룻.
+00:39:40	 
+		 
+00:39:40	 
+		본 사람이면 누구나 알거에요
+00:39:41	Anyone who's seen it knows that.
+		본 사람이면 누구나 알거에요
+00:39:42	 
+		본 사람이면 누구나 알거에요
+00:39:43	 
+		 
+00:39:43	 
+		당신은 몰랐죠
+00:39:43	But you didn't.
+		당신은 몰랐죠
+00:39:44	 
+		당신은 몰랐죠
+00:39:45	 
+		 
+00:39:45	 
+		"피터와 늑대"를 보러 
+		간게 아니니까요
+00:39:45	You didn't go to "peter and the wolf."
+		"피터와 늑대"를 보러 
+		간게 아니니까요
+00:39:47	 
+		"피터와 늑대"를 보러 
+		간게 아니니까요
+00:39:47	You stayed home and tortured your husband
+		"피터와 늑대"를 보러 
+		간게 아니니까요
+00:39:47	You stayed home and tortured your husband
+		 
+00:39:47	You stayed home and tortured your husband
+		당신은 집에 남아 남편을 고문하면서
+		도피 자금을 내놓으라고 했죠
+00:39:49	 
+		당신은 집에 남아 남편을 고문하면서
+		도피 자금을 내놓으라고 했죠
+00:39:49	To make him give you his running away money.
+		당신은 집에 남아 남편을 고문하면서
+		도피 자금을 내놓으라고 했죠
+00:39:52	 
+		 
+00:39:54	 
+		내 딸과, 1000만 달러와, 그 더러운 
+		창녀를 데리고 달아나려고 했어요
+00:39:54	Running away with my daughter
+		내 딸과, 1000만 달러와, 그 더러운 
+		창녀를 데리고 달아나려고 했어요
+00:39:56	 
+		내 딸과, 1000만 달러와, 그 더러운 
+		창녀를 데리고 달아나려고 했어요
+00:39:56	And $10 million and that dirty whore.
+		내 딸과, 1000만 달러와, 그 더러운 
+		창녀를 데리고 달아나려고 했어요
+00:39:58	And $10 million and that dirty whore.
+		 
+00:39:58	And $10 million and that dirty whore.
+		저한테는 아무것도 
+		남겨두지 않고요
+00:39:59	 
+		저한테는 아무것도 
+		남겨두지 않고요
+00:39:59	And leave me with nothing?! I don't think so.
+		저한테는 아무것도 
+		남겨두지 않고요
+00:40:00	And leave me with nothing?! I don't think so.
+		 
+00:40:00	And leave me with nothing?! I don't think so.
+		그렇게는 안되죠
+00:40:01	 
+		그렇게는 안되죠
+00:40:02	 
+		 
+00:40:02	 
+		내 딸이 자기 아빠의 창녀를 더 
+		좋아하는게 어떤 심정일 것 같아요?
+00:40:02	How do you think it feels
+		내 딸이 자기 아빠의 창녀를 더 
+		좋아하는게 어떤 심정일 것 같아요?
+00:40:03	 
+		내 딸이 자기 아빠의 창녀를 더 
+		좋아하는게 어떤 심정일 것 같아요?
+00:40:03	That my daughter prefers her father's whore over me?
+		내 딸이 자기 아빠의 창녀를 더 
+		좋아하는게 어떤 심정일 것 같아요?
+00:40:07	That my daughter prefers her father's whore over me?
+		 
+00:40:07	That my daughter prefers her father's whore over me?
+		자기 친엄마보다 그 여자를
+		더 사랑할 때의 심정 말이에요
+00:40:07	 
+		자기 친엄마보다 그 여자를
+		더 사랑할 때의 심정 말이에요
+00:40:07	That she loves her more than her own mother?
+		자기 친엄마보다 그 여자를
+		더 사랑할 때의 심정 말이에요
+00:40:10	That she loves her more than her own mother?
+		 
+00:40:10	That she loves her more than her own mother?
+		어떤 심정일 것 같아요?
+00:40:10	 
+		어떤 심정일 것 같아요?
+00:40:10	How do you think that feels?!
+		어떤 심정일 것 같아요?
+00:40:12	 
+		어떤 심정일 것 같아요?
+00:40:13	 
+		 
+00:40:13	 
+		분명 아프겠지요
+00:40:13	I'm sure it hurts.
+		분명 아프겠지요
+00:40:14	 
+		분명 아프겠지요
+00:40:15	 
+		 
+00:40:19	 
+		저는 늘.. 그 방에 
+		금고가 있을줄 알았어요
+00:40:19	I always knew there was a safe in that room,
+		저는 늘.. 그 방에 
+		금고가 있을줄 알았어요
+00:40:22	 
+		저는 늘.. 그 방에 
+		금고가 있을줄 알았어요
+00:40:22	 
+		 
+00:40:22	 
+		하지만 남편은 절대 그 위치나 
+		암호를 말하지 않는거에요
+00:40:22	But he would never tell me where
+		하지만 남편은 절대 그 위치나 
+		암호를 말하지 않는거에요
+00:40:24	 
+		하지만 남편은 절대 그 위치나 
+		암호를 말하지 않는거에요
+00:40:24	Or what the combination was.
+		하지만 남편은 절대 그 위치나 
+		암호를 말하지 않는거에요
+00:40:25	 
+		하지만 남편은 절대 그 위치나 
+		암호를 말하지 않는거에요
+00:40:26	 
+		 
+00:40:26	 
+		그때 전 갑자기 깨달았죠
+00:40:26	And I had a real breakthrough insight.
+		그때 전 갑자기 깨달았죠
+00:40:29	 
+		그때 전 갑자기 깨달았죠
+00:40:29	 
+		 
+00:40:29	 
+		그건...
+00:40:30	I realized...
+		그건...
+00:40:31	 
+		그건...
+00:40:32	 
+		 
+00:40:32	 
+		그게 곧 우리 부부사이의 
+		단면을 보여준 거라고요
+00:40:32	That was our whole marriage--
+		그게 곧 우리 부부사이의 
+		단면을 보여준 거라고요
+00:40:33	 
+		그게 곧 우리 부부사이의 
+		단면을 보여준 거라고요
+00:40:34	Withholding.
+		그게 곧 우리 부부사이의 
+		단면을 보여준 거라고요
+00:40:35	 
+		그게 곧 우리 부부사이의 
+		단면을 보여준 거라고요
+00:40:36	 
+		 
+00:40:36	 
+		언제나, 언제나 숨길 뿐이었죠
+00:40:36	Withholding, always withholding.
+		언제나, 언제나 숨길 뿐이었죠
+00:40:38	 
+		언제나, 언제나 숨길 뿐이었죠
+00:40:39	 
+		 
+00:40:40	 
+		제이슨에게서 제가 가장 
+		바랬던 게 무엇이 됐든...
+00:40:40	Whatever it was that I needed most from Jason...
+		제이슨에게서 제가 가장 
+		바랬던 게 무엇이 됐든...
+00:40:42	Whatever it was that I needed most from Jason...
+		 
+00:40:42	Whatever it was that I needed most from Jason...
+		제게는 주지 않을 사람이었어요
+00:40:42	 
+		제게는 주지 않을 사람이었어요
+00:40:42	That's what he refused to give me.
+		제게는 주지 않을 사람이었어요
+00:40:45	 
+		제게는 주지 않을 사람이었어요
+00:40:46	 
+		 
+00:40:52	 
+		알려주세요 
+		어디있나요?
+00:40:53	Tell me.
+		알려주세요 
+		어디있나요?
+00:40:54	 
+		알려주세요 
+		어디있나요?
+00:40:55	Where are they?
+		알려주세요 
+		어디있나요?
+00:40:56	 
+		알려주세요 
+		어디있나요?
+00:40:56	 
+		 
+00:40:57	 
+		다이아몬드요
+00:40:57	The diamonds.
+		다이아몬드요
+00:40:58	 
+		다이아몬드요
+00:40:59	 
+		 
+00:41:05	 
+		@@/- 방이 정말 멋지구나
+		- 우리 아빠가 만들어 준거에요@@\
+00:41:05	Very nice room. My daddy made it for me.
+		@@/- 방이 정말 멋지구나
+		- 우리 아빠가 만들어 준거에요@@\
+00:41:07	Very nice room. My daddy made it for me.
+		 
+00:41:07	 
+		 
+00:41:32	 
+		맨 처음 의심한게 언제부터에요?
+00:41:32	When did you first suspect it was her?
+		맨 처음 의심한게 언제부터에요?
+00:41:34	 
+		맨 처음 의심한게 언제부터에요?
+00:41:34	 
+		 
+00:41:34	 
+		아, 장례식장서부터 느낌은 왔지
+00:41:34	Oh, I had an idea at the funeral service.
+		아, 장례식장서부터 느낌은 왔지
+00:41:36	Oh, I had an idea at the funeral service.
+		 
+00:41:36	Oh, I had an idea at the funeral service.
+		- 느낌이 오긴요
+		- 진짜야, 진짜야
+00:41:36	 
+		- 느낌이 오긴요
+		- 진짜야, 진짜야
+00:41:36	No, you did not.
+		- 느낌이 오긴요
+		- 진짜야, 진짜야
+00:41:37	 
+		- 느낌이 오긴요
+		- 진짜야, 진짜야
+00:41:37	I did. I did. She, uh, she was looking way too good.
+		- 느낌이 오긴요
+		- 진짜야, 진짜야
+00:41:38	I did. I did. She, uh, she was looking way too good.
+		 
+00:41:38	I did. I did. She, uh, she was looking way too good.
+		그 여자는, 음, 너무 좋아보였거든
+00:41:40	I did. I did. She, uh, she was looking way too good.
+		 
+00:41:40	I did. I did. She, uh, she was looking way too good.
+		남편 장례식장에서 광채가 
+		나는 아내란 있을 수 없지
+00:41:40	 
+		남편 장례식장에서 광채가 
+		나는 아내란 있을 수 없지
+00:41:40	No wife should glow at her husband's funeral.
+		남편 장례식장에서 광채가 
+		나는 아내란 있을 수 없지
+00:41:42	No wife should glow at her husband's funeral.
+		 
+00:41:42	No wife should glow at her husband's funeral.
+		그러면 릭츠비랑 유혹 내기를 벌인것도
+		그 여자에게 덫을 놓으려고 그런거야?
+00:41:42	 
+		그러면 릭츠비랑 유혹 내기를 벌인것도
+		그 여자에게 덫을 놓으려고 그런거야?
+00:41:43	So you made that bet with Rigsby that you could seduce her
+		그러면 릭츠비랑 유혹 내기를 벌인것도
+		그 여자에게 덫을 놓으려고 그런거야?
+00:41:45	 
+		그러면 릭츠비랑 유혹 내기를 벌인것도
+		그 여자에게 덫을 놓으려고 그런거야?
+00:41:45	With the deliberate intention of snaring her?
+		그러면 릭츠비랑 유혹 내기를 벌인것도
+		그 여자에게 덫을 놓으려고 그런거야?
+00:41:47	With the deliberate intention of snaring her?
+		 
+00:41:47	With the deliberate intention of snaring her?
+		내기도 이기고 싶었는데, 근데...
+00:41:47	 
+		내기도 이기고 싶었는데, 근데...
+00:41:47	I wanted to win the bet, too, and, uh...
+		내기도 이기고 싶었는데, 근데...
+00:41:50	 
+		내기도 이기고 싶었는데, 근데...
+00:41:50	 
+		 
+00:41:53	 
+		그럴 수 없었어
+00:41:53	I couldn't.
+		그럴 수 없었어
+00:41:54	 
+		그럴 수 없었어
+00:41:55	 
+		 
+00:41:56	 
+		내가 졌다고 해서
+		내 충고까지 무시하진마
+00:41:56	Just because I lost doesn't mean you shouldn't take my advice.
+		내가 졌다고 해서
+		내 충고까지 무시하진마
+00:41:58	Just because I lost doesn't mean you shouldn't take my advice.
+		 
+00:41:58	Just because I lost doesn't mean you shouldn't take my advice.
+		네에, 네
+00:41:59	 
+		네에, 네
+00:41:59	Yeah, yeah, hush. I'm serious, man.
+		네에, 네
+00:41:59	Yeah, yeah, hush. I'm serious, man.
+		 
+00:41:59	Yeah, yeah, hush. I'm serious, man.
+		진짜야, 한번 해보라고
+00:42:01	 
+		진짜야, 한번 해보라고
+00:42:02	Go for it.
+		진짜야, 한번 해보라고
+00:42:03	Go for it.
+		 
+00:42:03	 
+		 
+00:42:11	 
+		무슨 얘기에요?
+00:42:12	What's he talking about?
+		무슨 얘기에요?
+00:42:13	 
+		무슨 얘기에요?
+00:42:14	 
+		 
+00:42:15	 
+		아무것도
+00:42:16	Nothing.
+		아무것도
+00:42:17	 
+		아무것도
+00:42:17	 
+00:42:20	-=http://sfile.ydy.com=-
+		proudly presents
+00:42:25	 
+00:42:25	-=http://sfile.ydy.com=-
+		sync:峠흄흄
+00:42:30	 
