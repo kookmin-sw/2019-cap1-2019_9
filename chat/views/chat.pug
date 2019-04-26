@@ -2,12 +2,16 @@ extends layout
 
 block content
   h1= title
+
   a#exit-btn(href='/main') 방 나가기
   fieldset
     legend 채팅 내용
     #chat-list
       for chat in chats
-        if chat.user === user
+        if chat.lang != findlang
+          continue
+
+        else if chat.user === user
           .mine(style='color:' + chat.user)
             div= chat.id
             if chat.gif
@@ -37,12 +41,13 @@ block content
   script(src='/socket.io/socket.io.js')
   script(src='/annyang.js')
   script.
-    var socket = io.connect('http://localhost:8888/chat', {
+    var socket = io.connect('https://localhost:443/chat', {
       path: '/socket.io'
     });
-    var user_lang = #{ findlang };
+    
+    var user_lang = '#{ findlang }';
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
-      annyang.setLanguage(user_lang.lang);
+      annyang.setLanguage(user_lang);
       annyang.start({ autoRestart: false, continuous: true });
       var recognition = annyang.getSpeechRecognizer();
       var final_transcript = '';
@@ -95,6 +100,8 @@ block content
     });
     //채팅방에 채팅이 올라온 경우
     socket.on('chat', function (data) {
+      if(data.lang!=user_lang) return;
+      //- console.log('one : '+data.lang+'another : '+user_lang);
       var div = document.createElement('div');
       //올라온 채팅이 내가 말한 내용이면 우측에 아니면 좌측에 게시
       if (data.user === '#{user}') {
