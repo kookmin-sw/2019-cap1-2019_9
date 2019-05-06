@@ -1,0 +1,282 @@
+
+doctype
+html
+  head
+    script.
+    meta(charset='utf-8')
+    title= title
+    link(rel='stylesheet' href='/main.css')
+    
+  
+block content
+  h1= title
+  a#exit-btn(href='/main') 방 나가기
+  fieldset
+    legend 화상채팅 구역
+    #videos-container
+    script(src='/socket.io/socket.io.js')
+    script(src='/getMediaElement.min.js')
+    script(src='/adapter-latest.js')
+    script(src='/IceServersHandler.js')
+    script(src='/CodecsHandler.js')
+    script(src='/RTCPeerConnection-v1.5.js')
+    script(src='/conference.js')
+    script.
+      var videosContainer = document.querySelector('#videos-container');
+      var userId = #{ findlang };
+      var roomowner = '#{ owner }';
+      var roomId = '#{ getroomId }';
+      var config = {
+        openSocket: function(config) {
+            var SIGNALING_SERVER = 'https://localhost:443/rtc';
+            config.channel = config.channel || 'channel';
+            var sender =  userId.id;
+            io.connect(SIGNALING_SERVER).emit('new-channel', {
+            channel: config.channel,
+            sender: sender,
+            });
+         
+            var sockets = io.connect('https://localhost:443/rtcchannel');
+            sockets.channel = config.channel;
+
+            sockets.on('connect', function () {
+              //- console.log("connect success");
+                if (config.callback) config.callback(sockets);
+            });
+            //소켓 데이터 함수로 전송        
+            sockets.send = function (message) {
+              
+              sockets.emit('message', {
+                  sender: sender,
+                  data: message
+              });
+            };
+            //소켓 활성화
+            sockets.on('message', config.onmessage);
+
+        },
+        onRemoteStream: function(media) {
+            var mediaElement = getMediaElement(media.video, {
+            width: (videosContainer.clientWidth / 2) - 50,
+            buttons: ['mute-audio', 'mute-video', 'full-screen', 'volume-slider']
+            });
+            mediaElement.id = media.stream.streamid;
+            videosContainer.appendChild(mediaElement);
+        },
+
+        //원격 스트림 종료
+        onRemoteStreamEnded: function(stream, video) {
+            //비디오의 모든 상위 노드 존재시
+
+            if (video.parentNode && video.parentNode.parentNode && video.parentNode.parentNode.parentNode) {
+                //비디오의 최상위 노드의 자식을 제거
+                video.parentNode.parentNode.parentNode.removeChild(video.parentNode.parentNode);
+
+            }
+        },
+
+         onRoomFound: function(room) {
+          captureUserMedia(function() {
+            //방에 입장
+              conferenceUI.joinRoom({
+                  roomToken: room.roomToken,
+                  joinUser: room.broadcaster
+              });
+          });
+        },
+        onReady: function() {
+            console.log('now you can open or join rooms');
+              if (roomowner === userId.id){
+              captureUserMedia(function() {
+              conferenceUI.createRoom({
+              roomName: roomId,
+           });
+          });
+        } 
+        }
+      };
+      var conferenceUI = conference(config);
+
+      
+      function captureUserMedia(callback, failure_callback) {
+          var video = document.createElement('video');
+          video.muted = true;
+          video.volume = 0;
+          try {
+              video.setAttributeNode(document.createAttribute('autoplay'));
+              video.setAttributeNode(document.createAttribute('playsinline'));
+              video.setAttributeNode(document.createAttribute('controls'));
+          } catch (e) {
+              video.setAttribute('autoplay', true);
+              video.setAttribute('playsinline', true);
+              video.setAttribute('controls', true);
+          }
+
+          getUserMedia({
+              video: video,
+              onsuccess: function(stream) {
+                  config.attachStream = stream;
+                  var mediaElement = getMediaElement(video, {
+                      width: (videosContainer.clientWidth / 2) - 50,
+                      buttons: ['mute-audio', 'mute-video', 'full-screen', 'volume-slider']
+                  });
+                  mediaElement.toggle('mute-audio');
+                  videosContainer.appendChild(mediaElement);
+                  callback && callback();
+              },
+              onerror: function() {
+                  alert('unable to get access to your webcam');
+                  callback && callback();
+              }
+          });
+      }
+      
+    
+  fieldset
+    legend 채팅 내용
+    #chat-list
+      for chat in chats
+      
+        if chat.user === user
+          .mine(style='color:' + chat.user)
+            div= chat.id
+            if chat.gif
+              img(src='/gif/' + chat.gif)
+            else
+              div= chat.chat
+        else if chat.user === 'system'
+          .system
+            div= chat.chat
+        else
+          .other(style='color:' + chat.user)
+            div= chat.id
+            if chat.gif
+              img(src='/gif/' + chat.gif)
+            else
+              div= chat.chat
+  form#chat-form(action='/chat' method='post' enctype='multipart/form-data')
+    label(for='gif') GIF 올리기
+    input#gif(type='file' name='gif' accept='image/gif')
+    input#chat(name='chat')
+    button(type='submit') 전송
+  script(src='/socket.io/socket.io.js')
+  script(src='/annyang.js')
+  script.
+    var sockets = io.connect('https://localhost:443/chat');
+    var user_lang = #{ findlang };
+    //안양 모듈 실행 setlanguage로 사용자 언어로 변환
+      annyang.setLanguage(user_lang.lang);
+      annyang.start({ autoRestart: true, continuous: true });
+      var recognition = annyang.getSpeechRecognizer();
+      var final_transcript = '';
+      recognition.interimResults = true;
+      recognition.onresult = function(event) {
+      var interim_transcript = '';
+      final_transcript = '';
+      for (var i = event.resultIndex; i < event.results.length; ++i) {
+        if (event.results[i].isFinal) {
+          final_transcript += event.results[i][0].transcript;
+          console.log("final_transcript="+final_transcript);
+          //annyang.trigger(final_transcript); //If the sentence is "final" for the Web Speech API, we can try to trigger the sentence
+          } else {
+          interim_transcript += event.results[i][0].transcript;
+          console.log("interim_transcript="+interim_transcript);
+        }
+      }
+      // 번역 결과를 서버에 전송
+      if (final_transcript) {
+        var xhr = new XMLHttpRequest();
+        xhr.onload = function () {
+        if (xhr.status === 200) {
+          final_transcript = '';
+        } else {
+          console.error(xhr.responseText);
+        }
+        };
+        xhr.open('POST', '/room/#{room._id}/chat');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({ chat: final_transcript }));
+      }
+    };
+    // 다른 사용자가 채팅방에 입장 한 경우 
+    sockets.on('join', function (data) {
+      var div = document.createElement('div');
+      div.classList.add('system');
+      var chat = document.createElement('div');
+      div.textContent = data.chat;
+      div.appendChild(chat);
+      document.querySelector('#chat-list').appendChild(div);
+    });
+    //다른 사람이 채팅방에서 나간 경우
+    sockets.on('exit', function (data) {
+      var div = document.createElement('div');
+      div.classList.add('system');
+      var chat = document.createElement('div');
+      div.textContent = data.chat;
+      div.appendChild(chat);
+      document.querySelector('#chat-list').appendChild(div);
+    });
+    //채팅방에 채팅이 올라온 경우
+    sockets.on('chat', function (data) {
+
+      var needchat = data.chat.split('=');
+      var needindex = needchat.findIndex(function(e){
+        return e== user_lang.lang;
+      });
+      needchat = needchat[needindex+1];
+      var div = document.createElement('div');
+      //올라온 채팅이 내가 말한 내용이면 우측에 아니면 좌측에 게시
+      if (data.user === '#{user}') {
+        div.classList.add('mine');
+      } else {
+        div.classList.add('other');
+      }
+      var name = document.createElement('div');
+      name.textContent = data.id;
+      div.appendChild(name);
+      if (needchat) {
+        var chat = document.createElement('div');
+        chat.textContent = needchat;
+        div.appendChild(chat);
+      } else {
+        var gif = document.createElement('img');
+        gif.src = '/gif/' + data.gif;
+        div.appendChild(gif);
+      }
+      div.style.color = data.user;
+      document.querySelector('#chat-list').appendChild(div);
+      document.querySelector('#chat-list').scrollTop = document.querySelector('#chat-list').scrollHeight;
+    });
+
+    
+    document.querySelector('#chat-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (e.target.chat.value) {
+        var xhr = new XMLHttpRequest();
+        xhr.onload = function () {
+          if (xhr.status === 200) {
+            e.target.chat.value = '';
+          } else {
+            console.error(xhr.responseText);
+          }
+        };
+        xhr.open('POST', '/room/#{room._id}/chat');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({ chat: this.chat.value }));
+      }
+    });
+    document.querySelector('#gif').addEventListener('change', function (e) {
+      var formData = new FormData();
+      var xhr = new XMLHttpRequest();
+      console.log(e.target.files);
+      formData.append('gif', e.target.files[0]);
+      xhr.onload = function () {
+        if (xhr.status === 200) {
+          e.target.file = null;
+        } else {
+          console.error(xhr.responseText);
+        }
+      };
+      xhr.open('POST', '/room/#{room._id}/gif');
+      xhr.send(formData);
+    });
