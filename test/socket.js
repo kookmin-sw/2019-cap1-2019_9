@@ -24,7 +24,6 @@ module.exports = (server, app, sessionMiddleware) => {
   const room = io.of('/room');
   const chat = io.of('/chat');
   const rtc = io.of('/rtc');
-  const rtcchannel = io.of('rtcchannel');
   io.adapter(redis({
     host: process.env.REDIS_HOST,
     port: process.env.REDIS_PORT,
@@ -42,10 +41,15 @@ module.exports = (server, app, sessionMiddleware) => {
 
 
 
-
   room.on('connection', async (socket) => {
     console.log('room 네임스페이스에 접속');
+    
+    const req = socket.request;
+    const user = await User.findOne({
+      user: req.session.color
+    });
 
+    onNewNamespace('channel', user.id, user.room);
     
     socket.on('disconnect', () => {
       console.log('room 네임스페이스 접속 해제');
@@ -56,7 +60,7 @@ module.exports = (server, app, sessionMiddleware) => {
 
   chat.on('connection', async (socket) => {
 
-    console.log('chat 네임스페이스에 접속');
+
     const req = socket.request;
 
     const user = await User.findOne({
@@ -111,7 +115,7 @@ module.exports = (server, app, sessionMiddleware) => {
         }
 
         channels[data.channel] = data.channel;
-        // onNewNamespace(data.channel, data.sender);
+        // onNewNamespace('channel', dsender);
     });
 
     socket.on('presence', function (channel) {
@@ -126,8 +130,11 @@ module.exports = (server, app, sessionMiddleware) => {
     });
 });
 
-// function onNewNamespace(channel, sender) {
-  rtcchannel.on('connection', function (socket) {
+function onNewNamespace(channel, sender, roomId) {
+ 
+  io.of('/'+channel).on('connection', function (socket) {
+      socket.join(roomId);
+      console.log(socket.id);
       var username;
       if (io.isConnected) {
           io.isConnected = false;
@@ -135,8 +142,10 @@ module.exports = (server, app, sessionMiddleware) => {
       }
 
       socket.on('message', function (data) {
-          console.log('message Allive!!');
-          if (data.sender) {
+        const currentRoom = socket.adapter.rooms[roomId];
+        console.log('Now room cnt = ', currentRoom.length);
+
+          if (data.sender==sender) {
               if(!username) username = data.data.sender;
               
               socket.broadcast.emit('message', data.data);
@@ -151,7 +160,6 @@ module.exports = (server, app, sessionMiddleware) => {
       });
   });
    
-// }
+}
 
 };
-

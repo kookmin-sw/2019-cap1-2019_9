@@ -30,13 +30,13 @@ block content
         openSocket: function(config) {
             var SIGNALING_SERVER = 'https://localhost:443/rtc';
             config.channel = config.channel || 'channel';
-            var sender =  userId.id;
+            var sender = userId.id;
             io.connect(SIGNALING_SERVER).emit('new-channel', {
             channel: config.channel,
             sender: sender,
             });
          
-            var sockets = io.connect('https://localhost:443/rtcchannel');
+            var sockets = io.connect('https://localhost:443/channel');
             sockets.channel = config.channel;
 
             sockets.on('connect', function () {
@@ -45,7 +45,7 @@ block content
             });
             //소켓 데이터 함수로 전송        
             sockets.send = function (message) {
-              
+              console.log(message);
               sockets.emit('message', {
                   sender: sender,
                   data: message
