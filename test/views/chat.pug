@@ -26,17 +26,14 @@ block content
       var userId = #{ findlang };
       var roomowner = '#{ owner }';
       var roomId = '#{ getroomId }';
+      var join_only_one_room = true;
       var config = {
         openSocket: function(config) {
-            var SIGNALING_SERVER = 'https://localhost:443/rtc';
             config.channel = config.channel || 'channel';
             var sender = userId.id;
-            io.connect(SIGNALING_SERVER).emit('new-channel', {
-            channel: config.channel,
-            sender: sender,
-            });
+          
          
-            var sockets = io.connect('https://localhost:443/channel');
+             var sockets = io.connect('https://localhost:443/channel',{ path: '/socket.io',transports: [ 'websocket' ] });
             sockets.channel = config.channel;
 
             sockets.on('connect', function () {
@@ -45,15 +42,22 @@ block content
             });
             //소켓 데이터 함수로 전송        
             sockets.send = function (message) {
-              console.log(message);
+              console.log(sender);
               sockets.emit('message', {
+
                   sender: sender,
                   data: message
               });
             };
             //소켓 활성화
             sockets.on('message', config.onmessage);
-
+            sockets.on('presence', function (isChannelPresent) {
+            if (!isChannelPresent)
+                connection.open(connection.sessionid);
+            else
+                connection.join(connection.sessionid);
+            });
+            sockets.emit('presence', config.channel);
         },
         onRemoteStream: function(media) {
             var mediaElement = getMediaElement(media.video, {
@@ -76,8 +80,8 @@ block content
         },
 
          onRoomFound: function(room) {
+           if(roomId != room.roomName) return;
           captureUserMedia(function() {
-            //방에 입장
               conferenceUI.joinRoom({
                   roomToken: room.roomToken,
                   joinUser: room.broadcaster
@@ -92,9 +96,10 @@ block content
               roomName: roomId,
            });
           });
-        } 
+        };
         }
       };
+
       var conferenceUI = conference(config);
 
       
@@ -162,7 +167,9 @@ block content
   script(src='/socket.io/socket.io.js')
   script(src='/annyang.js')
   script.
-    var sockets = io.connect('https://localhost:443/chat');
+     var socket = io.connect('https://localhost:443/chat', {
+      path: '/socket.io',transports: [ 'websocket']
+    });
     var user_lang = #{ findlang };
     //안양 모듈 실행 setlanguage로 사용자 언어로 변환
       annyang.setLanguage(user_lang.lang);
@@ -199,7 +206,7 @@ block content
       }
     };
     // 다른 사용자가 채팅방에 입장 한 경우 
-    sockets.on('join', function (data) {
+    socket.on('join', function (data) {
       var div = document.createElement('div');
       div.classList.add('system');
       var chat = document.createElement('div');
@@ -208,16 +215,23 @@ block content
       document.querySelector('#chat-list').appendChild(div);
     });
     //다른 사람이 채팅방에서 나간 경우
-    sockets.on('exit', function (data) {
+    socket.on('exit', function (data) {
       var div = document.createElement('div');
       div.classList.add('system');
       var chat = document.createElement('div');
       div.textContent = data.chat;
       div.appendChild(chat);
       document.querySelector('#chat-list').appendChild(div);
+      try{
+        var videosContainer = document.querySelector('#videos-container');
+        videosContainer.removeChild(videosContainer.childNodes[videosContainer.childNodes.length-1]);
+      }catch{
+        console.log("not include video container");
+      }
+        console.log("exit");
     });
     //채팅방에 채팅이 올라온 경우
-    sockets.on('chat', function (data) {
+    socket.on('chat', function (data) {
 
       var needchat = data.chat.split('=');
       var needindex = needchat.findIndex(function(e){
@@ -280,3 +294,5 @@ block content
       xhr.open('POST', '/room/#{room._id}/gif');
       xhr.send(formData);
     });
+
+

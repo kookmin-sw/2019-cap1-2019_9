@@ -49,7 +49,7 @@ module.exports = (server, app, sessionMiddleware) => {
       user: req.session.color
     });
 
-    onNewNamespace('channel', user.id, user.room);
+    onNewNamespace('channel', user.id);
     
     socket.on('disconnect', () => {
       console.log('room 네임스페이스 접속 해제');
@@ -103,38 +103,11 @@ module.exports = (server, app, sessionMiddleware) => {
     });
   });
 
-  rtc.on('connection', function (socket) {
-    var initiatorChannel = '';
-    if (!io.isConnected) {
-        io.isConnected = true;
-    }
 
-    socket.on('new-channel', function (data) {
-        if (!channels[data.channel]) {
-            initiatorChannel = data.channel;
-        }
-
-        channels[data.channel] = data.channel;
-        // onNewNamespace('channel', dsender);
-    });
-
-    socket.on('presence', function (channel) {
-        var isChannelPresent = !! channels[channel];
-        socket.emit('presence', isChannelPresent);
-    });
-
-    socket.on('disconnect', function (channel) {
-        if (initiatorChannel) {
-            delete channels[initiatorChannel];
-        }
-    });
-});
-
-function onNewNamespace(channel, sender, roomId) {
+function onNewNamespace(channel, sender) {
  
   io.of('/'+channel).on('connection', function (socket) {
-      socket.join(roomId);
-      console.log(socket.id);
+      
       var username;
       if (io.isConnected) {
           io.isConnected = false;
@@ -142,17 +115,18 @@ function onNewNamespace(channel, sender, roomId) {
       }
 
       socket.on('message', function (data) {
-        const currentRoom = socket.adapter.rooms[roomId];
-        console.log('Now room cnt = ', currentRoom.length);
+        
 
           if (data.sender==sender) {
               if(!username) username = data.data.sender;
-              
+              setTimeout(() => {
               socket.broadcast.emit('message', data.data);
-          }
+          },500);
+        }
       });
       
       socket.on('disconnect', function() {
+          console.log('접속헤제');
           if(username) {
               socket.broadcast.emit('user-left', username);
               username = null;

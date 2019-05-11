@@ -156,6 +156,11 @@ router.delete('/room/:id', async (req, res, next) => {
     await Room.remove({
       _id: req.params.id
     });
+    
+    await User.remove({
+      room: req.params.id,
+    });
+
     await Chat.remove({
       room: req.params.id
     });
