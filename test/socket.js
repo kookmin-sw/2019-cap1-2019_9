@@ -12,7 +12,8 @@ const User = require('./schemas/user');
 
 const bindListeners = (io) => {
   io.on('connection', (socket) => {
-    console.log(`${socket.id} connected`)
+    console.log(`${socket.id} connected`);
+    
   })
 }
 
@@ -21,9 +22,9 @@ module.exports = (server, app, sessionMiddleware) => {
   const io = SocketIO(server, {
   });
   app.set('io', io);
+
   const room = io.of('/room');
   const chat = io.of('/chat');
-  const rtc = io.of('/rtc');
   io.adapter(redis({
     host: process.env.REDIS_HOST,
     port: process.env.REDIS_PORT,
@@ -36,20 +37,21 @@ module.exports = (server, app, sessionMiddleware) => {
   io.use((socket, next) => {
     sessionMiddleware(socket.request, socket.request.res || {}, next);
   });
-
-  var channels ={};
+  
+ 
+  
 
 
 
   room.on('connection', async (socket) => {
     console.log('room 네임스페이스에 접속');
     
-    const req = socket.request;
-    const user = await User.findOne({
-      user: req.session.color
-    });
+    // const req = socket.request;
+    // const user = await User.findOne({
+    //   user: req.session.color
+    // });
 
-    onNewNamespace('channel', user.id);
+    // onNewNamespace('channel', user.id);
     
     socket.on('disconnect', () => {
       console.log('room 네임스페이스 접속 해제');
@@ -62,52 +64,71 @@ module.exports = (server, app, sessionMiddleware) => {
 
 
     const req = socket.request;
-
+    console.log(req.session);
     const user = await User.findOne({
       user: req.session.color
     });
     const roomId = user.room;
-    socket.join(roomId);
+    // await socket.join(roomId);  
+    chat.adapter.remoteJoin(socket.id, roomId, (err) => {
+      if (err){
+        console.log(err);
+      } 
+    });
+  
     socket.to(roomId).emit('join', {
       user: 'system',
       chat: `${user.id}님이 입장하셨습니다.`,
     });
 
     socket.on('disconnect', async () => {
+
       console.log('접속 해제');
-      socket.leave(roomId);
-      const currentRoom = socket.adapter.rooms[roomId];
-      const userCount = currentRoom ? currentRoom.length : 0;
-      await User.update({
+      
+      await chat.adapter.clients([roomId], (err, clients) => {
+        console.log('Now room count: ', clients.length);
+        if(err){
+          console.log(err);
+        } else{
+        if (clients.length === 0) {
+          axios.delete(`https://localhost:443/room/${roomId}`)
+            .then(() => {
+              console.log('방 제거 성공');
+            })
+            .catch((error) => {
+              console.error(error);
+            });
+        } else {
+          socket.to(roomId).emit('exit', {
+            user: 'system',
+            chat: `${user.id}님이 퇴장하셨습니다.`,
+          });
+        };
+      };
+      });
+  
+  
+      await User.deleteOne({
         user: req.session.color
-      }, {
-        $unset: {
-          room: 1
+      });
+
+      await req.session.destroy((err) =>{
+        if(err){
+          console.log('session Not Delete');
+          console.log(err); 
+        }
+        else{
+          console.log('session Delete sucess');
         }
       });
-      if (userCount === 0) {
-        axios.delete(`https://localhost:443/room/${roomId}`)
-          .then(() => {
-            console.log('방 제거 성공');
-          })
-          .catch((error) => {
-            console.error(error);
-          });
-      } else {
-        socket.to(roomId).emit('exit', {
-          user: 'system',
-          chat: `${user.id}님이 퇴장하셨습니다.`,
-        });
-
-      }
     });
   });
 
 
-function onNewNamespace(channel, sender) {
+// function onNewNamespace(channel, sender) {
  
-  io.of('/'+channel).on('connection', function (socket) {
-      
+  io.of('/channel').on('connection', function (socket) {
+      console.log('화상 채팅 접속')
       var username;
       if (io.isConnected) {
           io.isConnected = false;
@@ -117,7 +138,7 @@ function onNewNamespace(channel, sender) {
       socket.on('message', function (data) {
         
 
-          if (data.sender==sender) {
+          if (data.sender) {
               if(!username) username = data.data.sender;
               setTimeout(() => {
               socket.broadcast.emit('message', data.data);
@@ -126,7 +147,7 @@ function onNewNamespace(channel, sender) {
       });
       
       socket.on('disconnect', function() {
-          console.log('접속헤제');
+          console.log('화상 채팅 접속 해제')
           if(username) {
               socket.broadcast.emit('user-left', username);
               username = null;
@@ -134,6 +155,6 @@ function onNewNamespace(channel, sender) {
       });
   });
    
-}
+// }
 
 };

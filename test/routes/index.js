@@ -35,6 +35,7 @@ router.post('/main', async (req, res, next) => {
       return res.redirect('/');
     }
 
+
     await User.deleteMany({
       user: req.session.color
     });
@@ -125,7 +126,7 @@ router.get('/room/:id', async (req, res, next) => {
       room: room._id
     }).sort('createdAt');
 
-    await User.update({user: req.session.color}, { $set: { room: room._id }});
+    await User.updateOne({user: req.session.color}, { $set: { room: room._id }});
 
     const user = await User.find({
       user: req.session.color,
@@ -153,15 +154,10 @@ router.get('/room/:id', async (req, res, next) => {
 
 router.delete('/room/:id', async (req, res, next) => {
   try {
-    await Room.remove({
+    await Room.deleteOne({
       _id: req.params.id
     });
-    
-    await User.remove({
-      room: req.params.id,
-    });
-
-    await Chat.remove({
+    await Chat.deleteMany({
       room: req.params.id
     });
    

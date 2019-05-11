@@ -48,6 +48,7 @@ const sessionMiddleware = session({
     port: process.env.REDIS_PORT,
     pass: process.env.REDIS_PASSWORD,
     logErrors: true,
+    ttl: 3600,
    }),
 });
 
@@ -68,13 +69,12 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser(process.env.COOKIE_SECRET));
 if(process.env.NODE_ENV === 'production'){
   sessionMiddleware.proxy = true;
-  sessionMiddleware.cookie.secure = true;
+  sessionMiddleware.cookie.secure = false;
 }
 app.use(sessionMiddleware);
 
 
 app.use(flash());
-
 app.use((req, res, next) => {
   if (!req.session.color) {
     const colorHash = new ColorHash();
