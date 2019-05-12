@@ -309,7 +309,7 @@ var Meeting = function (socketioHost) {
         if(channel!='') channel='user/'+channel; 
         var namespace = _host + '/'+channel;
         var sckt = io.connect(namespace, {
-            path: '/socket.io'
+            transports: ['websocket']
           });
         return sckt;
     }
