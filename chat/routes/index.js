@@ -122,15 +122,12 @@ router.get('/room/:id', async (req, res, next) => {
 
     await User.update({user: req.session.color}, { $set: { room: room._id }});
 
-    const user = await User.find({
+    const user = await User.findOne({
       user: req.session.color,
-    }, {
-      lang: true,
-      _id: false,
     });
 
     return res.render('chat', {
-      findlang: user,
+      findlang: user.lang,
       room,
       title: room.title,
       chats,
@@ -169,61 +166,68 @@ async function uniqueLanguageFind(allLangs) {
   return targets;
 }
 
+var targets = ['ko', 'ja', 'en'];
 
-
-let translations = async function processtrans(allLangs, text) {
+let translations = async function processtrans(target, text) {
 
   // Creates a client
   const translate = new Translate({
-    projectId,
-    keyFilename,
+    // projectId,
+    // keyFilename,
   });
   
-  const alltargets = allLangs.map(e => { return e.lang; });
-  const targets = alltargets.filter((item, index) => alltargets.indexOf(item) === index); 
+  // const alltargets = allLangs.map(e => { return e.lang; });
 
 
-  let str = '';
-  for (const target of targets) {
-    str += '(' + target + ')' + '        ';
-    let [translations] = await translate.translate(text, target);
-    translations = Array.isArray(translations) ? translations : [translations];
-    str += translations + '        ';
-  }
-  return str;
+  // let str = '';
+  // for (const target of targets) {
+  //   str += '(' + target + ')' + '        ';
+  //   let [translations] = await translate.translate(text, target);
+  //   translations = Array.isArray(translations) ? translations : [translations];
+  //   str += translations + '        ';
+  // }
+  let [translations] = await translate.translate(text, target);
+  return translations;
 }
 
 
 router.post('/room/:id/chat', async (req, res, next) => {
 
   const room = await Room.findOne({ _id: req.params.id });
-
   const user = await User.findOne({
     user: req.session.color
   });
 
-
-  const allLangs = await User.find({ $and: [{ room: room._id }, {lang: { $ne: user.lang } } ]},  { lang:true, _id: false });
-
-  let chats = req.body.chat + '  ';
-
-  translations(allLangs, req.body.chat).then(function (result) {
-      chats += result;
+  // let chats = req.body.chat + '  ';
+  // console.log(targets.find(l=>{return l==user.lang}));
+  // if(targets.find(l => { return l == user.lang})==undefined)
+  // {
+  //   targets.push(user.lang);
+  // }
+  console.log(targets);
+  for(target of targets) {
+    result = await translations(target, req.body.chat);
+    try {
+      // chats += result;
       const chat = new Chat({
         room: req.params.id,
         user: req.session.color,
         id: user.id,
-        lang: user.lang,
-        chat: chats,
+        lang: target,
+        chat: result,
       });
-      return chat.save().catch((err) => console.err(err));
-    }).then((chat) => {
-      req.app.get('io').of('/chat').to(req.params.id).emit('chat', chat);
-      res.send('ok');
-    }).catch((error) => {
+      
+      await req.app.get('io').of('/chat').to(req.params.id).emit('chat', chat);
+      chat.save().catch((err) => console.err(err));
+
+    }
+    catch(error) {
         console.error(error);
         next(error);
-    });
+    }
+  }
+  
+  res.send('ok');
 
   });
 
