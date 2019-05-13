@@ -1,7 +1,7 @@
 'use strict';
 
 var meeting;
-var host = 'localhost'; // HOST_ADDRESS gets injected into room.ejs from the server side when it is rendered
+var host = '127.0.0.1'; // HOST_ADDRESS gets injected into room.ejs from the server side when it is rendered
 
 $( document ).ready(function() {
 	// console.log('address', host);
@@ -23,7 +23,7 @@ $( document ).ready(function() {
     		});
 
 			$("#localVideo").prop('muted', true);
-			$("#localVideo").prop('height', 400);
+			$("#localVideo").prop('height', 100);
 
 	    }
 	);
