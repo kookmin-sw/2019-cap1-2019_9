@@ -84,7 +84,7 @@ style='display:inline;float:left;
        font-weight: bold;
  }
 
- #exit-btn { position: absolute; top: 20px; right: 20px; text-decoration:none; color : #56baed;
+ #exit-btn { position: absolute; top: 20px; right: 20px; text-decoration:none; color : white;
  font-weight: bold; float:right;}
 
  #chat-list { min-width: 400px; height: 500px; overflow: auto; padding: 5px; }
@@ -173,7 +173,7 @@ style='display:inline;float:left;
     display: inline-block;
     position: absolute;
      background-color: white;
-     width: 500px;
+     width: 550px;
      height: 1000px;
      overflow: auto;
  }
