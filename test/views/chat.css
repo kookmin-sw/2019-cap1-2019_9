@@ -4,7 +4,7 @@ body {
   text-align: center;
   */
 
-  background :  papayawhip;
+  background :  #56baed;
   /* min-width: 1400px;
   min-height: 700px; */
 }
@@ -41,7 +41,7 @@ style='display:inline;float:left;
      position   : relative;
      top        : 0px;
      padding    : 1px;
-     background :  papayawhip;
+     background :  #56baed;
  }
 /*
  button{
@@ -57,7 +57,7 @@ style='display:inline;float:left;
 */
  #LoginButton{
      background : white;
-     color      : palevioletred;
+     color      : #56baed;
      font-size     : 15px;
      margin        : 2px;
      padding       : 0.25px 1px;
@@ -71,20 +71,20 @@ style='display:inline;float:left;
  #Input{
    padding       : 0.5px;
    margin        : 0.5px;
-   color         :palevioletred;
+   color         :#56baed;
    text-weight   : bold;
    background    : white;
-   border        : 2px solid palevioletred;
+   border        : 2px solid #56baed;
    border-radius : 3px;
  }
 
 
 .TEXT{
-       color : palevioletred;
+       color : #56baed;
        font-weight: bold;
  }
 
- #exit-btn { position: absolute; top: 20px; right: 20px; text-decoration:none; color : palevioletred;
+ #exit-btn { position: absolute; top: 20px; right: 20px; text-decoration:none; color : #56baed;
  font-weight: bold; float:right;}
 
  #chat-list { min-width: 400px; height: 500px; overflow: auto; padding: 5px; }
