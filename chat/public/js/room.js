@@ -72,10 +72,10 @@ function removeRemoteVideo(participantID) {
 
 function adjustVideoSize() {
 	var numOfVideos = $(".videoWrap").length; 
-	if (numOfVideos>1) {
-		var $container = $(window);
+	if (numOfVideos>0) {
+		var $container = $("#faceCall");
 		var numOfColumns=numOfVideos;
-		if(numOfColumns>3) numOfColumns=3;
+		if(numOfColumns>2) numOfColumns=2;
 		var newWidth, newHeight;
 		newWidth = $container.width()/numOfColumns;
 		
