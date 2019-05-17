@@ -9,7 +9,7 @@ module.exports = () => {
       mongoose.set('debug', true);
     }
     mongoose.connect(MONGO_URL,  {
-      dbName: 'speechchat5',
+      dbName: 'speechchat3',
     }, (error) => {
       if (error) {
         console.log('몽고디비 연결 에러', error);
@@ -30,5 +30,4 @@ module.exports = () => {
 
   require('./chat');
   require('./room');
-  require('./user');
 };

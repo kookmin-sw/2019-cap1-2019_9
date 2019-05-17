@@ -5,26 +5,24 @@ const cookieParser = require('cookie-parser');
 const cookie = require('cookie-signature');
 const User = require('./schemas/user');
 
-// 예를 들어 현재 socket.id 즉 현재클러스터에 요청을 보내야하는데 binding을 안하면
-// 다른 socket.id로 요청이 들어갈 수 있다. 그것을 방지하기 위해
-// binding 해준다.
-// SocketIO는 서버 인스턴스 간의 연결을 추적하기 위해 신속한 키 값 저장소 redis를 사용해야한다.
 
 const bindListeners = (io) => {
   io.on('connection', (socket) => {
     console.log(`${socket.id} connected`);
-    
+
   })
 }
 
 
 module.exports = (server, app, sessionMiddleware) => {
   const io = SocketIO(server, {
+    transports: ['websocket']
   });
   app.set('io', io);
 
   const room = io.of('/room');
   const chat = io.of('/chat');
+  const root = io.of('/');
   io.adapter(redis({
     host: process.env.REDIS_HOST,
     port: process.env.REDIS_PORT,
@@ -37,22 +35,15 @@ module.exports = (server, app, sessionMiddleware) => {
   io.use((socket, next) => {
     sessionMiddleware(socket.request, socket.request.res || {}, next);
   });
-  
- 
-  
+
+
 
 
 
   room.on('connection', async (socket) => {
     console.log('room 네임스페이스에 접속');
-    
-    // const req = socket.request;
-    // const user = await User.findOne({
-    //   user: req.session.color
-    // });
 
-    // onNewNamespace('channel', user.id);
-    
+
     socket.on('disconnect', () => {
       console.log('room 네임스페이스 접속 해제');
     });
@@ -64,18 +55,16 @@ module.exports = (server, app, sessionMiddleware) => {
 
 
     const req = socket.request;
-    console.log(req.session);
     const user = await User.findOne({
       user: req.session.color
     });
+
     const roomId = user.room;
-    // await socket.join(roomId);  
     chat.adapter.remoteJoin(socket.id, roomId, (err) => {
-      if (err){
+      if (err) {
         console.log(err);
       } 
     });
-  
     socket.to(roomId).emit('join', {
       user: 'system',
       chat: `${user.id}님이 입장하셨습니다.`,
@@ -124,37 +113,51 @@ module.exports = (server, app, sessionMiddleware) => {
     });
   });
 
-
-// function onNewNamespace(channel, sender) {
- 
-  io.of('/channel').on('connection', function (socket) {
-      console.log('화상 채팅 접속')
-      var username;
-      if (io.isConnected) {
-          io.isConnected = false;
-          socket.emit('connect', true);
+  root.on('connection', async function (socket) {
+    function log() {
+      var array = [">>> Message from server: "];
+      for (var i = 0; i < arguments.length; i++) {
+        array.push(arguments[i]);
       }
+      socket.emit('log', array);
+    }
 
-      socket.on('message', function (data) {
-        
+    socket.on('message', function (message) {
+      log('Got message: ', message);
+      socket.broadcast.to(socket.room).emit('message', message);
+    });
 
-          if (data.sender) {
-              if(!username) username = data.data.sender;
-              setTimeout(() => {
-              socket.broadcast.emit('message', data.data);
-          },500);
+    socket.on('create or join', async function (message) {
+      var room = message.room;
+
+      socket.room = room;
+      var participantID = message.from;
+      // configNameSpaceChannel(participantID);
+
+      await root.adapter.remoteJoin(socket.id, socket.room, (err) => {
+        if (err) {
+          console.log(err);
         }
       });
-      
-      socket.on('disconnect', function() {
-          console.log('화상 채팅 접속 해제')
-          if(username) {
-              socket.broadcast.emit('user-left', username);
-              username = null;
-          }
+      await root.adapter.clients([room], (err, clients) => {
+        console.log('Now root room count: ', clients.length);
+        var numClients = clients.length;
+        if (numClients == 1) {
+          socket.emit('created', room);
+        } else {
+          root.to(room).emit('join', room);
+          socket.emit('joined', room);
+        }
       });
-  });
-   
-// }
+    });
 
+  });
+  io.of(/^\/user\/[a-f0-9\-]+/).on('connection', function (socket) {
+    socket.on('message', function (message) {
+      // Send message to everyone BUT sender
+      // console.log('num client :', Object.keys(socketNamespace.clients()).length);
+      socket.broadcast.emit('message', message);
+      // console.log('broadcast :', socket.nsp.name, message.type, message.from, message.dest);
+    });
+  });
 };

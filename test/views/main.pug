@@ -30,7 +30,9 @@ block content
   script(src='/RTCPeerConnection-v1.5.js')
   script(src='/conference.js')
   script.
-    var socket = io.connect('https://localhost:443/room');
+     var socket = io.connect('https://localhost:443/room', {
+       transports: [ 'websocket']
+    });
     
     socket.on('newRoom', function (data) {
       var tr = document.createElement('tr');
