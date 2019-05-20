@@ -56,9 +56,16 @@ function addRemoteVideo(stream, participantID) {
     adjustVideoSize();
 
 }
+
 function removeRemoteVideo(participantID) {
-    $("#"+participantID).remove();
-    adjustVideoSize();
+	// $("#"+participantID).remove();
+	var $remove = $("#"+participantID);
+	if($(".videoWrap").last().attr('id')!=participantID) {
+		$remove.before($(".videoWrap").last());
+	}
+	
+	$remove.remove();
+	adjustVideoSize();
 }
 function adjustVideoSize() {
     var numOfVideos = $(".videoWrap").length;
