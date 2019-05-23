@@ -2,13 +2,13 @@
 
 /* BASIC */
 
-html {
-  background-color: #56baed;
-}
 
 body {
+  background-image:url('/chaback1.png') ;
+  background-size: cover;
   font-family: "Poppins", sans-serif;
   height: 100vh;
+
 }
 
 a {

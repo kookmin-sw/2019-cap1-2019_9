@@ -2,58 +2,26 @@ body {
     /*
     text-align: center;
     */
-  
-    background :  #56baed;
+
+    /* background :  #56baed; */
+      background-image:url('/chaback2.png') ;
+
+      background-size: cover;
     /* min-width: 1400px;
     min-height: 700px; */
+
+         text-align: center;
+         color: #FFF;
   }
   p {
     text-align: center;
   }
-   /*로 시작하여
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  
-  #heading { color: teal; text-decoration: line-through; }
-   .headings { color: lime; text-decoration: overline; }
-   */
-  
-  /*
-  가로 배치
-  style='display:inline;float:left;
-  <div style='display:inline;min-width:1200px;'><!--빨간 부분-->
-  
-  <div style='display:inline;float:left;width:200px'></div> <!--파란부분-->
-  
-  
-  
-  <div style='display:inline;float:left;width:1000px'></div> <!--연두부분 -->
-  
-  </div>
-  
-  
-  */
    #Wrapper {
        position   : relative;
        top        : 0px;
        padding    : 1px;
        background :  #56baed;
    }
-  /*
-   button{
-       background : white;
-       color      : palevioletred;
-  
-       font-size     : 5px;
-       margin        : 2px;
-       padding       : 0.25px 1px;
-       border        : 5px solid palevioletred;
-       border-radius : 4px;
-   }
-  */
    #LoginButton{
        background : white;
        color      : #56baed;
@@ -66,7 +34,7 @@ body {
        width : 50px;
        height : 35px;
    }
-  
+
    #Input{
      padding       : 0.5px;
      margin        : 0.5px;
@@ -76,19 +44,19 @@ body {
      border        : 2px solid #56baed;
      border-radius : 3px;
    }
-  
-  
+
+
   .TEXT{
          color : #56baed;
          font-weight: bold;
    }
-  
+
    #exit-btn { position: absolute; top: 20px; right: 20px; text-decoration:none; color : white;
    font-weight: bold; float:right;}
-  
+
    #chat-list { min-width: 400px; height: 900px; overflow: auto; padding: 5px; }
    #chat-form { text-align: right; }
-  
+
    * { box-sizing: border-box; }
    .mine { text-align: right; }
    .system { text-align: center; }
@@ -107,8 +75,8 @@ body {
        padding: 2px 5px;
        max-width: 300px;
    }
-  
-  
+
+
    #chat-form { text-align: right; }
    label[for='gif'], #chat, #chat-form [type='submit'] {
        display: inline-block;
@@ -117,18 +85,14 @@ body {
    }
    label[for='gif'] { cursor: pointer; padding: 5px; }
    #gif { display: none; }
-  
+
    /* table, table th, table td {
        text-align: center;
        border: 1px solid silver;
        border-collapse: collapse;
    } */
-  
-  
-   body {
-       text-align: center;
-       color: #FFF;
-   }
+
+
    div#wapper {
        position: relative;
        width: 100%;
@@ -185,7 +149,7 @@ body {
        margin: 20px;
        background-color: #999;
    }
-  
+
   @media (max-width : 90%){
-  
+
   }

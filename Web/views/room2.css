@@ -3,10 +3,15 @@
 /* BASIC */
 
 html {
-  background-color: #56baed;
+  /* background-color: #56baed; */
+
 }
 
 body {
+  background-image:url('/chaback2.png') ;
+  background-size: cover;
+
+
   font-family: "Poppins", sans-serif;
   height: 100vh;
 }
@@ -17,7 +22,7 @@ h2 {
   font-weight: 600;
   text-transform: uppercase;
   display:inline-block;
-  margin: 40px 8px 10px 8px; 
+  margin: 40px 8px 10px 8px;
   color: #cccccc;
 }
 
@@ -32,7 +37,7 @@ h5 {
 .wrapper {
   display: flex;
   align-items: center;
-  flex-direction: column; 
+  flex-direction: column;
   justify-content: center;
   width: 100%;
   min-height: 100%;
@@ -155,7 +160,7 @@ input[type=text], input[type=password] {
 
 input[name=title]:placeholder {
   color: #cccccc;
-  
+
 }
 option[value='']{
    text-align: center;
@@ -300,7 +305,7 @@ input[type=text]:placeholder {
 
 *:focus {
     outline: none;
-} 
+}
 
 #icon {
   width:60%;

@@ -1,10 +1,13 @@
-/*main2.css로 변경*/
+
+
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
 
+
 @font-face {
   font-family: OpenSans-Regular;
+
   src: url('../fonts/OpenSans/OpenSans-Regular.ttf');
 }
 
@@ -21,6 +24,8 @@
 body, html {
 	height: 100%;
 	font-family: sans-serif;
+  background-image: url('chaback2.png');
+  background-size: cover;
 }
 
 /* ------------------------------------ */
@@ -139,7 +144,7 @@ iframe {
 .container-table100 {
   width: 100%;
   min-height: 100vh;
-  background: #56baed;
+  /* background: #56baed; */
 
   display: -webkit-box;
   display: -webkit-flex;
