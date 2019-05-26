@@ -3,6 +3,9 @@ html
     meta(charset='utf-8')
     style
       include chat.css
+      
+      
+
 
 block content
   h1= title
@@ -14,46 +17,73 @@ block content
   link(rel='sytlesheet', type='text/css', href='/css/room.css', media='screen')
   style
     #videosWrapper {vertical-aligin : middle;}
-  a#exit-btn(href='/') EXIT
   
+  div(class="col-md-3 col-sm-3 col-xs-6")   
+    a#exit-btn(href='/' class="btn btn-sm animated-button victoria-two"  style="width: 150px; " ) EXIT
+  //-    
+    div(class="button-8")   
+      div(class="eff-8")   
+      a(href='/' id="ast") EXIT
+    
   div(id='wapper')
     section(id="faceCall")
-        p(class='TEXT') CAM
+        
           div(class='container')
             div(id='videos')
               div(id='videosWrapper', style='{display: table; width: 100%;}')
                 div(id='localVideoWrap', class='videoWrap', style='{ display: table-cell; vertical-align: middle;}')
                   video(class='videoBox', id='localVideo', autoplay)
       
-    aside
-        p.TEXT CHAT
-        #chat-list
-          for chat in chats
-            if chat.user === user
-              .mine(style='color:' + chat.user)
-                div= chat.id
-                if chat.gif
-                  img(src='/gif/' + chat.gif)
-                else
-                  div= chat.chat
-            else if chat.user === 'system'
-              .system
+    div.bfaside
+        
+      div#chat-list
+        .mine2( style='height = 61px; background-color:none;')
+          div(class="wrap")
+            form#record-form(action='/download' method='get')  
+              button(type='submit' class="button1") Chat Record
+        
+        for chat in chats
+          if chat.user === user
+            .mine(style='color:' + chat.user)
+              
+              div= chat.id
+              if chat.gif
+                img(src='/gif/' + chat.gif)
+              else
+                div(class="b")
                 div= chat.chat
-            else
-              .other(style='color:' + chat.user)
-                div= chat.id
-                if chat.gif
-                  img(src='/gif/' + chat.gif)
-                else
-                  div= chat.chat
-
-
-    footer
-      form#chat-form(action='/chat' method='post' enctype='multipart/form-data')
-        label(for='gif') GIF Upload
-        input#gif(type='file' name='gif' accept='image/gif')
-        input#chat(name='chat')
-        button(type='submit') Submit
+            .blank  
+            .clear
+          else if chat.user === 'system'
+            .system(style="color:black;")
+              div= chat.chat
+          else 
+            
+            .other(style='color:' + chat.user)
+              div(id="circle1" style='background-color:'+chat.user) #{chat.id}
+            
+              
+              if chat.gif
+                img(src='/gif/' + chat.gif)
+              else
+                div(class="a")
+                div= chat.chat
+            .blank
+            .clear
+              //-
+                div(class="profile_image" style ="background: url(./profile_image.png) no-repeat;" )
+                div(class="box")
+                  div(class= "profile_name") name
+                  div(class ="a")
+                  div(class="b") msg
+                  div(class="time") time
+                div(class="clear")
+      div( class="iplayout")
+          form#chat-form(class="size" action='/chat' method='post' enctype='multipart/form-data')
+            input#gif(type='file' name='gif' accept='image/gif')
+            input#chat(name='chat' class="leftlayout" style="height:7vh; width:450px; font-size:20px;" placeholder="Type your Message")
+            button(type='submit' class="rightlayout" style="height:7vh; width:50px;") 
+              p Submit
         
   script(src='/socket.io/socket.io.js')
   script(src='/annyang.js')
@@ -126,23 +156,55 @@ block content
       //올라온 채팅이 내가 말한 내용이면 우측에 아니면 좌측에 게시
       if (data.user === '#{user}') {
         div.classList.add('mine');
-      } else {
-        div.classList.add('other');
+      } 
+      else {
+        
+       div.classList.add('other');  
+       
+       var circle = document.createElement('div');
+       circle.classList.add('circle1');
+       circle.style.color="white";
+       circle.style.backgroundColor= data.user;       
+       div.appendChild(circle);
+       circle.innerHTML = data.id;
       }
-      var name = document.createElement('div');
-      name.textContent = data.id;
-      div.appendChild(name);
-      if (needchat) {
+      
+      
+      //말꼬리 추가 
+      //내가 말할때
+      if (data.user === '#{user}') {
+        var tail1 = document.createElement('div');
+        tail1.classList.add('b');
+        div.appendChild(tail1);
+      }
+      //남이 말할때
+      else {
+        var tail2 = document.createElement('div');
+        tail2.classList.add('a');
+        div.appendChild(tail2);
+      }
+      
+      if (needchat) {        
         var chat = document.createElement('div');
         chat.textContent = needchat;
         div.appendChild(chat);
-      } else {
+
+      } 
+      else {
         var gif = document.createElement('img');
         gif.src = '/gif/' + data.gif;
         div.appendChild(gif);
       }
+      
       div.style.color = data.user;
       document.querySelector('#chat-list').appendChild(div);
+      //빈칸 추가
+      var oneblank = document.createElement('div');
+      oneblank.className="blank";
+      div.parentNode.appendChild(oneblank);
+      var oneclear = document.createElement('div');
+      oneclear.className="clear";
+      div.parentNode.appendChild(oneclear);
       document.querySelector('#chat-list').scrollTop = document.querySelector('#chat-list').scrollHeight;
     });
 
