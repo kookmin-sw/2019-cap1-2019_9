@@ -3,7 +3,8 @@ html
     meta(charset='utf-8')
     style
       include chat.css
-      
+    script(src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js")
+    script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js")
       
 
 
@@ -35,49 +36,54 @@ block content
                   video(class='videoBox', id='localVideo', autoplay)
       
     div.bfaside
-        
-      div#chat-list
-        .mine2( style='height = 61px; background-color:none;')
-          div(class="wrap")
-            form#record-form(action='/download' method='get')  
-              button(type='submit' class="button1") Chat Record
-        
-        for chat in chats
-          if chat.user === user
-            .mine(style='color:' + chat.user)
-              
-              div= chat.id
-              if chat.gif
-                img(src='/gif/' + chat.gif)
-              else
-                div(class="b")
+      aside    
+        div#chat-list
+          .mine2( style=' background-color:none; ')  
+            div(class="wrap")
+              form#record-form(action='/download' method='get')  
+                button(type='submit' class="button1") Chat Record
+          
+          for chat in chats
+            if chat.user === user 
+              .mine(style='color:' + chat.user)
+                if chat.user.length >= 6 
+                  div= chat.id.substr(0,3)
+                else
+                  div= chat.id
+                if chat.gif
+                  img(src='/gif/' + chat.gif)
+                else
+                  div(class="b")
+                  div= chat.chat
+              .blank  
+              .clear
+            else if chat.user === 'system'
+              .system(style="color:black;")
                 div= chat.chat
-            .blank  
-            .clear
-          else if chat.user === 'system'
-            .system(style="color:black;")
-              div= chat.chat
-          else 
-            
-            .other(style='color:' + chat.user)
-              div(id="circle1" style='background-color:'+chat.user) #{chat.id}
-            
+            else 
+              .other(style='color:' + chat.user)
+                if chat.user.length >= 6 
+                  div(id="circle1" style='font-size:15px; background-color:'+chat.user) #{chat.id.substr(0,3)}
+                  
+                else
+                  div(id="circle1" style='background-color:'+chat.user) #{chat.id}
               
-              if chat.gif
-                img(src='/gif/' + chat.gif)
-              else
-                div(class="a")
-                div= chat.chat
-            .blank
-            .clear
-              //-
-                div(class="profile_image" style ="background: url(./profile_image.png) no-repeat;" )
-                div(class="box")
-                  div(class= "profile_name") name
-                  div(class ="a")
-                  div(class="b") msg
-                  div(class="time") time
-                div(class="clear")
+                
+                if chat.gif
+                  img(src='/gif/' + chat.gif)
+                else
+                  div(class="a")
+                  div= chat.chat
+              .blank
+              .clear
+                //-
+                  div(class="profile_image" style ="background: url(./profile_image.png) no-repeat;" )
+                  div(class="box")
+                    div(class= "profile_name") name
+                    div(class ="a")
+                    div(class="b") msg
+                    div(class="time") time
+                  div(class="clear")
       div( class="iplayout")
           form#chat-form(class="size" action='/chat' method='post' enctype='multipart/form-data')
             input#gif(type='file' name='gif' accept='image/gif')
@@ -165,8 +171,17 @@ block content
        circle.classList.add('circle1');
        circle.style.color="white";
        circle.style.backgroundColor= data.user;       
+       circle.style.fontSize="15px";
        div.appendChild(circle);
-       circle.innerHTML = data.id;
+       
+       //긴 닉네임 자르기 
+       if(data.id.length >=6){
+         circle.innerHTML = data.id.substr(0,3);
+         
+       }
+       else{
+         circle.innerHTML = data.id;
+       }
       }
       
       
