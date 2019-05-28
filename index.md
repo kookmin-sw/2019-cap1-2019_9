@@ -25,7 +25,7 @@
  
 - 박지훈(팀장)
 
- ![team](./image/Jihoon.jpg)
+<img src="./image/Jihoon.jpg" height=250></img>
  
  ```
  * 학번: 20133226
@@ -36,7 +36,7 @@
 <br> 
 - 고준규
  
- ![team](./image/Joonkyu.jpg)
+<img src="./image/Joonkyu.jpg" height=250></img>
  
   ```
  * 학번: 20133191
@@ -47,7 +47,7 @@
 <br>    
 - 공병민
  
- ![team](./image/Byungmin.jpg)
+<img src="./image/Byungmin.jpg" height=250></img>
  
  ```
  * 학번: 20143029
@@ -58,7 +58,8 @@
  <br> 
 - 최창규
  
- ![team](./image/Changgyu.jpg)
+<img src="./image/Changgyu.jpg" height=250></img>
+
  ```
  * 학번: 20143110
  * 역할: 화상통화 백엔드 서버 개발
@@ -68,7 +69,7 @@
 <br>  
 - 박귀환
  
- ![team](./image/Gwihwan.jpg)
+<img src="./image/Gwihwan.jpg" height=250></img>
 
  ```
  * 학번: 20132872
@@ -79,7 +80,8 @@
 <br>  
 - 오석현
  
- ![team](./image/Seokhyun.jpg)
+<img src="./image/Seokhyun.jpg" height=250></img>
+
  ```
  * 학번: 20130671
  * 역할: 웹 개발 & 유저 인터페이스 구현
