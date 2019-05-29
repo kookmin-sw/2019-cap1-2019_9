@@ -1,0 +1,726 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Poppins&display=swap');
+  /* font-family: 'Playfair Display', serif; */
+  /* font-family: 'Poppins', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Lato:100');
+  /* font-family: 'Lato', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+  /* font-family: 'Courgette', cursive; */
+@import url('https://fonts.googleapis.com/css?family=Cute+Font&display=swap');
+  /* font-family: 'Cute Font', cursive; */
+/* BASIC */
+
+body {
+  background: rgba(0,0,0,0.85);
+  background-size: cover;
+  z-index: -1;
+  background-size: cover;
+  max-height: 100%;
+  max-width: 100%;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+  margin-right:0px;
+  overflow:hidden;
+}
+h1.title {
+  text-align: center;
+  font-weight: 900;
+  font-size:64px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: white;
+}
+h2.active {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display:inline-block;
+  margin-top:40px;
+  /* margin-left:-10px; */
+  color: #cccccc;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  text-align: center;
+}
+h3.notice{
+  text-align: left;
+  font-size: 30px;
+  font-weight: 600;
+  display:inline-block;
+  margin: 1px 8px 10px 8px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+h4{
+  font-family: 'Playfair Display', serif;
+  margin-bottom: -2px;
+  text-align:left;
+  font-size:20px;
+  color:white;
+}
+h5.title{
+  font-size: 32px;
+  color: white;
+  text-align:center;
+  margin-top: 0px;
+  margin-bottom:0px;
+  text-align: center;
+  border-top: 3px solid #999;
+  font-family: 'Courgette', cursive;
+  font-weight: 100;
+}
+h6{
+  font-size: 20px;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+/* review 아이디 */
+review{
+  font-size: 16px;
+  font-weight: 1000;
+  font-family: 'Poppins', sans-serif;
+
+}
+/* review comments */
+review_comments{
+  font-family: 'Cute Font', cursive;
+  font-weight:100;
+  font-size: 22px;
+}
+/* STRUCTURE */
+div#wapper {
+  position: absolute;
+  width: 100%;
+  text-align: left;
+  height: auto;
+  margin: 0 auto;
+}
+div.comment{
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 10px;
+}
+.hidden {
+  display:none;
+  visibility:hidden;
+}
+
+label{
+  text-align:left;
+  font-size: 20px;
+  color:white;
+}
+label:hover{
+  font-size:22px;
+  color: gray;
+}
+aside, section {
+  margin: 5px;
+  padding: 10px;
+  float: left;
+  height:200px;
+}
+aside{
+  display: inline-block;
+  position: absolute;
+  width: 40%;
+}
+section{
+    margin-top:80px;
+    width: 60%;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  padding: 20px;
+}
+.wrapper2{
+  margin-top: 50px;
+  display: flex;
+  background-color: rgba( 255, 255, 255, 0.03 );
+  flex-direction: column;
+  width: 350px;
+  min-height: 100%;
+  padding: 20px;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* 버튼으로 사용할 라벨 디자인 */
+.button {
+  font-size:19px;
+  font-weight:600;
+  vertical-align:middle;
+  cursor:pointer;
+}
+
+
+/* 버튼 */
+
+
+.wrap {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: center;
+  display: flex;
+}
+
+.button1 {
+  width: 140px;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  /* background-color: #FFF; */
+  background-color: rgba( 255, 255, 255, 0.3 );
+  border: none;
+  border-radius: 45px;
+  /* box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); */
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+  }
+
+.button1:hover {
+  background-color: #FFF;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
+  color: #000;
+  transform: translateY(-7px);
+}
+
+/* How to login 디자인 */
+.box_modal1 {
+  position:fixed;
+  display:block;
+  width:650px;
+  height:280px;
+  top:50%;
+  left:50%;
+  margin-top:-100px;
+  margin-left:-300px;
+  background-color:#ece6cc;
+  border:1px solid #386980;
+  overflow:hidden;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+
+.error-message { color: red; font-weight: bold; }
+
+
+/* how to login 디자인 */
+.box_modal2 {
+  position:fixed;
+  display:block;
+  width:406px;
+  height:429px;
+  top:50%;
+  left:50%;
+  margin-top:-200px;
+  margin-left:-150px;
+  background-image:url('/loginPart/login.png');
+  background-repeat: no-repeat;
+  border:1px solid #386980;
+  overflow:hidden;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+/* how to enter room 디자인 */
+.box_modal5 {
+  position:fixed;
+  display:block;
+  width:1001px;
+  height:569px;
+  top:50%;
+  left:50%;
+  margin-top:-250px;
+  margin-left:-450px;
+  background-image:url('/loginPart/enterroom.png');
+  background-repeat: no-repeat;
+  border:1px solid #386980;
+  overflow:hidden;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+/* how to make room 디자인 */
+.box_modal6 {
+  position:fixed;
+  display:block;
+  width:691px;
+  height:310px;
+  top:50%;
+  left:50%;
+  margin-top:-150px;
+  margin-left:-330px;
+  background-image:url('/loginPart/makeroom.png');
+  background-repeat: no-repeat;
+  /* background:#d9e5e9; */
+  border:1px solid #386980;
+  overflow:hidden;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+
+/* how to chat 디자인 */
+.box_modal4 {
+  position:fixed;
+  display:block;
+  width:451px;
+  height:669px;
+  top:50%;
+  left:50%;
+  margin-top:-300px;
+  margin-left:-230px;
+  background-image:url('/loginPart/chat.png');
+  background-repeat: no-repeat;
+  border:1px solid #386980;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+
+/* how to record 디자인 */
+.box_modal7 {
+  position:fixed;
+  display:block;
+  width:558px;
+  height:245px;
+  top:50%;
+  left:50%;
+  margin-top:-200px;
+  margin-left:-230px;
+  background-image:url('/loginPart/review.png');
+  background-repeat: no-repeat;
+  border:1px solid #386980;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+.comment{}
+/* advantage 디자인 */
+.box_modal3 {
+  position:fixed;
+  display:block;
+  width:800px;
+  height:700px;
+  top:50%;
+  left:50%;
+  margin-top:-350px;
+  margin-left:-350px;
+  overflow:scroll;
+  background-color: #d9e5e9;
+  border:1px solid #386980;
+  border-radius: 10px 10px 10px 10px;
+  /* 아래 부분은 애니메이션 효과를 위한 부분 */
+  visibility: collapse;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: scale(0, 0);
+  -ms-transform: scale(0, 0);
+  transform: scale(0, 0);
+}
+
+/* 닫기 버튼으로 사용할 라벨 */
+.closer {
+  position:absolute;
+  width:30px;
+  height:30px;
+  top:0;
+  right:0;
+  background:#eee;
+  border-left:1px solid #386980;
+  border-bottom:1px solid #386980;
+  text-align:center;
+  line-height:26px;
+  font-size:16x;
+  cursor:pointer;
+}
+.text {
+  display:inline-block;
+  padding:20px;
+}
+.text h3 {
+  font-size:19px;
+  margin:0;
+}
+.text p {
+  font-size:13px;
+}
+/* 윈도우가 팝업되는 코어 소스 */
+input#modal1[type=checkbox]:checked ~ .box_modal1 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal2[type=checkbox]:checked ~ .box_modal2 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal3[type=checkbox]:checked ~ .box_modal3 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal4[type=checkbox]:checked ~ .box_modal4 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal5[type=checkbox]:checked ~ .box_modal5 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal6[type=checkbox]:checked ~ .box_modal6 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+input#modal7[type=checkbox]:checked ~ .box_modal7 {
+  visibility: visible;
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+#formContent {
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  background: #fff;
+  padding: 30px;
+  width: 90%;
+  max-width: 450px;
+  position: relative;
+  padding: 0px;
+  -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+  box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+  text-align: center;
+}
+/* TABS */
+
+#myVideo{
+  position:absolute;
+  top: 0px;
+  left: 0px;
+  min-width: 100%;
+  min-height: 300%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  overflow: hidden;
+  opacity: 0.5;
+}
+
+/* FORM TYPOGRAPHY*/
+button[type=submit]{
+  background-color: rgba( 255, 255, 255, 0.3 );
+  border: none;
+  color: black;
+  /* padding: 15px 80px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+  /* -webkit-box-shadow: 0 10px 30px 0 rgba(217,229,233,0.2); */
+  /* box-shadow: 0 10px 30px 0 rgba(217,229,233,0.2); */
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  /* margin: 5px 20px 20px 20px; */
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type=button], input[type=submit]  {
+  background-color: #d9e5e9;
+  border: none;
+  color: white;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+  -webkit-box-shadow: 0 10px 30px 0 rgba(217,229,233,0.2);
+  box-shadow: 0 10px 30px 0 rgba(217,229,233,0.2);
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  margin: 5px 20px 40px 20px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
+  background-color: #d9e5e9;
+}
+
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
+  -moz-transform: scale(0.95);
+  -webkit-transform: scale(0.95);
+  -o-transform: scale(0.95);
+  -ms-transform: scale(0.95);
+  transform: scale(0.95);
+}
+
+input[type=text] {
+  background-color: rgba( 255, 255, 255, 0.3 );
+  border: none;
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 85%;
+  /* border: 2px solid #f6f6f6; */
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+select[name=lang]{
+  background-color: rgba( 255, 255, 255, 0.3 );
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 85%;
+  border: transparent;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+select[name=list]{
+  background-color: #f6f6f6;
+  border: none;
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 85%;
+  border: 2px solid #f6f6f6;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+input[type=text]:focus {
+  background-color: #fff;
+  /* border-bottom: 2px solid #5fbae9; */
+}
+
+input[type=text]:placeholder {
+  color: #cccccc;
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+}
+
+/* ANIMATIONS */
+
+/* Simple CSS3 Fade-in-down Animation */
+.fadeInDown {
+  -webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+/* Simple CSS3 Fade-in Animation */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes    fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes         fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fadeIn {
+  opacity:0;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+.fadeIn.second {
+  -webkit-animation-delay: 0.6s;
+  -moz-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+/* Simple CSS3 Fade-in Animation */
+.underlineHover:after {
+  display: block;
+  left: 0;
+  bottom: -10px;
+  width: 0;
+  height: 2px;
+  background-color: #d9e5e9;
+  content: "";
+  transition: width 0.2s;
+}
+
+.underlineHover:hover {
+  color: #0d0d0d;
+}
+
+.underlineHover:hover:after{
+  width: 100%;
+}
+
+/* OTHERS */
+
+*:focus {
+    outline: none;
+}
+
+#icon {
+  width:60%;
+}
+
+* {
+  box-sizing: border-box;
+}
+.leftlayout{
+  border: 0px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.rightlayout
+{
+   background-color: #ffec42;
+  position:relative;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   text-align: center;
+   display: table;
+   cursor: pointer;
+   vertical-align: middle;
+   display: table-cell;
+   bottom:3px;
+   border-top-right-radius: 20px; border-bottom-right-radius: 20px;
+   height:57px; width:50px;
+}
